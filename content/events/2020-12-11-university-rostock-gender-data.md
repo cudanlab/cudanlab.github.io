@@ -3,7 +3,7 @@ bookHidden: true
 event:
   start: 2020-12-11T09:30:00-00:00
   end: 2020-12-11T12:13:00-00:00
-title: "2020-12-11 CUDAN@ University of Rostock"
+title: "CUDAN@ University of Rostock"
 ---
 
 **When:** 2020-12-11 09:30-13:00 (Tallinn time)  
