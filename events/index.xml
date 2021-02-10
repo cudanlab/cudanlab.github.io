@@ -2,16 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on CUDAN Open Lab</title>
-    <link>/events/</link>
+    <link>https://cudan.tlu.ee/events/</link>
     <description>Recent content in Events on CUDAN Open Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cudan.tlu.ee/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deb Verhoeven – Kinomatics: Big Data goes to the Movies</title>
-      <link>/events/2021-02-08-deb-verhoeven-cudan-lecture/</link>
+      <title>CUDAN@ Northwestern Institute on Complex Systems (NICO)</title>
+      <link>https://cudan.tlu.ee/events/2021-01-13-northwestern-institute-complexity-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/2021-02-08-deb-verhoeven-cudan-lecture/</guid>
+      <guid>https://cudan.tlu.ee/events/2021-01-13-northwestern-institute-complexity-systems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; 2021-01-13 20.00 – 21.00 Tallinn time&lt;br&gt;
+&lt;strong&gt;Where:&lt;/strong&gt; Northwestern Institute on Complex Systems (online)&lt;/p&gt;
+&lt;p&gt;The event is public via zoom: &lt;a href=&#34;https://northwestern.zoom.us/j/93906874654&#34;&gt;https://northwestern.zoom.us/j/93906874654&lt;/a&gt;
+Websites: &lt;a href=&#34;https://www.nico.northwestern.edu/news-events/events/?eid=571197&#34;&gt;https://www.nico.northwestern.edu/news-events/events/?eid=571197&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deb Verhoeven – Kinomatics: Big Data goes to the Movies</title>
+      <link>https://cudan.tlu.ee/events/2021-02-08-deb-verhoeven-cudan-lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cudan.tlu.ee/events/2021-02-08-deb-verhoeven-cudan-lecture/</guid>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; 2021-02-08 10:00-12:00 (Tallinn time)&lt;br&gt;
 &lt;strong&gt;Where:&lt;/strong&gt; CUDAN Open Lab (online)&lt;/p&gt;
 &lt;p&gt;The event is public via zoom: &lt;a href=&#34;https://zoom.us/j/94858442274X&#34;&gt;https://zoom.us/j/94858442274X&lt;/a&gt;&lt;br&gt;
@@ -20,10 +32,10 @@ Websites: &lt;a href=&#34;https://debverhoeven.com/&#34;&gt;https://debverhoeven
     
     <item>
       <title>Deb Verhoeven – Kinomatics: Big Data goes to the Movies</title>
-      <link>/events/test123/</link>
+      <link>https://cudan.tlu.ee/events/test123/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/test123/</guid>
+      <guid>https://cudan.tlu.ee/events/test123/</guid>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; 2021-02-08 10:00-12:00 (Tallinn time)&lt;br&gt;
 &lt;strong&gt;Where:&lt;/strong&gt; CUDAN Open Lab (online)&lt;/p&gt;
 &lt;p&gt;The event is public via zoom: &lt;a href=&#34;https://zoom.us/j/94858442274X&#34;&gt;https://zoom.us/j/94858442274X&lt;/a&gt;&lt;br&gt;
@@ -32,10 +44,10 @@ Websites: &lt;a href=&#34;https://debverhoeven.com/&#34;&gt;https://debverhoeven
     
     <item>
       <title>Lab encounter with members of the Social Complexity Lab and Sune Lehmann at DTU/SODAS in Copenhagen, Denmark</title>
-      <link>/events/2021-02-01-suhne-lehmann/</link>
+      <link>https://cudan.tlu.ee/events/2021-02-01-suhne-lehmann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/2021-02-01-suhne-lehmann/</guid>
+      <guid>https://cudan.tlu.ee/events/2021-02-01-suhne-lehmann/</guid>
       <description>When: 2021-02-01 14:00-16:00 (Tallinn time)
 Where: CUDAN Open Lab (online)
 The event is public via zoom: https://zoom.us/j/94858442274

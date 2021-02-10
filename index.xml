@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on CUDAN Open Lab</title>
-    <link>/</link>
+    <link>https://cudan.tlu.ee/</link>
     <description>Recent content in Welcome on CUDAN Open Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cudan.tlu.ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://cudan.tlu.ee/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://cudan.tlu.ee/about/</guid>
       <description>ABOUT #   Our project aims at building a new analytical approach, called “Cultural Data Analytics” that integrates quantitative and qualitative methods, including aspects of network science, complexity science, computational social science, science of science, machine learning, data science, design research, visualization, art history, cultural semiotics, digital culture studies, and creative industries’ studies to work with digitized cultural heritage as well as with born-digital data acquired from contemporary platforms.</description>
     </item>
     
     <item>
       <title>Andres</title>
-      <link>/team/andres/</link>
+      <link>https://cudan.tlu.ee/team/andres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/andres/</guid>
+      <guid>https://cudan.tlu.ee/team/andres/</guid>
       <description>email / andres.karjus@tlu.ee
 website / andreskarjus.github.io
 twitter / @AndresKarjus
@@ -33,10 +33,10 @@ Andres wants to know why and how all languages and cultures keep changing over t
     
     <item>
       <title>Antonina</title>
-      <link>/team/antonina/</link>
+      <link>https://cudan.tlu.ee/team/antonina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/antonina/</guid>
+      <guid>https://cudan.tlu.ee/team/antonina/</guid>
       <description>email / antonina.korepanova@tlu.ee
 twitter / @toninakorep
 ETIS / ORCID  Antonina Korepanova
@@ -50,20 +50,20 @@ Antonina is a junior research fellow and a PhD student at Baltic Film Media and 
     
     <item>
       <title>Approach</title>
-      <link>/approach/</link>
+      <link>https://cudan.tlu.ee/approach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/approach/</guid>
+      <guid>https://cudan.tlu.ee/approach/</guid>
       <description>APPROACH #   In a nutshell, the CUDAN project mission is to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.
  The CUDAN project brings together a group of at least 5 postdoctoral or senior research fellows and 5 PhD students to harness the rare high-risk/high-gain opportunity of combining multidisciplinary science, computation, information design, with art and cultural history, cultural media studies, and cultural semiotics, in close collaboration and co-authorship.</description>
     </item>
     
     <item>
       <title>Hanna</title>
-      <link>/team/hanna/</link>
+      <link>https://cudan.tlu.ee/team/hanna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/hanna/</guid>
+      <guid>https://cudan.tlu.ee/team/hanna/</guid>
       <description>email / hjemmer@tlu.ee
 ETIS / ORCID  Hanna Jemmer
 Junior Research Fellow
@@ -76,10 +76,10 @@ Hanna has a BA degree in Government &amp;amp; Politics from University of Tartu,
     
     <item>
       <title>Ksenia</title>
-      <link>/team/ksenia/</link>
+      <link>https://cudan.tlu.ee/team/ksenia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/ksenia/</guid>
+      <guid>https://cudan.tlu.ee/team/ksenia/</guid>
       <description>email / mukhina@tlu.ee
 website / mukhinaks.github.io
 twitter / @mukhinaks
@@ -94,10 +94,10 @@ Ksenia Mukhina is a Senior research fellow at the CUDAN Open Lab, and she works 
     
     <item>
       <title>Mar</title>
-      <link>/team/mar/</link>
+      <link>https://cudan.tlu.ee/team/mar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/mar/</guid>
+      <guid>https://cudan.tlu.ee/team/mar/</guid>
       <description>email / mar.canet@tlu.ee
 website / var-mar.info
 twitter / @mcanet
@@ -112,10 +112,10 @@ Mar Canet Sola is a junior research fellow at Cudan and PhD student at Tallinn U
     
     <item>
       <title>Mark</title>
-      <link>/team/mark/</link>
+      <link>https://cudan.tlu.ee/team/mark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/mark/</guid>
+      <guid>https://cudan.tlu.ee/team/mark/</guid>
       <description>email / mark.mets@tlu.ee
 ETIS / ORCID  Mark Mets
 Junior Research Fellow
@@ -128,10 +128,10 @@ Mark Mets is a junior research fellow at CUDAN and a PhD student at the Tallinn 
     
     <item>
       <title>Max</title>
-      <link>/team/max/</link>
+      <link>https://cudan.tlu.ee/team/max/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/max/</guid>
+      <guid>https://cudan.tlu.ee/team/max/</guid>
       <description>email / mxs@tlu.ee
 website / schich.info
 twitter / @schichmax
@@ -146,10 +146,10 @@ Maximilian Schich is a Professor for Cultural Data Analytics and the CUDAN ERA C
     
     <item>
       <title>Mila</title>
-      <link>/team/mila/</link>
+      <link>https://cudan.tlu.ee/team/mila/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/mila/</guid>
+      <guid>https://cudan.tlu.ee/team/mila/</guid>
       <description>email / milaoiva@tlu.ee
 website / milaoiva.fi
 ETIS / ORCID  Dr. Mila Oiva
@@ -163,10 +163,10 @@ Mila Oiva is a cultural historian enthusiastic about identifying patterns of tra
     
     <item>
       <title>Tillmann</title>
-      <link>/team/tillmann/</link>
+      <link>https://cudan.tlu.ee/team/tillmann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/tillmann/</guid>
+      <guid>https://cudan.tlu.ee/team/tillmann/</guid>
       <description>email / tillmann.ohm@tlu.ee
 website / tillmannohm.com
 twitter / @tillmannohm
@@ -181,10 +181,10 @@ Tillmann Ohm is an artist and creative computational developer with a special fo
     
     <item>
       <title>Vejune</title>
-      <link>/team/vejune/</link>
+      <link>https://cudan.tlu.ee/team/vejune/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/vejune/</guid>
+      <guid>https://cudan.tlu.ee/team/vejune/</guid>
       <description>email / vejune.zemaityte@tlu.ee
 website / vejune-zemaityte.com
 twitter / @VejuneZem
@@ -199,10 +199,10 @@ Dr. Vejune Zemaityte is a Senior Research Fellow in Cultural Data Analytics at t
     
     <item>
       <title>Yan</title>
-      <link>/team/yan/</link>
+      <link>https://cudan.tlu.ee/team/yan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/yan/</guid>
+      <guid>https://cudan.tlu.ee/team/yan/</guid>
       <description>email / yan.asadchy@tlu.ee
 website / yanasadchy.com
 twitter / @cactus_606
@@ -217,20 +217,20 @@ Yan is an interdisciplinarry researcher who has BA degree in Print and Media Pro
     
     <item>
       <title>ERA Chair</title>
-      <link>/era-chair/</link>
+      <link>https://cudan.tlu.ee/era-chair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/era-chair/</guid>
+      <guid>https://cudan.tlu.ee/era-chair/</guid>
       <description>ERA CHAIR #   Tallinn University (TLU) has elected Professor Maximilian Schich as the designated ERA Chair for Cultural Data Analytics. He moved to Tallinn University from the University of Texas at Dallas in early Summer 2020. More info see www.schich.info.
  TLU has won a grant for this position from the European Commission’s Horizon 2020 ERA Chair programme. The programme supports universities in their efforts to build on their growing reputation as leaders in research and innovation.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://cudan.tlu.ee/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://cudan.tlu.ee/contact/</guid>
       <description>CONTACT #   For more information please contact us through email.
  Maximilian Schich: mxs@tlu.ee
 ERA Chair
@@ -240,11 +240,23 @@ CUDAN on Twitter: @CUDANLab</description>
     </item>
     
     <item>
-      <title>Deb Verhoeven – Kinomatics: Big Data goes to the Movies</title>
-      <link>/events/2021-02-08-deb-verhoeven-cudan-lecture/</link>
+      <title>CUDAN@ Northwestern Institute on Complex Systems (NICO)</title>
+      <link>https://cudan.tlu.ee/events/2021-01-13-northwestern-institute-complexity-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/2021-02-08-deb-verhoeven-cudan-lecture/</guid>
+      <guid>https://cudan.tlu.ee/events/2021-01-13-northwestern-institute-complexity-systems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; 2021-01-13 20.00 – 21.00 Tallinn time&lt;br&gt;
+&lt;strong&gt;Where:&lt;/strong&gt; Northwestern Institute on Complex Systems (online)&lt;/p&gt;
+&lt;p&gt;The event is public via zoom: &lt;a href=&#34;https://northwestern.zoom.us/j/93906874654&#34;&gt;https://northwestern.zoom.us/j/93906874654&lt;/a&gt;
+Websites: &lt;a href=&#34;https://www.nico.northwestern.edu/news-events/events/?eid=571197&#34;&gt;https://www.nico.northwestern.edu/news-events/events/?eid=571197&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deb Verhoeven – Kinomatics: Big Data goes to the Movies</title>
+      <link>https://cudan.tlu.ee/events/2021-02-08-deb-verhoeven-cudan-lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cudan.tlu.ee/events/2021-02-08-deb-verhoeven-cudan-lecture/</guid>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; 2021-02-08 10:00-12:00 (Tallinn time)&lt;br&gt;
 &lt;strong&gt;Where:&lt;/strong&gt; CUDAN Open Lab (online)&lt;/p&gt;
 &lt;p&gt;The event is public via zoom: &lt;a href=&#34;https://zoom.us/j/94858442274X&#34;&gt;https://zoom.us/j/94858442274X&lt;/a&gt;&lt;br&gt;
@@ -253,10 +265,10 @@ Websites: &lt;a href=&#34;https://debverhoeven.com/&#34;&gt;https://debverhoeven
     
     <item>
       <title>Deb Verhoeven – Kinomatics: Big Data goes to the Movies</title>
-      <link>/events/test123/</link>
+      <link>https://cudan.tlu.ee/events/test123/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/test123/</guid>
+      <guid>https://cudan.tlu.ee/events/test123/</guid>
       <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; 2021-02-08 10:00-12:00 (Tallinn time)&lt;br&gt;
 &lt;strong&gt;Where:&lt;/strong&gt; CUDAN Open Lab (online)&lt;/p&gt;
 &lt;p&gt;The event is public via zoom: &lt;a href=&#34;https://zoom.us/j/94858442274X&#34;&gt;https://zoom.us/j/94858442274X&lt;/a&gt;&lt;br&gt;
@@ -265,10 +277,10 @@ Websites: &lt;a href=&#34;https://debverhoeven.com/&#34;&gt;https://debverhoeven
     
     <item>
       <title>Lab encounter with members of the Social Complexity Lab and Sune Lehmann at DTU/SODAS in Copenhagen, Denmark</title>
-      <link>/events/2021-02-01-suhne-lehmann/</link>
+      <link>https://cudan.tlu.ee/events/2021-02-01-suhne-lehmann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/2021-02-01-suhne-lehmann/</guid>
+      <guid>https://cudan.tlu.ee/events/2021-02-01-suhne-lehmann/</guid>
       <description>When: 2021-02-01 14:00-16:00 (Tallinn time)
 Where: CUDAN Open Lab (online)
 The event is public via zoom: https://zoom.us/j/94858442274
