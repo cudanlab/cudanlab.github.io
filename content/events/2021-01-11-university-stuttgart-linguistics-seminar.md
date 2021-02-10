@@ -3,7 +3,7 @@ bookHidden: true
 event:
   start: 2021-01-11T15:00:00-00:00
   end: 2021-01-11T20:00:00-00:00
-title: "2021-01-11 CUDAN@ University of Stuttgart"
+title: "CUDAN@ University of Stuttgart"
 ---
 
 **When:** 2021-01-11 15:00 (Tallinn time)  
