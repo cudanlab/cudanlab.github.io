@@ -5,6 +5,10 @@
     <link>https://cudan.tlu.ee/tags/</link>
     <description>Recent content in Tags on CUDAN Open Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cudan.tlu.ee/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://cudan.tlu.ee/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

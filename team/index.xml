@@ -5,7 +5,11 @@
     <link>https://cudan.tlu.ee/team/</link>
     <description>Recent content in Team on CUDAN Open Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cudan.tlu.ee/team/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://cudan.tlu.ee/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Andres</title>
       <link>https://cudan.tlu.ee/team/andres/</link>
