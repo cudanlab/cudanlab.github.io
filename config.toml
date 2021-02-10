@@ -1,7 +1,0 @@
-baseURL = "https://cudan.tlu.ee/"
-languageCode = "en-us"
-title = "CUDAN Open Lab"
-[params]
-BookTheme = "light"
-BookSearch = false
-BookMenuBundle = "menu"
