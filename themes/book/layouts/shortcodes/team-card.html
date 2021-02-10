@@ -1,0 +1,37 @@
+<div class="card-container">
+    <div class="card">
+        {{ if .Get `link` }}
+        <a href={{.Get `link`}} title={{.Get `member`}}>
+            <img src={{.Get `image`}} style="border-radius: 18px;" width="150"/>
+        </a>
+        {{ else }}
+            <img src={{.Get `image`}} style="border-radius: 18px;" width="150"/>
+        {{ end }}
+    </div>
+    <div class="school">
+        <b>{{.Get `member`}}</b><br>
+        <em>{{.Get `position`}} / {{.Get `school`}}</em>
+    </div>
+    <div>
+        <p>{{.Get `text`}}
+            {{ if .Get `link` }}
+            <a href={{.Get `link`}} title={{.Get `member`}}>Read more [...]</a>
+            {{ end }}
+        </p>
+        <p>
+            {{ if .Get `mail` }}
+            <a href="mailto:{{.Get `mail`}}" title={{.Get `mail`}}>email</a>
+            {{ end }}
+            {{ if .Get `twitter` }}
+            / <a href="https://twitter.com/{{.Get `twitter`}}" title={{.Get `twitter`}} target="_blank">twitter</a>
+            {{ end }}
+            {{ if .Get `website` }}
+            / <a href={{.Get `website`}} title={{.Get `website`}} target="_blank">website</a>
+            {{ end }}
+            {{ if .Get `ETIS` }}
+            / <a href={{.Get `ETIS`}} title={{.Get `ETIS`}} target="_blank">ETIS</a>
+            {{ end }}
+        </p>
+    </div>
+</div>
+
