@@ -79,6 +79,11 @@
   </url>
   
   <url>
+    <loc>https://cudan.tlu.ee/readme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://cudan.tlu.ee/categories/</loc>
   </url>
   
