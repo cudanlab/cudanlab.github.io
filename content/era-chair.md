@@ -1,5 +1,4 @@
 ---
-weight: 3
 bookFlatSection: true
 title: "ERA Chair"
 ---
