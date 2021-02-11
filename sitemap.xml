@@ -3,23 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cudan.tlu.ee/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cudan.tlu.ee/</loc>
-  </url>
-  
-  <url>
     <loc>https://cudan.tlu.ee/team/andres/</loc>
   </url>
   
   <url>
     <loc>https://cudan.tlu.ee/team/antonina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cudan.tlu.ee/approach/</loc>
   </url>
   
   <url>
@@ -59,19 +47,7 @@
   </url>
   
   <url>
-    <loc>https://cudan.tlu.ee/era-chair/</loc>
-  </url>
-  
-  <url>
     <loc>https://cudan.tlu.ee/team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cudan.tlu.ee/events/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cudan.tlu.ee/contact/</loc>
   </url>
   
   <url>
@@ -84,7 +60,19 @@
   </url>
   
   <url>
+    <loc>https://cudan.tlu.ee/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cudan.tlu.ee/approach/</loc>
+  </url>
+  
+  <url>
     <loc>https://cudan.tlu.ee/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cudan.tlu.ee/contact/</loc>
   </url>
   
   <url>
@@ -104,11 +92,27 @@
   </url>
   
   <url>
+    <loc>https://cudan.tlu.ee/era-chair/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cudan.tlu.ee/events/</loc>
+  </url>
+  
+  <url>
     <loc>https://cudan.tlu.ee/events/2021-02-01-suhne-lehmann/</loc>
   </url>
   
   <url>
+    <loc>https://cudan.tlu.ee/news/</loc>
+  </url>
+  
+  <url>
     <loc>https://cudan.tlu.ee/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cudan.tlu.ee/</loc>
   </url>
   
 </urlset>
