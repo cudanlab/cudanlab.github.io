@@ -6,7 +6,7 @@ This is the main branch for the CUDAN website. You need to be a collaborator to 
 # Installation and hugo documentation
 https://gohugo.io/getting-started/installing/ 
 
-**IMPORTANT!** Pushing your content overrides the whole public webpage! This means you always need to pull this repository first and make sure you are updating the latest version if you are using git from your local device. Never commit to the gh-pages branch directly! Use the main branch instead. You don't need to render the webpage yourself static pages will be rendered automatically with every commit (see GitHub Actions).   
+**IMPORTANT!** Pushing your content overrides the whole public webpage! This means you always need to pull this repository first and make sure you are updating the latest version if you are using git from your local device. Never commit to the gh-pages branch directly! Use the main branch instead. You don't need to render the webpage locally – the static page will be rendered automatically with every commit (see GitHub Actions).   
 
 # Adding new entries to the events page   
 Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md 
