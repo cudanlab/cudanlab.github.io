@@ -1,9 +1,10 @@
 ---
 bookHidden: true
+
+title: "Deb Verhoeven – Kinomatics: Big Data goes to the Movies"
 event:
   start: 2021-02-08T10:00:00-00:00
   end: 2021-02-08T12:00:00-00:00
-title: "Deb Verhoeven – Kinomatics: Big Data goes to the Movies"
 ---
 
 **When:** 2021-02-08 10:00-12:00 (Tallinn time)  
