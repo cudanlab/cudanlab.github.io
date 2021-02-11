@@ -1,5 +1,3 @@
-[comment]: <> (example filename: 2021-02-08-deb-verhoeven-cudan-lecture.md)
-
 ---
 bookHidden: true
 
