@@ -5,19 +5,14 @@
     <link>https://cudan.tlu.ee/</link>
     <description>Recent content in Welcome on CUDAN Open Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://cudan.tlu.ee/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://cudan.tlu.ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://cudan.tlu.ee/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cudan.tlu.ee/about/</guid>
-      <description>ABOUT  Our project aims at building a new analytical approach, called “Cultural Data Analytics” that integrates quantitative and qualitative methods, including aspects of network science, complexity science, computational social science, science of science, machine learning, data science, design research, visualization, art history, cultural semiotics, digital culture studies, and creative industries’ studies to work with digitized cultural heritage as well as with born-digital data acquired from contemporary platforms.
- BFM building, Tallinn University</description>
+      <description>ABOUT #   Our project aims at building a new analytical approach, called “Cultural Data Analytics” that integrates quantitative and qualitative methods, including aspects of network science, complexity science, computational social science, science of science, machine learning, data science, design research, visualization, art history, cultural semiotics, digital culture studies, and creative industries’ studies to work with digitized cultural heritage as well as with born-digital data acquired from contemporary platforms.</description>
     </item>
     
     <item>
@@ -59,7 +54,7 @@ Antonina is a junior research fellow and a PhD student at Baltic Film Media and 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cudan.tlu.ee/approach/</guid>
-      <description>APPROACH  In a nutshell, the CUDAN project mission is to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.
+      <description>APPROACH #   In a nutshell, the CUDAN project mission is to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.
  The CUDAN project brings together a group of at least 5 postdoctoral or senior research fellows and 5 PhD students to harness the rare high-risk/high-gain opportunity of combining multidisciplinary science, computation, information design, with art and cultural history, cultural media studies, and cultural semiotics, in close collaboration and co-authorship.</description>
     </item>
     
@@ -226,7 +221,7 @@ Yan is an interdisciplinarry researcher who has BA degree in Print and Media Pro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cudan.tlu.ee/era-chair/</guid>
-      <description>ERA CHAIR  Tallinn University (TLU) has elected Professor Maximilian Schich as the designated ERA Chair for Cultural Data Analytics. He moved to Tallinn University from the University of Texas at Dallas in early Summer 2020. More info see www.schich.info.
+      <description>ERA CHAIR #   Tallinn University (TLU) has elected Professor Maximilian Schich as the designated ERA Chair for Cultural Data Analytics. He moved to Tallinn University from the University of Texas at Dallas in early Summer 2020. More info see www.schich.info.
  TLU has won a grant for this position from the European Commission’s Horizon 2020 ERA Chair programme. The programme supports universities in their efforts to build on their growing reputation as leaders in research and innovation.</description>
     </item>
     
@@ -236,7 +231,7 @@ Yan is an interdisciplinarry researcher who has BA degree in Print and Media Pro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cudan.tlu.ee/contact/</guid>
-      <description>CONTACT  For more information please contact us through email.
+      <description>CONTACT #   For more information please contact us through email.
  Maximilian Schich: mxs@tlu.ee
 ERA Chair
 Mariliis Niinemägi: mariliis.niinemagi@tlu.ee
@@ -250,7 +245,7 @@ CUDAN on Twitter: @CUDANLab</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cudan.tlu.ee/readme/</guid>
-      <description>How-To Adding new entries to the events page Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md
+      <description>How-To #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md
 Please use the example file example-event.md in the examples folder.
 IMPORTANT! The start and end date needs to have the date-format: 2021-02-08T10:00:00-00:00
 Put the abstract text and other additional information that should be hidden in the events page list after this tag:</description>

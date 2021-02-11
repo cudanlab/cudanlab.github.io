@@ -5,11 +5,7 @@
     <link>https://cudan.tlu.ee/events/</link>
     <description>Recent content in Events on CUDAN Open Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://cudan.tlu.ee/events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://cudan.tlu.ee/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CUDAN@ Northwestern Institute on Complex Systems (NICO)</title>
       <link>https://cudan.tlu.ee/events/2021-01-13-northwestern-institute-complexity-systems/</link>
