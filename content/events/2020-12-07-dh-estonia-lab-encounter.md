@@ -1,8 +1,8 @@
 ---
 bookHidden: true
 event:
-  start: 020-12-07T14:00:00-00:00
-  end: 020-12-07T16:00:00-00:00
+  start: 2020-12-07T14:00:00-00:00
+  end: 2020-12-07T16:00:00-00:00
 title: "DH Estonia Lab Encounter"
 ---
 
