@@ -23,6 +23,6 @@ https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 **IMPORTANT!** Linebreaks need two white spaces!  
 
 
-# Best practise  
+# Best practice  
 Always use your own GitHub account when you commit. The safest method for editing existing content or adding new events is to stay in the GitHub browser and use only https://github.com/cudanlab/cudanlab.github.io/tree/main/content   
 **IMPORTANT!** Rendering and pushing your content overrides the whole public webpage! This means you always need to pull this repository first and make sure you are updating the latest version if you are using git from your local device.
