@@ -1,8 +1,8 @@
 ---
 bookHidden: true
 event:
-  start: 2020-11-07T15:00:00-00:00
-  end: 22020-11-07T20:00:00-00:00
+  start: 2020-11-07T21:00:00-00:00
+  end: 2020-11-07T21:30:00-00:00
 title: "CUDAN@ Herodotus Project Conference"
 ---
 
