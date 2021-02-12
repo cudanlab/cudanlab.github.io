@@ -5,15 +5,13 @@
   <meta name="generator" content="Hugo 0.79.1" />
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="How-To edit and add content #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md
-Please use the example file example-event.md in the examples folder as reference.
-IMPORTANT! The start and end date needs to have the date-format: 2021-02-08T10:00:00-00:00
-The event title cannot contain quotation marks.">
+<meta name="description" content="How-To edit and add content #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in:
+2021-02-08-deb-verhoeven-cudan-lecture.md Use this example for new entries:
+--- bookHidden: true title: &quot;Lecturer Name – Title of lecture without additional quotation marks&quot; event: start: 2021-02-08T14:00:00-00:00 end: 2021-02-08T16:00:00-00:00 --- **When:** 2021-02-08 10:00-12:00 (Tallinn time) **Where:** CUDAN Open Lab (online) The event is public via zoom: https://zoom.">
 <meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="" />
-<meta property="og:description" content="How-To edit and add content #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md
-Please use the example file example-event.md in the examples folder as reference.
-IMPORTANT! The start and end date needs to have the date-format: 2021-02-08T10:00:00-00:00
-The event title cannot contain quotation marks." />
+<meta property="og:description" content="How-To edit and add content #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in:
+2021-02-08-deb-verhoeven-cudan-lecture.md Use this example for new entries:
+--- bookHidden: true title: &quot;Lecturer Name – Title of lecture without additional quotation marks&quot; event: start: 2021-02-08T14:00:00-00:00 end: 2021-02-08T16:00:00-00:00 --- **When:** 2021-02-08 10:00-12:00 (Tallinn time) **Where:** CUDAN Open Lab (online) The event is public via zoom: https://zoom." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://cudan.tlu.ee/readme/" />
 
@@ -98,7 +96,14 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <nav id="TableOfContents"></nav>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#adding-new-entries-to-the-events-page">Adding new entries to the events page</a></li>
+    <li><a href="#best-practice">Best practice</a></li>
+    <li><a href="#basic-syntax">Basic Syntax</a></li>
+    <li><a href="#extended-syntax">Extended Syntax</a></li>
+  </ul>
+</nav>
 
 
   </aside>
@@ -114,29 +119,88 @@ https://github.com/alex-shpak/hugo-book
   How-To edit and add content
   <a class="anchor" href="#how-to-edit-and-add-content">#</a>
 </h1>
-<h1 id="adding-new-entries-to-the-events-page">
+<h2 id="adding-new-entries-to-the-events-page">
   Adding new entries to the events page
   <a class="anchor" href="#adding-new-entries-to-the-events-page">#</a>
-</h1>
-<p>Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md</p>
-<p>Please use the example file <em>example-event.md</em> in the examples folder as reference.<br>
-<strong>IMPORTANT!</strong> The start and end date needs to have the date-format: 2021-02-08T10:00:00-00:00<br>
-The event title cannot contain quotation marks. Any mistake will result in a notification email.</p>
-<p>Put the abstract text and other additional information that should be hidden in the events page list after this tag:<br>
-&lt;!&ndash;more&ndash;&gt;</p>
-<h1 id="general-styling-rules">
-  General styling rules
-  <a class="anchor" href="#general-styling-rules">#</a>
-</h1>
-<p>The markdown files are following the markdown syntax:
-<a href="https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf">https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf</a><br>
-<strong>IMPORTANT!</strong> Linebreaks need two white spaces!</p>
-<h1 id="best-practice">
+</h2>
+<p>Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in:</p>
+<pre><code>2021-02-08-deb-verhoeven-cudan-lecture.md 
+</code></pre><p>Use this example for new entries:</p>
+<pre><code>---
+bookHidden: true
+
+title: &quot;Lecturer Name – Title of lecture without additional quotation marks&quot;
+event:
+  start: 2021-02-08T14:00:00-00:00
+  end: 2021-02-08T16:00:00-00:00
+---
+
+**When:** 2021-02-08 10:00-12:00 (Tallinn time)  
+**Where:** CUDAN Open Lab (online)  
+
+The event is public via zoom: https://zoom.us/j/94858442274X  
+Websites: https://debverhoeven.com/ &amp; https://kinomatics.com/ 
+
+&lt;!--more--&gt;
+**Abstract** – Abstract text goes here. Delete (inculding &lt;!--more--&gt; tag) if there is no addition text.
+</code></pre><p><strong>IMPORTANT!</strong> In the header of a new event file, define a start and end date for the events parameter in the following format:</p>
+<pre><code>---
+events:
+    start: 2021-02-08T14:00:00-00:00
+    end: 2021-02-08T16:00:00-00:00
+</code></pre><p>The event title follows the format:</p>
+<pre><code>title: &quot;Speaker Name - Title of Talk&quot;
+---
+</code></pre><p>Don&rsquo;t use nested quotation marks inside the title (this will result in an error notification email and not update the webpage).</p>
+<p>Put the abstract text and other additional information that should be hidden in the events page list after the &ldquo;more&rdquo; tag:</p>
+<pre><code>&lt;!--more--&gt;
+**Abstract** - Abstract text goes here.
+</code></pre><h2 id="best-practice">
   Best practice
   <a class="anchor" href="#best-practice">#</a>
-</h1>
+</h2>
 <p>Always use your own GitHub account when committing changes. The safest method for editing existing content or adding new events is to stay in the GitHub browser and stay only in this directory: <a href="https://github.com/cudanlab/cudanlab.github.io/tree/edit/content">https://github.com/cudanlab/cudanlab.github.io/tree/edit/content</a><br>
 If you want to use git from your local machine, always pull origin fromt he main branch before committing!</p>
+<h2 id="basic-syntax">
+  Basic Syntax
+  <a class="anchor" href="#basic-syntax">#</a>
+</h2>
+<p>These are the elements outlined in John Gruber&rsquo;s original design document. All Markdown applications support these elements.</p>
+<!-- raw HTML omitted -->
+<h2 id="extended-syntax">
+  Extended Syntax
+  <a class="anchor" href="#extended-syntax">#</a>
+</h2>
+<p>These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.</p>
+<!-- raw HTML omitted -->
+<pre><code>    [^1]: This is the footnote.
+  &lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;a href=&quot;/extended-syntax/#heading-ids&quot;&gt;Heading ID&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;code&gt;### My Great Heading {#custom-id}&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;a href=&quot;/extended-syntax/#definition-lists&quot;&gt;Definition List&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;code&gt;
+    term&lt;br&gt;
+    : definition
+  &lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;a href=&quot;/extended-syntax/#strikethrough&quot;&gt;Strikethrough&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;code&gt;~~The world is flat.~~&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;&lt;a href=&quot;/extended-syntax/#task-lists&quot;&gt;Task List&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;code&gt;
+    - [x] Write the press release&lt;br&gt;
+    - [ ] Update the website&lt;br&gt;
+    - [ ] Contact the media
+  &lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+<!-- raw HTML omitted -->
 </article>
  
       <div class="div-wrapper">
@@ -172,7 +236,14 @@ If you want to use git from your local machine, always pull origin fromt he main
     
     <aside class="book-toc">
       
-  <nav id="TableOfContents"></nav>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#adding-new-entries-to-the-events-page">Adding new entries to the events page</a></li>
+    <li><a href="#best-practice">Best practice</a></li>
+    <li><a href="#basic-syntax">Basic Syntax</a></li>
+    <li><a href="#extended-syntax">Extended Syntax</a></li>
+  </ul>
+</nav>
 
  
     </aside>
