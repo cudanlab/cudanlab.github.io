@@ -202,10 +202,10 @@ Yan is an interdisciplinarry researcher who has BA degree in Print and Media Pro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cudan.tlu.ee/readme/</guid>
-      <description>How-To #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md
-Please use the example file example-event.md in the examples folder.
+      <description>How-To edit and add content #  Adding new entries to the events page #  Every event is a file by its own inside the events folder. For consistency, filenames should start with the date followed by a clear title as in: 2021-02-08-deb-verhoeven-cudan-lecture.md
+Please use the example file example-event.md in the examples folder as reference.
 IMPORTANT! The start and end date needs to have the date-format: 2021-02-08T10:00:00-00:00
-Put the abstract text and other additional information that should be hidden in the events page list after this tag:</description>
+The event title cannot contain quotation marks.</description>
     </item>
     
     <item>
