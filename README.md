@@ -10,7 +10,7 @@ Hugo: https://github.com/gohugoio/hugo
 Book theme: https://github.com/alex-shpak/hugo-book  
 Makdown language: https://www.markdownguide.org/  
   
-On top of the Hugo Book Theme, the CUDAN webpage uses customized CSS and html code in the layouts folder (e.g. shortcodes, injects and additional styling):   https://github.com/cudanlab/cudanlab.github.io/tree/main/layouts   
+On top of the Hugo Book Theme, the CUDAN webpage uses custom html code in the layouts folder (e.g. shortcodes). Additional styling was also added to "themes/book/assets/_custom.scss". Be aware that changing the theme will require to tranfer some of the CSS in this file.  
 
 A GitHub Actions worklow file (.github/workflows/gh-pages.yml) renders the static pages automatically into the gh-pages branch, every time a commit is executed. Read more about GitHub Actions here: https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions   
 
