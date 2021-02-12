@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "David McClure – The Open Syllabus co-assignment "Galaxy": Mapping embeddings and disciplines"
+title: "David McClure – The Open Syllabus co-assignment Galaxy: Mapping embeddings and disciplines"
 event:
   start: 2021-02-15T14:00:00-00:00
   end: 2021-02-15T16:00:00-00:00
