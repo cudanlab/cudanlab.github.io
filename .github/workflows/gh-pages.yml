@@ -6,7 +6,7 @@ on:
       - main  # Set a branch to deploy
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '20 9 * * *'
+    - cron:  '*/10 * * * *'
 
 jobs:
   deploy:
