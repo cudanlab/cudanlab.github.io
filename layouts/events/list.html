@@ -8,7 +8,7 @@
 {{ if (time .Params.event.end).After (now.AddDate 0 0 -1) }}
 <article class="markdown book-post up-next">
   <h1>Up Next:</h1>
-{{ if and ((time .Params.event.end).After (now.AddDate 0 0 -1)) ((time .Params.event.end).Before (now.AddDate 0 0 +5)) }}
+{{ if and ((time .Params.event.end).After (now.AddDate 0 0 -1)) ((time .Params.event.end).Before (now.AddDate 0 0 0)) }}
     <h2>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h2>
