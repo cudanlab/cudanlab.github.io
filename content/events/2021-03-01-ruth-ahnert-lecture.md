@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Ruth Ahnert – "Big Data?: Orders of magnitude in digital humanities projects"
+title: "Ruth Ahnert – "Big Data? Orders of magnitude in digital humanities projects"
 event:
   start: 2021-03-01T10:00:00-00:00
   end: 2021-03-01T12:00:00-00:00
