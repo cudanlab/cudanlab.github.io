@@ -29,6 +29,9 @@
 {{ range (.Pages.ByParam "event.start").ByDate.Reverse }}
 {{ if (time .Params.event.end).After (now.AddDate 0 0 -1) }}
 <h2>Future events</h2>
+{{ end }}
+{{ end }}
+{{ range (.Pages.ByParam "event.start").ByDate.Reverse }}
 {{ if (time .Params.event.end).After (now.AddDate 0 0 -1) }}
 <article class="markdown book-post">
   <h2>
