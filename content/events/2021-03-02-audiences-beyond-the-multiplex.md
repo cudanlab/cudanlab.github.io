@@ -30,4 +30,4 @@ References
 - Moreau, F., & Peltier, S. (2004). Cultural diversity in the movie industry: A cross-national study. Journal of Media Economics, 17(2), 123–143.
 - Napoli, P. M. (1999). Deconstructing the diversity principle. Journal of Communication, 49(4), 7−34.
 - Napoli, P. M. (2011). Exposure diversity reconsidered. Journal of Information Policy, 1, 246−259.
-- United Nations Educational, Scientific and Cultural Organization (UNESCO). (2016). Diversity and the film industry: An analysis of the 2014 UIS Survey on Feature Film Statistics.  https://en.unesco.org/creativity/sites/creativity/files/diversity_and_the_film_industry_2016-en.pdf
+- United Nations Educational, Scientific and Cultural Organization (UNESCO). (2016). Diversity and the film industry: An analysis of the 2014 UIS Survey on Feature Film Statistics.  https://en.unesco.org/creativity/sites/creativity/files/diversity_and_the_film_industry_2016-en.pdf 
