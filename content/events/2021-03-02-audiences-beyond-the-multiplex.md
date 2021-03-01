@@ -22,7 +22,7 @@ This paper extends the analysis by Coate et al. (2017) beyond the Australian con
 
 Our discussion is informed by the big data collection of global film screenings from the Kinomatics Project (n.d.), enriched with data on 124 film origins from IMDb (n.d.). The sample lists over 130m screening records of 3,424 first-run feature films released commercially across 40 countries during 2013–2015, amounting to over 28k film-country observations.  
 
-References
+References 
 - Coate, B., Verhoeven, D., Arrowsmith, C., & Zemaityte, V. (2017). Feature film diversity on Australian cinema screens: Implications for cultural diversity studies using big data. In M. D. Ryan & B. Goldsmith (Eds.), Australian Screen in the 2000s (pp. 341–360). Cham: Springer International Publishing.
 - Internet Movie Database (IMDb). (n.d.). https://www.imdb.com
 - Kinomatics Project. (n.d.). What is Kinomatics. http://kinomatics.com/about/what-iskinomatics/
