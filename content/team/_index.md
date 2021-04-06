@@ -24,7 +24,7 @@ text = ""
 
 CUDAN Team Faculty
 ---
-**Indrek Ibrus**, Professor of media innovation at Tallinn University's Baltic Film, Media, Arts and Communication School (BFM), Head at Tallinn University Centre of Excellence in Media Innovation and Digital Culture (MEDIT). [ETIS](https://www.etis.ee/CV/Indrek_Ibrus/eng?lang=ENG "ETIS")  
+**Indrek Ibrus**, Professor of media innovation at Tallinn University's Baltic Film, Media and Arts School (BFM), Head at Tallinn University Centre of Excellence in Media Innovation and Digital Culture (MEDIT). [ETIS](https://www.etis.ee/CV/Indrek_Ibrus/eng?lang=ENG "ETIS")  
 
 **Marek Tamm**, Professor of cultural history at the School of Humanities of Tallinn University. Head of Tallinn University Centre of Excellence in Intercultural Studies, Head of the Estonian Graduate School of Culture Studies and Arts. [ETIS](https://www.etis.ee/CV/Marek_Tamm/eng?lang=ENG "ETIS")  
 

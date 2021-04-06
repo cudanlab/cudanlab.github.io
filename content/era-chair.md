@@ -9,7 +9,7 @@ ERA CHAIR
 
 TLU has won a grant for this position from the European Commission’s Horizon 2020 ERA Chair programme. The programme supports universities in their efforts to build on their growing reputation as leaders in research and innovation. The programme awards top researchers and their teams EUR 2.5 million over five years to establish ambitious research programmes. Estonian Research Council is expected to top it up with additional 200 000 euros from its Mobilitas scheme. After the initial funding ERA Chair funding period the position will be tenured and TLU will support it by its own means.
 
-ERA Chair holder is responsible for creating and managing a new research group in cultural data analytics that will interconnect three TLU Schools – Baltic Film, Media, Arts and Communication School (BFM), School of Humanities (SH) and School of Digital Technologies (DTI). The ERA Chair holder is a professor of cultural data analytics at BFM.
+ERA Chair holder is responsible for creating and managing a new research group in cultural data analytics that will interconnect three TLU Schools – Baltic Film, Media and Arts School (BFM), School of Humanities (SH) and School of Digital Technologies (DTI). The ERA Chair holder is a professor of cultural data analytics at BFM.
 
 Why a Chair on cultural data analytics in Estonia?
 ---
