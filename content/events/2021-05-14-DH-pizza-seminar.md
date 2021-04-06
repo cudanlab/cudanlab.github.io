@@ -8,7 +8,7 @@ event:
 ---
 
 **When:** 2021-05-14 12:00 (Tallinn time)  
-**Where:** CUDAN Open Lab (online)  
+**Where:** Helsinki Centre for Digital Humanities (online)  
 
 The event is public via zoom  
 Website: https://www2.helsinki.fi/en/helsinki-centre-for-digital-humanities/research-in-cultural-data-analytics
