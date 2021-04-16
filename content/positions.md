@@ -8,7 +8,7 @@ OPEN POSITIONS
 
 # Research Fellow in Cultural Data Analytics   
 
-Tallinn University seeks to hire two **Research Fellows in Cultural Data Analytics**, particularly in (1) Audiovisual Machine Learning, and (2) Cultural Dynamics, to work on ambitious, high-impact research at the CUDAN ERA Chair (chair holder Prof. Dr. Maximilian Schich). Start of the employment contract: 01.07.- 01.09.2021, duration of the contract is up to 31.12.2023. Deadline of submitting the application documents is 31st May, 2021.
+> Tallinn University seeks to hire two **Research Fellows in Cultural Data Analytics**, particularly in (1) Audiovisual Machine Learning, and (2) Cultural Dynamics, to work on ambitious, high-impact research at the CUDAN ERA Chair (chair holder Prof. Dr. Maximilian Schich). Start of the employment contract: 01.07.- 01.09.2021, duration of the contract is up to 31.12.2023. Deadline of submitting the application documents is 31st May, 2021.
 
 One of the positions is in the [Baltic Film, Media, and Arts School](https://www.tlu.ee/en/bfm) and the other is in the [School of Digital Technologies](https://www.tlu.ee/en/dt).
 
