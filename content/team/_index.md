@@ -176,15 +176,13 @@ ETIS = "https://www.etis.ee/CV/Tillmann_Ohm/est?tabId=CV_ENG"
 
 CUDAN Advisory Board
 ---
-**Tarvi Sits**, Secretary General in the Ministry of Culture  
+**Taaniel Raudsepp**, Undersecretary for Art in the Ministry of Culture  
 
 **Siim Sikkut**, Undersecretary and e-government COO, Ministry of Economic Affairs and Communication  
 
 **Ott Jalakas**, Co-founder and COO of Lingvist  
 
-**Pille Runnel**, Research director-deputy director Estonian National Museum  
-
-**José van Dijck**, Distinguished University Professor, Utrecht University  
+**Pille Runnel**, Research director-deputy director Estonian National Museum    
 
 **Jaan Tallinn**, Co-founder of Skype, co-founder of the Cambridge Centre for the Study of Existential Risk, founder of the Future of Life Institute  
 
