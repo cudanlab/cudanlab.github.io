@@ -3,11 +3,11 @@ bookHidden: true
 
 title: "Lucy Küng – Hearts and Minds Harnessing Leadership, Culture, and Talent to Really go Digital"
 event:
-  start: 2021-05-04T14:00:00-00:00
-  end: 2021-05-04T16:00:00-00:00
+  start: 2021-05-03T14:00:00-00:00
+  end: 2021-05-03T16:00:00-00:00
 ---
 
-**When:** 2021-05-04 14:00-16:00 (Tallinn time)  
+**When:** 2021-05-03 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
 The event is public via zoom: https://zoom.us/j/98904266100  
