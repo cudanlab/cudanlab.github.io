@@ -4,7 +4,7 @@ bookHidden: true
 title: "CUDAN@ European Network for Cinema and Media Studies (NECS) Conference"
 event:
   start: 2021-06-08T16:00:00-00:00
-  end: 2021-02-08T18:00:00-00:00
+  end: 2021-06-08T18:00:00-00:00
 ---
 
 **When:** 2021-06-08 16:00-18:00 (Tallinn time)  
