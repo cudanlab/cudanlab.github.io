@@ -8,7 +8,7 @@ event:
 ---
 
 **When:** 2021-06-08 16:00-18:00 (Tallinn time)  
-**Where:** NECS conference portal 
+**Where:** NECS conference portal. 
 The event is open to the participants of the European Network for Cinema and Media Studies (NECS) Conference via the conference portal. Access information on the conference webpage.  
 Website: https://necs.org/conference/2020/12/17/update-necs-2021-conference-announcement/ 
 
