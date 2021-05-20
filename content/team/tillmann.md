@@ -18,7 +18,7 @@ ORCID = "https://orcid.org/0000-0003-3164-4661"
 
 **About**
   
-Tillmann combines linked data, knowledge graphs and machine learning with exhibition making to find new curatorial strategies and semantic discoveries in collections of cultural artefacts.
+Tillmann combines vector embeddings, machine learning and network science to develop tools for algorithmic curation and exploration of curatorial possibility spaces of digital collections.
   
 
 **Bio**  
