@@ -14,4 +14,6 @@ The event is public via zoom
 Website: https://www2.helsinki.fi/en/helsinki-centre-for-digital-humanities/research-in-cultural-data-analytics
 
 <!--more-->
-**Abstract** – CUDAN research group will talk at the Aalto Heldig DH Pizza seminar about research in Cultural Data Analytics. 
+**Abstract** – CUDAN research group will talk at the Aalto Heldig DH Pizza seminar about research in Cultural Data Analytics.  
+
+[20210521_CUDAN_DH_Pizza-slides.pdf](https://github.com/cudanlab/cudanlab.github.io/blob/main/content/pub/20210521_CUDAN_DH_Pizza-slides.pdf)
