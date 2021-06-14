@@ -7,14 +7,16 @@ event:
   end: 2021-08-26T16:00:00-00:00
 ---
 
-**When:** 2021-08-23 - 2021-08-23  
+**When:** 2021-08-24  
 **Where:** online  
 
 The event is public upon registration https://www.nlib.ee/et/digital-humanities-tallinn-2021-register    
 Website: https://www.nlib.ee/digital-humanities-tallinn-2021
 
 <!--more-->
-**Abstract** – Baltic Summer School of Digital Humanities **“Digital Methods in Humanities and Social Sciences“** will take place at the National Library of Estonia, Tallinn. The series follows past events of BSSDH and DigMet, this time with extra content for GLAM institutions.  
+**Abstract** – CUDAN Senior Research Fellow Mila Oiva will give a keynote lecture titled “Exploring Fake History Narratives in the Russian Language World Wide Web” and Senior Research Fellow Andres Karjus will give a workshop titled “Exploring and visualizing your data using R”.
+
+Baltic Summer School of Digital Humanities **“Digital Methods in Humanities and Social Sciences“** will take place at the National Library of Estonia, Tallinn on 2021-08-23 - 2021-08-26. The series follows past events of BSSDH and DigMet, this time with extra content for GLAM institutions.  
 
 The summer school features 9 workshops to choose from, 4 online keynote lectures, and extra student sessions for troubleshooting research methods. Please register to attend on the summer school website. Spaces are limited in workshops and subject to Covid-19 related constraints. The school takes place in hybrid format, fully online participation is also possible.  
 
