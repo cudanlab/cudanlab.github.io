@@ -149,6 +149,19 @@ ETIS = "https://www.etis.ee/CV/Mark_Mets/est?tabId=CV_ENG"
  >}}
 
 {{< team-card 
+image = "/img/team-icon/tillmann.jpg"
+member = "Tillmann Ohm"
+position = "Research Fellow"
+school = "School of Digital Technologies, Tallinn University"
+text = "Artist - Using knowledge graphs and machine learning for algorithmic curation of digital artefacts."
+link = "/team/tillmann"
+mail = "tillmann.ohm@tlu.ee"
+twitter = "tillmannohm"
+website = "http://tillmannohm.com/"
+ETIS = "https://www.etis.ee/CV/Tillmann_Ohm/est?tabId=CV_ENG"
+ >}}
+ 
+{{< team-card 
 image = "/img/team-icon/mar.jpg"
 member = "Mar Canet Solà"
 position = "Research Fellow"
@@ -161,18 +174,6 @@ website = "http://var-mar.info/"
 ETIS = "https://www.etis.ee/CV/Mar_Canet_sola/est?tabId=CV_ENG"
  >}}
 
-{{< team-card 
-image = "/img/team-icon/tillmann.jpg"
-member = "Tillmann Ohm"
-position = "Research Fellow"
-school = "School of Digital Technologies, Tallinn University"
-text = "Artist - Using knowledge graphs and machine learning for algorithmic curation of digital artefacts."
-link = "/team/tillmann"
-mail = "tillmann.ohm@tlu.ee"
-twitter = "tillmannohm"
-website = "http://tillmannohm.com/"
-ETIS = "https://www.etis.ee/CV/Tillmann_Ohm/est?tabId=CV_ENG"
- >}}
 
 CUDAN Advisory Board
 ---
