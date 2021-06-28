@@ -12,4 +12,3 @@ event:
 
 The event is public via zoom.  
 Website: https://mhbsd.net/  
-
