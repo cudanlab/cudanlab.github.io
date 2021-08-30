@@ -10,7 +10,7 @@ event:
 **When:** 2021-11-15 15:30-17:30 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom  
+The event is public via zoom: https://zoom.us/j/98904266100   
 
 <!--more-->
 **Abstract** – Isabel Merielles gives a lecture at the CUDAN Open Lab Seminar Series. Topic TBA.
