@@ -10,7 +10,7 @@ event:
 **When:** 2021-11-08 17:00-19:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom  
+The event is public via zoom: https://zoom.us/j/98904266100  
 Websites: osome.iu.edu & cnets.indiana.edu/fil  
 
 <!--more-->
