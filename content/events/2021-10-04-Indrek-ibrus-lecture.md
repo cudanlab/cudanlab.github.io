@@ -10,7 +10,7 @@ event:
 **When:** 2021-10-04 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom. 
+The event is public via zoom: https://zoom.us/j/98904266100   
 
 <!--more-->
 **Abstract** – Prof. Indrek Ibrus gives a lecture at the CUDAN Open Lab Seminar Series on "Where is metadata coming from? The institutional power struggles and dialogues shaping the evolution of audiovisual content metadata standards".
