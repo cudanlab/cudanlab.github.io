@@ -10,7 +10,7 @@ event:
 **When:** 2021-12-06 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom  
+The event is public via zoom: https://zoom.us/j/98904266100  
 Websites: https://stefanobalietti.com & https://nodegame.org
 
 <!--more-->
