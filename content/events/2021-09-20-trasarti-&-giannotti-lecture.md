@@ -7,7 +7,7 @@ event:
   end: 2021-09-20T16:00:00-00:00
 ---
 
-**When:** 2021-09-20 14:00-14:00 (Tallinn time)  
+**When:** 2021-09-20 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
 The event is public via zoom  
