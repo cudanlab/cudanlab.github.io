@@ -10,7 +10,7 @@ event:
 **When:** 2021-12-13 start time TBA  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom    
+The event is public via zoom: https://zoom.us/j/98904266100    
 
 <!--more-->
 **Abstract** – Sareeta Amrute gives a lecture at the CUDAN Open Lab Seminar Series. Topic TBA.
