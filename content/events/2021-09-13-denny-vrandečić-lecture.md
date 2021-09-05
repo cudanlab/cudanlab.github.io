@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Denny Vrandečić Building an Abstract Wikipedia"
+title: "Denny Vrandečić - Building an Abstract Wikipedia"
 event:
   start: 2021-09-13T15:00:00-00:00
   end: 2021-09-13T17:00:00-00:00
