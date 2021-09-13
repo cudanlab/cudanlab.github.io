@@ -28,7 +28,7 @@ CUDAN Team Faculty
 
 **Marek Tamm**, Professor of cultural history at the School of Humanities of Tallinn University. Head of Tallinn University Centre of Excellence in Intercultural Studies, Head of the Estonian Graduate School of Culture Studies and Arts. [ETIS](https://www.etis.ee/CV/Marek_Tamm/eng?lang=ENG "ETIS")  
 
-**Kai Pata**, Associate professor of educational technology at the School of Digital Technology of Tallinn University. Senior Research Fellow in Digital Learning Ecosystems, School of Digital Technologies. [ETIS](https://www.etis.ee/CV/Kai_Pata/est?tabId=CV_ENG "ETIS")  
+**Sirje Virkus**, Professor of Information Science at the School of Digital Technology of Tallinn University. Head of Study Area: Information Sciences, School of Digital Technologies. [ETIS](https://www.etis.ee/CV/Sirje_Virkus/est?tabId=CV_ENG "ETIS")  
 
 
 CUDAN Team Coordinator
