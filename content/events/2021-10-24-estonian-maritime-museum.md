@@ -13,7 +13,7 @@ event:
 Website: https://meremuuseum.ee/workshop2021/
 
 <!--more-->
-**Abstract** – On the first day, CUDAN Senior Research Fellows Mila Oiva, Ksenia Muhkina, Vejune Zemaityte, Tasweer Ahmad and CUDAN ERA Chair Maximilian Schich together with Daniel Chávez Heras will present a workshop on Digital Data in the Service of Cultural Heritage. On the second day there are practical sessions led by CUDAN research fellow Andres Karjus, also keynote lecture by CUDAN ERA Chair Maximilian Schich. 
+**Abstract** – On the first day, CUDAN Research Fellows Mila Oiva, Ksenia Muhkina, Vejune Zemaityte, Tasweer Ahmad and CUDAN ERA Chair Maximilian Schich together with Daniel Chávez Heras will present a workshop on Digital Data in the Service of Cultural Heritage. On the second day there are practical sessions led by CUDAN Research Fellow Andres Karjus, also keynote lecture by CUDAN ERA Chair Maximilian Schich. 
 
 
 **Digital Data in the Service of Cultural Heritage**
