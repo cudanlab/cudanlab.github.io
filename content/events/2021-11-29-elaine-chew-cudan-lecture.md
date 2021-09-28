@@ -8,7 +8,7 @@ event:
 ---
 
 **When:** 2021-11-29 14:00-16:00 (Tallinn time)  
-**Where:** CUDAN Open Lab (hybrid)  
+**Where:** M-213 and online (hybrid)  
 
 The event is public via zoom: https://zoom.us/j/98904266100  
 Websites: http://cosmos.ircam.fr, http://www.ircam.fr/person/elaine-chew  
