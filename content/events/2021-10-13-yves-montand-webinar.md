@@ -4,7 +4,7 @@ bookHidden: true
 title: "CUDAN@Yves Montand 100 years webinar"
 event:
   start: 2021-10-13T13:00:00-00:00
-  end: 2021-09-08T14:30:00-00:00
+  end: 2021-10-13T14:30:00-00:00
 ---
 
 **When:** 2021-10-13 13:00-14:30  
