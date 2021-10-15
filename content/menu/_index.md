@@ -12,4 +12,3 @@ bookMenuLevels: 1
 - [Team]({{< relref "team" >}})
 - [Contact]({{< relref "contact" >}})
 - [Subscribe]({{< relref "subscribe" >}})
-
