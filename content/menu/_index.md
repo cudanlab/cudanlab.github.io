@@ -11,3 +11,5 @@ bookMenuLevels: 1
 - [ERA Chair]({{< relref "era-chair" >}})
 - [Team]({{< relref "team" >}})
 - [Contact]({{< relref "contact" >}})
+- [Subscribe]({{< relref "subscribe" >}})
+
