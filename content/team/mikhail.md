@@ -9,7 +9,6 @@ member = "Dr. Mikhail Tamm"
 position = "Senior Research Fellow"
 school = "School of Digital Technologies"
 mail = "mikhailt@tlu.ee"
-<!-- ETIS = "https://www.etis.ee/CV/Yan_Asadchy/est?tabId=CV_ENG" -->
 ORCID = "https://orcid.org/0000-0003-3168-1307"
  >}}   
 

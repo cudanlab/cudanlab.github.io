@@ -92,7 +92,6 @@ school = "School of Digital Technologies, Tallinn University"
 text = "Physicist - Works on application of statistical physics ideas in the interdisciplinary contexts."
 link = "/team/mikhail"
 mail = "mikhailt@tlu.ee"
-<!-- ETIS = "https://www.etis.ee/CV/Ksenia_Mukhina/est?tabId=CV_ENG" -->
  >}}
 
 {{< team-card 
