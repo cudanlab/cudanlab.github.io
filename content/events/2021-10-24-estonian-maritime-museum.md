@@ -7,7 +7,7 @@ event:
   end: 2021-11-25T16:00:00-00:00
 ---
 
-**When:** 2021-11-23 time tbc 
+**When:** 2021-11-24 to 2021-11-25  
 **Where:** hybrid - online and at the Estonian Maritime Museum
     
 Website: https://meremuuseum.ee/workshop2021/
