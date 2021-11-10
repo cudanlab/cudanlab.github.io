@@ -1,8 +1,7 @@
 ---
 bookHidden: true
 
-title: "Paul L.H. Lee and Pan Hui - The Hitchhiker’s Guide to the Metaverse!"
-"
+title: "Paul Hui and Lik-Hang Lee - Hitchhiker's guide to the Metaverse"
 event:
   start: 2021-11-22T14:00:00-00:00
   end: 2021-11-22T16:00:00-00:00
@@ -19,7 +18,7 @@ The event is public via zoom:https://zoom.us/j/98904266100
 **Speakers**:
 
 Pan Hui, Hong Kong University of Science and Technology/University of Helsinki
-Lik-hang Lee, Korea Advanced Institute of Science and Technology
+Lik-Hang Lee, Korea Advanced Institute of Science and Technology
 
 **Biographies**:
 
