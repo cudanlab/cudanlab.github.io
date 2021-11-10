@@ -3,11 +3,11 @@ bookHidden: true
 
 title: "Isabel Meirelles - Data visualization in context"
 event:
-  start: 2021-11-15T15:30:00-00:00
-  end: 2021-11-15T17:30:00-00:00
+  start: 2021-12-13T15:30:00-00:00
+  end: 2021-12-13T17:30:00-00:00
 ---
 
-**When:** 2021-11-15 15:30-17:30 (Tallinn time)  
+**When:** 2021-12-13 15:30-17:30 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
 The event is public via zoom: https://zoom.us/j/98904266100   
