@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Paul Hui and Lik-Hang Lee - Hitchhiker's guide to the Metaverse"
+title: "Paul Hui and Lik-Hang Lee - The Hitchhiker's Guide to the Metaverse"
 event:
   start: 2021-11-22T14:00:00-00:00
   end: 2021-11-22T16:00:00-00:00
@@ -10,7 +10,7 @@ event:
 **When:** 2021-11-22 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom:https://zoom.us/j/98904266100    
+The event is public via zoom: https://zoom.us/j/98904266100    
 
 <!--more-->
 **Abstract** – The term 'metaverse' has been coined to further facilitate the digital transformation in every aspect of our physical lives. At the core of the metaverse stands the vision of an immersive Internet as a gigantic, unified, persistent, and shared realm. While the metaverse may seem futuristic, catalysed by emerging technologies such as Extended Reality, 5G, and Artificial Intelligence, the digital `big bang' of our cyberspace is not far away. In this talk, we will offer a comprehensive framework that examines the latest metaverse development under the dimensions of state-of-the-art technologies and metaverse ecosystems, and illustrates the possibility of the digital 'big bang'. We hope we can provide the audiences a hitchhiker’s guide to survive the Metaverse era.
