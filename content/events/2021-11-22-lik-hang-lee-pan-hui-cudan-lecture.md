@@ -17,7 +17,7 @@ The event is public via zoom: https://zoom.us/j/98904266100
 
 **Speakers**:
 
-Pan Hui, Hong Kong University of Science and Technology/University of Helsinki
+Pan Hui, Hong Kong University of Science and Technology/University of Helsinki   
 Lik-Hang Lee, Korea Advanced Institute of Science and Technology
 
 **Biographies**:
