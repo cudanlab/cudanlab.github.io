@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Paul Hui and Lik-Hang Lee - The Hitchhiker's Guide to the Metaverse"
+title: "Pan Hui and Lik-Hang Lee - The Hitchhiker's Guide to the Metaverse"
 event:
   start: 2021-11-22T14:00:00-00:00
   end: 2021-11-22T16:00:00-00:00
