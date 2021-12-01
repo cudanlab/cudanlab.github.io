@@ -12,5 +12,4 @@ title: "Peter Sheridan Dodds – Computational History and the Stories Surroundi
 The event is public via zoom:  <https://zoom.us/j/94858442274>  
 Website: <https://www.uvm.edu/pdodds/> 
 
-<!--more-->
-**Abstract** – CUDAN Senior Research Fellow Andres Karjus gives a quest lecture at a Colloquium for Computational Linguistics and Linguistics seminar, University of Stuttgart on “Exploring lexical dynamics using diachronic corpora and artificial language experiments”
+
