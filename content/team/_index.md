@@ -65,6 +65,16 @@ CUDAN Senior Research Fellows
 ---  
 
 {{< team-card 
+image = "/img/team-icon/tasweer.jpg"
+member = "Tasweer Ahmad" 
+position = "Research Fellow"
+school = "Baltic Film, Media and Arts School, Tallinn University"
+text = ""
+link = "/team/tasweer"
+mail = "tasweer@tlu.ee"
+ >}}
+
+{{< team-card 
 image = "/img/team-icon/andres.jpg"
 member = "Andres Karjus" 
 position = "Research Fellow"
@@ -110,7 +120,9 @@ school = "School of Digital Technologies, Tallinn University"
 text = "Physicist - Works on application of statistical physics ideas in the interdisciplinary contexts."
 link = "/team/mikhail"
 mail = "mikhailt@tlu.ee"
+ETIS = "https://www.etis.ee/CV/Mikhail_Tamm/?lang=ENG"
  >}}
+
 
 {{< team-card 
 image = "/img/team-icon/vejune.jpg"
