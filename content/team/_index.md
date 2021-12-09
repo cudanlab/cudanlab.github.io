@@ -29,10 +29,11 @@ image = "/img/team-icon/indrek.jpg"
 member = "Indrek Ibrus"
 position = "Professor of Media Innovation"
 school = "Baltic Film, Media and Arts School (BFM), Tallinn University"
+school = "Head at Tallinn University Centre of Excellence in Media Innovation and Digital Culture (MEDIT)"
 mail = "ibrus@tlu.ee"
 twitter = "schichmax"
 ETIS = "https://www.etis.ee/CV/Indrek_Ibrus/eng?lang=ENG"
-text = "Head at Tallinn University Centre of Excellence in Media Innovation and Digital Culture (MEDIT)"
+text = ""
  >}}
 
 {{< team-card 
