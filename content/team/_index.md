@@ -27,11 +27,10 @@ CUDAN Team Faculty
 {{< team-card 
 image = "/img/team-icon/indrek.jpg"
 member = "Indrek Ibrus"
-position = "Professor of Media Innovation"
-school = "Baltic Film, Media and Arts School (BFM), Tallinn University"
+position = "Professor of Media Innovation / Baltic Film, Media and Arts School (BFM), Tallinn University"
 school = "Head at Tallinn University Centre of Excellence in Media Innovation and Digital Culture (MEDIT)"
 mail = "ibrus@tlu.ee"
-twitter = "schichmax"
+twitter = "IndrekIbrus"
 ETIS = "https://www.etis.ee/CV/Indrek_Ibrus/eng?lang=ENG"
 text = ""
  >}}
@@ -39,11 +38,12 @@ text = ""
 {{< team-card 
 image = "/img/team-icon/marek.jpg"
 member = "Marek Tamm"
-position = "Professor of Cultural History"
-school = "School of Humanities, Tallinn University"
+position = "Professor of Cultural History / School of Humanities, Tallinn University"
+school = "Head of Tallinn University Centre of Excellence in Intercultural Studies, Head of the Estonian Graduate School of Culture Studies and Arts"
 mail = "marek.tamm@tlu.ee"
 ETIS = "https://www.etis.ee/CV/Marek_Tamm/eng?lang=ENG"
-text = "Head of Tallinn University Centre of Excellence in Intercultural Studies, Head of the Estonian Graduate School of Culture Studies and Arts"
+text = ""
+
  >}}
 
 **Sirje Virkus**, Professor of Information Science at the School of Digital Technology of Tallinn University. Head of Study Area: Information Sciences, School of Digital Technologies. [ETIS](https://www.etis.ee/CV/Sirje_Virkus/est?tabId=CV_ENG "ETIS")  
