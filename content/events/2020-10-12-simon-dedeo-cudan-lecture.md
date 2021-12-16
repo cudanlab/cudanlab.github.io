@@ -11,3 +11,5 @@ title: "Simon DeDeo – Sense-making at Scale!"
 
 The event is public via zoom:  <https://zoom.us/j/94858442274>  
 Website: <http://tuvalu.santafe.edu/~simon/>  
+
+Video of the seminar: https://youtu.be/gEXWo_0XaC8
