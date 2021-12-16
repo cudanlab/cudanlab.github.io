@@ -9,6 +9,8 @@ title: "Lab encounter with members of the Social Complexity Lab and Sune Lehmann
 **When:** 2021-02-01 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
-The event is public via zoom:  https://zoom.us/j/94858442274  
-Websites & Inspiration: https://sodas.ku.dk/ & https://sunelehmann.com/2020/11/06/rethinking-conferences-in-the-age-of-covid-19/
+The event was public via zoom.   
+Websites & Inspiration: https://sodas.ku.dk/ & https://sunelehmann.com/2020/11/06/rethinking-conferences-in-the-age-of-covid-19/   
+
+Video of the seminar: https://youtu.be/WdKcrNIeFAw
 
