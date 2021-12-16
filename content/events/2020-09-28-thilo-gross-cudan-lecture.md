@@ -10,3 +10,5 @@ title: "Thilo Gross – Cultural Analytics from an Ecologial Physics Perspective
 **Where:** CUDAN Open Lab (online)  
 
 The event is public via zoom:  <https://zoom.us/j/94858442274>  
+
+Video of the seminar: https://youtu.be/uTr_yKZonfc
