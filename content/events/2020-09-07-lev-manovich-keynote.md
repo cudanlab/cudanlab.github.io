@@ -11,3 +11,5 @@ title: "Lev Manovich – What Does Data Want?"
 
 The event is public via zoom: <https://zoom.us/j/99054259935>  
 Details: <http://cudan.tlu.ee/2020-09-07-lev-manovich-keynote/>  
+
+Video of the seminar: https://youtu.be/lPYVfvufXnk
