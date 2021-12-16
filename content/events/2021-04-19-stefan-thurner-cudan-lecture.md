@@ -10,5 +10,7 @@ event:
 **When:** 2021-04-19 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom: https://zoom.us/j/98904266100  
+The event was public via zoom.  
 Websites: https://www.csh.ac.at  
+
+Video of the seminar: https://youtu.be/Kw1g8Onw5lQ
