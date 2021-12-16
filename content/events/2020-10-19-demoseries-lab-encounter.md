@@ -11,3 +11,5 @@ title: "Lab encounter with Sandra Laugier and DEMOSERIES ADG ERC lab members"
 
 The event is public via zoom: <https://zoom.us/j/94858442274>  
 Website: <https://www.demoseries.eu>   
+
+Video of the seminar: https://youtu.be/tsj5xDJNBQk
