@@ -10,5 +10,7 @@ event:
 **When:** 2021-03-01 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom: https://zoom.us/j/98904266100  
-Websites: https://livingwithmachines.ac.uk/ & https://networkingarchives.org/
+The event was public via zoom.    
+Websites: https://livingwithmachines.ac.uk/ & https://networkingarchives.org/  
+
+Video of the seminar: https://youtu.be/OSukOaV3kqI
