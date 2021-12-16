@@ -11,3 +11,5 @@ title: "Pia Tikka – Managing narrative complexity within the enactive virtuali
 
 The event is public via zoom:  <https://zoom.us/j/94858442274>  
 Details: <https://www.tlu.ee/en/bfm/events/cudan-open-lab-seminars-pia-tikka> 
+
+Video of the seminar: https://youtu.be/gBzsmbI7uq8
