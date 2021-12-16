@@ -12,5 +12,7 @@ title: "Lab encounter with members of The Digital Humanities Initiative at Nanji
 The event is public via zoom: <https://zoom.us/j/94858442274>  
 Guest link: <https://digitalhumanities.nju.edu.cn/>   
 
+Video of the seminar: https://youtu.be/GaSrmKYnsUI
+
 <!--more-->
 **Abstract** – CUDAN Open Lab Seminar: Lab encounter with members of The Digital Humanities Initiative at Nanjing University: WANG Tao, Professor of Middle Age and German History at History department; LI Jiang, Professor of Informetrics at School of Information Science; CHEN Gang, Professor of Geographic Information at Department of Geographic Information Science, and CHEN Jing, Professor of Art and Cultural Creativity at School of Arts.
