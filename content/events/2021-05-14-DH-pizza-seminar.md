@@ -10,7 +10,7 @@ event:
 **When:** 2021-05-21 12:15 (Tallinn time)  
 **Where:** Helsinki Centre for Digital Humanities (online)  
 
-The event is public via zoom  
+The event was public via zoom   
 Website: https://www2.helsinki.fi/en/helsinki-centre-for-digital-humanities/research-in-cultural-data-analytics
 
 <!--more-->
