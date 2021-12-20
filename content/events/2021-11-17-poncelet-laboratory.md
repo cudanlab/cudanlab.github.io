@@ -12,6 +12,6 @@ event:
 
 
 <!--more-->
-**Abstract** – CUDAN Research Fellow Andres Karjus will present a talk "Quantifying change in language and culture" at the 18th seminar of the Poncelet laboratory in Moscow.  
+**Abstract** – CUDAN Research Fellow Andres Karjus presented a talk "Quantifying change in language and culture" at the 18th seminar of the Poncelet laboratory in Moscow.  
 
 While human languages and cultures display considerable variation across the world, they all share one constant property: change. In this talk, I will give an overview of recent research on measuring and experimenting with causes of change in language, using experimental and corpus data, as well as culture, on the example of visual art and media production data.
