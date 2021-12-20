@@ -4,7 +4,7 @@ bookHidden: true
 title: "Nancy Baym - The Future of Tensions at Work"
 event:
   start: 2022-02-07T16:00:00-00:00
-  end: 2021-02-07T18:00:00-00:00
+  end: 2022-02-07T18:00:00-00:00
 ---
 
 **When:**  2022-02-07 16:00-18:00 (Tallinn time)  
