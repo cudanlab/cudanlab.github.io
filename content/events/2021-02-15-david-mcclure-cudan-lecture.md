@@ -9,8 +9,6 @@ event:
 
 **When:** 2021-02-15 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.   
-Websites: https://galaxy.opensyllabus.org/ & https://opensyllabus.org/ & http://dclure.org/  
-
+   
+Websites: https://galaxy.opensyllabus.org/ & https://opensyllabus.org/ & http://dclure.org/   
 Video of the seminar: https://youtu.be/avgGz5cYrRA
