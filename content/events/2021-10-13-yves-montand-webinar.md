@@ -13,7 +13,7 @@ event:
 Website: https://sites.utu.fi/montand/webinar/  
 
 <!--more-->
-**Abstract** – CUDAN Senior Research Fellow Mila Oiva will give a talk at a workshop dedicated to the Yves Montand’s 100th birthday.  
+**Abstract** – CUDAN Senior Research Fellow Mila Oiva gave a talk at a workshop dedicated to the Yves Montand’s 100th birthday.  
 
 Yves Montand (born as Ivo Livi, 1921-1991) was a celebrated singer and actor whose fame reached different continents and even transcended the borders of the Cold War.  
 
