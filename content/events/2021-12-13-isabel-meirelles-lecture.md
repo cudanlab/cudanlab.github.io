@@ -8,9 +8,7 @@ event:
 ---
 
 **When:** 2021-12-13 15:30-17:30 (Tallinn time)  
-**Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.     
+**Where:** CUDAN Open Lab (online)    
 
 Video of the seminar: https://youtu.be/R06VKBgbFr4  
 
