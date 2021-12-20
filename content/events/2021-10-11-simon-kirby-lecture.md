@@ -10,9 +10,7 @@ event:
 **When:** 2021-10-11 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event was public via zoom.      
-Website: https://www.simonkirby.net/  
-
+Website: https://www.simonkirby.net/   
 Video of the seminar: https://youtu.be/YJ7HbS6NYc0   
 
 <!--more-->
