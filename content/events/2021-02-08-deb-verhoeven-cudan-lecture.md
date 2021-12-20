@@ -8,10 +8,8 @@ title: "Deb Verhoeven – Kinomatics: Big Data goes to the Movies"
 
 **When:** 2021-02-08 10:00-12:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.   
+   
 Websites: https://debverhoeven.com/ & https://kinomatics.com/  
-
 Video of the seminar: https://youtu.be/3Dc27DMDb2Y
 
 <!--more-->
