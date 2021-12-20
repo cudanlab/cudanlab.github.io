@@ -10,7 +10,7 @@ event:
 **When:** 2021-04-29 19:00-21:00 (Tallinn time)  
 **Where:** Semiosalong (online) 
 
-The event is public via zoom: https://ut-ee.zoom.us/j/91981196858?pwd=Sks3TGFkVmN1WktaZGdXU2laSHhXdz09  
+The event was public via zoom: https://ut-ee.zoom.us/j/91981196858?pwd=Sks3TGFkVmN1WktaZGdXU2laSHhXdz09  
 Websites: http://semiosalong.blogspot.com/ & https://www.facebook.com/events/4047235018630936 
 
 <!--more-->
