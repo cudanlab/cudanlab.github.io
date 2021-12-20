@@ -8,8 +8,6 @@ title: "Cassini Nazir – Designing Collective Aspirations & Collaboration"
 
 **When:** 2020-11-23 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.  
+  
 Websites: <https://frisco.unt.edu/cassini-nazir> & <https://twitter.com/cassininazir>   
-
 Video of the seminar: https://youtu.be/Y0ciNXW4m34
