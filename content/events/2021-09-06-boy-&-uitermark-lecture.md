@@ -9,10 +9,8 @@ event:
 
 **When:** 2021-09-06 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.      
-Websites: https://www.jboy.space & https://www.justusuitermark.nl/
-
+      
+Websites: https://www.jboy.space & https://www.justusuitermark.nl/ 
 Video of the seminar: https://youtu.be/CXR-E8ibmm4  
 
 <!--more-->
