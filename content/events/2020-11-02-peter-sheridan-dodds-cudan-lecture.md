@@ -8,8 +8,6 @@ title: "Peter Sheridan Dodds – Computational History and the Stories Surroundi
 
 **When:** 2020-11-02 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.  
+  
 Website: <https://www.uvm.edu/pdodds/>  
-
 Video of the seminar: https://youtu.be/ngWnaHx1VHU
