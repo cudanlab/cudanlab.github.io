@@ -4,7 +4,7 @@ bookHidden: true
 title: "Jason Potts - Blockchain in Creative Industries"
 event:
   start: 2022-02-21T10:00:00-00:00
-  end: 2021-02-21T12:00:00-00:00
+  end: 2022-02-21T12:00:00-00:00
 ---
 
 **When:**  2022-02-21 10:00-12:00 (Tallinn time)  
