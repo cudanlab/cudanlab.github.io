@@ -10,7 +10,7 @@ event:
 **When:** 2021-05-03 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom: https://zoom.us/j/98904266100  
+The event was public via zoom.  
 Websites: http://www.lucykueng.com & https://reutersinstitute.politics.ox.ac.uk/hearts-and-minds-harnessing-leadership-culture-and-talent-really-go-digital   
 
 <!--more-->
