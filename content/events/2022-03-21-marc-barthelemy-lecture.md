@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Marc Barthelemy - Urban Science: a statistical physics perspective"
+title: "Marc Barthelemy - Urban Science: a Statistical Physics Perspective"
 event:
   start: 2022-03-21T14:00:00-00:00
   end: 2022-03-21T16:00:00-00:00
