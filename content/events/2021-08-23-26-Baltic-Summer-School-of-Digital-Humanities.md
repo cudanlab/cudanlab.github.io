@@ -10,7 +10,6 @@ event:
 **When:** 2021-08-24  
 **Where:** online  
 
-The event is public upon registration https://www.nlib.ee/et/digital-humanities-tallinn-2021-register    
 Website: https://www.nlib.ee/digital-humanities-tallinn-2021
 
 <!--more-->
