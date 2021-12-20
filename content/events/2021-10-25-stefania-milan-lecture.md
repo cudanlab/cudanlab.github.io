@@ -9,10 +9,8 @@ event:
 
 **When:** 2021-10-25 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom       
+     
 Websites: data-activism.net & stefaniamilan.net  
-
 Video of the seminar: https://youtu.be/3rgrIAvIGqQ   
 
 <!--more-->
