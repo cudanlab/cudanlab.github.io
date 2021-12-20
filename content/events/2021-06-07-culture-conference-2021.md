@@ -10,7 +10,7 @@ event:
 **When:** 2021-06-07 and 2021-06-08 15:45 (Tallinn time)  
 **Where:** The event is public via zoom (online)  
 
-The event is public via zoom: https://andreskarjus.github.io/talks/cultureconference2021/  
+The event was public via zoom: https://andreskarjus.github.io/talks/cultureconference2021/  
 Websites: https://culture-conference.com/ & https://andreskarjus.github.io/talks/cultureconference2021/  
 
 <!--more-->
