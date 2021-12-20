@@ -10,7 +10,9 @@ event:
 **When:** 2021-03-29 10:00-12:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom: https://zoom.us/j/98904266100 
+The event was public via zoom.
+
+Video of the seminar: https://youtu.be/t1K1fE0igpk
 
 
 <!--more-->
