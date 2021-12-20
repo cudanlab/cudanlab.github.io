@@ -9,10 +9,8 @@ event:
 
 **When:** 2021-04-12 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.  
-Websites: https://hci.iwr.uni-heidelberg.de/people/bommer & https://hci.iwr.uni-heidelberg.de/compvis/research 
-
+  
+Websites: https://hci.iwr.uni-heidelberg.de/people/bommer & https://hci.iwr.uni-heidelberg.de/compvis/research  
 Video of the seminar: https://youtu.be/JhIrhJnT_l0
 
 <!--more-->
