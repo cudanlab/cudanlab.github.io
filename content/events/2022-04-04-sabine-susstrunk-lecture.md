@@ -11,6 +11,7 @@ event:
 **Where:** CUDAN Open Lab (online)
 
 The event is public via zoom.  
+Webpage: https://www.epfl.ch/labs/ivrl/  
 
 
 <!--more-->
