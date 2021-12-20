@@ -9,7 +9,7 @@ title: "CUDAN@ University of Stuttgart"
 **When:** 2021-01-11 15:00 (Tallinn time)  
 **Where:** University of Stuttgart (online)  
 
-The event is public via webex: https://unistuttgart.webex.com/meet/sabine.schulte-im-walde  
+The event was public via webex: https://unistuttgart.webex.com/meet/sabine.schulte-im-walde  
 Websites: https://www.ims.uni-stuttgart.de/en/research/colloquium/ 
 
 <!--more-->
