@@ -4,10 +4,10 @@ bookHidden: true
 title: "POSTPONED: Elaine Chew - At the Heart of Music: From Perception to Physiology Analytics"
 event:
   start: 2022-02-14T14:00:00-00:00
-  end: 2021-02-14T16:00:00-00:00
+  end: 2022-02-14T16:00:00-00:00
 ---
 
-**When:** TBA 
+**When:** TBA   
 **Where:** M-213 and online (hybrid)  
 
 The event is public via zoom: https://zoom.us/j/98904266100  
