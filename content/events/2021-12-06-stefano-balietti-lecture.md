@@ -9,10 +9,8 @@ event:
 
 **When:** 2021-12-06 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.    
-Websites: https://stefanobalietti.com & https://nodegame.org
-
+   
+Websites: https://stefanobalietti.com & https://nodegame.org  
 Video of the seminar: https://youtu.be/ieeXSqWyi5M  
 
 <!--more-->
