@@ -10,8 +10,10 @@ event:
 **When:** 2021-09-20 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom: https://zoom.us/j/98904266100   
-Website: http://www.sobigdata.eu/ 
+The event was public via zoom.     
+Website: http://www.sobigdata.eu/  
+
+Video of the seminar: https://youtu.be/MnZadnrJ2dE  
 
 <!--more-->
 **Abstract** – Data Science is rapidly changing the way we do business, socialize, and govern society. A new paradigm is emerging, where theories and models and the bottom-up discovery of knowledge from data mutually support each other. Experiments and analyses over massive datasets are becoming functional not only to the validation of existing theories and models but also to the data-driven discovery of patterns emerging from data, which can help scientists design better theories and models, yielding a deeper understanding of the complexity of social, economic, biological, technological, cultural and natural phenomena. Data science is changing the way scientific research is performed. Research infrastructures (RIs) play a crucial role in the advent and development of data science. Resources such as data and methods help domain and data scientists to transform research or an innovation question into a responsible data-driven analytical process. This process is executed onto the platform, supporting experiments that yield scientific output, policy recommendations, or innovative proofs-of-concept.   
