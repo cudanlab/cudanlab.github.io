@@ -9,10 +9,8 @@ event:
 
 **When:** 2021-09-20 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
-
-The event was public via zoom.     
-Website: http://www.sobigdata.eu/  
-
+     
+Website: http://www.sobigdata.eu/   
 Video of the seminar: https://youtu.be/MnZadnrJ2dE  
 
 <!--more-->
