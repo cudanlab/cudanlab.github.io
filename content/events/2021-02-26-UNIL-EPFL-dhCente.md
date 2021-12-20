@@ -10,7 +10,7 @@ event:
 **When:** 2021-02-26.  
 **Where:** UNIL-EPFL dhCenter (online)  
 
-The talk is online: https://dhcenter-unil-epfl.com/en/2021/02/26/fake-truth-2/ 
+The talk was online: https://dhcenter-unil-epfl.com/en/2021/02/26/fake-truth-2/ 
 Website: https://dhcenter-unil-epfl.com/en/
 
 <!--more-->
