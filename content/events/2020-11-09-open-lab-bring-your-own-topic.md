@@ -9,4 +9,3 @@ title: "Open Floor – Bring Your Own Discussion topic (BYOD)"
 **When:** 2020-11-09 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom: <https://zoom.us/j/94858442274> 
