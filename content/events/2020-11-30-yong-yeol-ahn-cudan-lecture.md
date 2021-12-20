@@ -8,8 +8,6 @@ title: "Yong-Yeol Ahn – Capturing Latent Socio-Cultural Structures Via Mobilit
 
 **When:** 2020-11-30 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)   
-
-The event was public via zoom.  
+  
 Website: <https://yongyeol.com/>  
-
 Video of the seminar: https://youtu.be/yQxbFVc_ewA
