@@ -57,7 +57,7 @@ image = "/img/team-icon/mariliis.jpg"
 member = "Mariliis Niinemägi"
 position = "Project Coordinator"
 school = "CUDAN"
-text = "Sine coordinationihil est."
+text = "Sine coordinatio nihil est."
 mail = "mariliis.niinemagi@tlu.ee"
  >}}   
 
