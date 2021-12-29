@@ -5,7 +5,7 @@ title: "About"
 ABOUT
 ==  
 
->Our project aims at building a new analytical approach, called “Cultural Data Analytics” that integrates quantitative and qualitative methods, including aspects of network science, complexity science, computational social science, science of science, machine learning, data science, design research, visualization, art history, cultural semiotics, digital culture studies, and creative industries’ studies to work with digitized cultural heritage as well as with born-digital data acquired from contemporary platforms.
+>Our project aims at building a new analytical approach, called “**CU**ltural **D**ata **AN**alytics" **(CUDAN)** that integrates quantitative and qualitative methods, including aspects of network science, complexity science, computational social science, science of science, machine learning, data science, design research, visualization, art history, cultural semiotics, digital culture studies, and creative industries’ studies to work with digitized cultural heritage as well as with born-digital data acquired from contemporary platforms.
 
 
 ![BFM, Tallinn University (image)](/img/28084978075_bf8b497648_o.jpg "BFM, Tallinn University (image)")
