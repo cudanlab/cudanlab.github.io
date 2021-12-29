@@ -227,6 +227,8 @@ CUDAN Advisory Board
 
 **Jaan Tallinn**, Co-founder of Skype, co-founder of the Cambridge Centre for the Study of Existential Risk, founder of the Future of Life Institute  
 
+**Julio M. Ottino**, R.R. McCormick Institute Professor and Dean of Engineering and Applied Science, Northwestern University
+
 Academic Advisory Board
 ---
 **Nancy Baym**, Principal Researcher at Microsoft Research – New England, Research Affiliate at Comparative Media Studies/Writing at MIT  
