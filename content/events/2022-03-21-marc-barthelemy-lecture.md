@@ -1,13 +1,13 @@
 ---
 bookHidden: true
 
-title: "Marc Barthelemy - Urban Science: a Statistical Physics Perspective"
+title: "Anne Kandler CUDAN lecture"
 event:
-  start: 2022-03-21T14:00:00-00:00
-  end: 2022-03-21T16:00:00-00:00
+  start: 2022-04-18T14:00:00-00:00
+  end: 2022-04-18T16:00:00-00:00
 ---
 
-**When:**  2022-03-21 14:00-16:00 (Tallinn time)  
+**When:**  2022-04-18 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
 The event is public via zoom.  
