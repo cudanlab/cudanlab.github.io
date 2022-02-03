@@ -10,7 +10,7 @@ event:
 **When:**  2022-02-07 16:00-18:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
-The event is public via zoom.  
+The event is public via zoom https://zoom.us/j/98904266100   
 Website: https://www.microsoft.com/en-us/research/project/the-new-future-of-work/
 
 
