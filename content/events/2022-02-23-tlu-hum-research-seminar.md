@@ -11,7 +11,6 @@ event:
 **Where:** The event is hybrid, in ruum M648 Tallinn University and online via zoom.  
 
 The event is public via zoom: https://zoom.us/j/91041935597   
-Websites: https://culture-conference.com/ & https://andreskarjus.github.io/talks/cultureconference2021/  
 
 <!--more-->
 **Abstract** – CUDAN Research Fellow Andres Karjus will give a talk at Tallinn University, School of Humanities Research Seminar session on "Language change in a polarizing world, big data and social media". The lecture is in Estonian. 
