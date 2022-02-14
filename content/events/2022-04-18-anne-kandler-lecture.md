@@ -8,8 +8,12 @@ event:
 ---
 
 **When:**  2022-04-18 14:00-16:00 (Tallinn time)  
-**Where:** CUDAN Open Lab (online)
+**Where:** CUDAN Open Lab (online)  
 
+The event is public via zoom https://zoom.us/j/98904266100  
+
+
+<!--more-->
 Anne Kandler, Department of Human Behavior, Ecology and Culture, Max Planck Institute of Evolutionary Anthropology will give a lecture on "From pattern to process: Can we infer processes of social learning from cultural frequency data?".  
 
 **Abstract**  
