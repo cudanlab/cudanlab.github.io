@@ -3,8 +3,8 @@ bookHidden: true
 
 title: "CUDAN@ School of Humanities, Tallinn University"
 event:
-  start: 2022-02-23T16:15:00-00:00
-  end: 2022-02-23T18:15:00-00:00
+  start: 2022-02-12T16:15:00-00:00
+  end: 2022-02-12T18:15:00-00:00
 ---
 
 **When:** 2022-02-12 16:15 (Tallinn time)  
