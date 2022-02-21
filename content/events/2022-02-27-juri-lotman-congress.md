@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "CUDAN@ @ International Congress “Juri Lotman’s Semiosphere”"
+title: "CUDAN@ International Congress “Juri Lotman’s Semiosphere”"
 event:
   start: 2022-02-27T09:30:00-00:00
   end: 2022-02-27T10:30:00-00:00
