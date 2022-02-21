@@ -8,7 +8,8 @@ title: "Lab encounter with Francesco Bonchi, Yamir Moreno, and Ciro Cattuto et a
 
 **When:** 2022-02-28 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
- 
+
+The event is public via zoom https://zoom.us/j/98904266100  
 Website: https://www.isi.it/en/home  
 
 <!--more-->
