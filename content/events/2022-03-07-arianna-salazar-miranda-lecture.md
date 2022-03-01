@@ -11,7 +11,7 @@ event:
 **Where:** CUDAN Open Lab (online)
 
 The event is public via zoom https://zoom.us/j/98904266100  
-Webpage: https://senseable.mit.edu/
+Webpages: http://ariana.scripts.mit.edu/; https://senseable.mit.edu/. 
 
 <!--more-->
 **Abstract** – Arianna Salazar Miranda, a PhD student at Massachusetts Institute of Technology and Researcher at the MIT Senseable City Lab will give a lecture on "Urban Analytics and City Design". 
