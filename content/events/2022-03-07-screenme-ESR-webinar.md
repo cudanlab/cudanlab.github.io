@@ -3,8 +3,8 @@ bookHidden: true
 
 title: "CUDAN@ ScreenME ESR webinar"
 event:
-  start: 2022-03-07T13:00:00-00:00
-  end: 2022-03-07T13:00:00-00:00
+  start: 2022-03-06T13:00:00-00:00
+  end: 2022-03-06T13:00:00-00:00
 ---
 
 **When:** 2022-03-07 13:00-14:30 (Tallinn time)  
