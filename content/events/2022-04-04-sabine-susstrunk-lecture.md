@@ -15,4 +15,4 @@ Webpage: https://www.epfl.ch/labs/ivrl/
 
 
 <!--more-->
-**Abstract** – Sabine Süsstrunk, Professor and Director of the Image and Visual Representation Lab, School of Computer and Communication Sciences, EPFL will give a lecture on "Visual Computing: Facts, Fakes, and Fiction".  
+**Abstract** – Sabine Süsstrunk, Professor and Director of the Image and Visual Representation Lab, School of Computer and Communication Sciences, EPFL will give a lecture on "Visual Computing: Facts, Fakes, and Fiction". The introduction of digital cameras in the early 21st century democratized image capture. Social media has changed the way we share and interact with its images, and artificial intelligence allows us to make sense of the flow of this visual information. Using examples of our research, I will describe the benefits of all these visual computing technologies to society, while pointing out some of the dangers.
