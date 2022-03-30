@@ -10,7 +10,7 @@ event:
 **When:**  2022-04-04 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
-The event is public via zoom.  
+The event is public via zoom: https://zoom.us/j/98904266100  
 Webpage: https://www.epfl.ch/labs/ivrl/  
 
 
