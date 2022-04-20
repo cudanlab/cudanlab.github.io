@@ -219,7 +219,7 @@ CUDAN Advisory Board
 ---
 **Taaniel Raudsepp**, Undersecretary for Art in the Ministry of Culture  
 
-**Siim Sikkut**, Undersecretary and e-government COO, Ministry of Economic Affairs and Communication  
+**Luukas Kristjan Ilves**, Undersecretary and e-government COO, Ministry of Economic Affairs and Communication  
 
 **Ott Jalakas**, Co-founder and COO of Lingvist  
 
