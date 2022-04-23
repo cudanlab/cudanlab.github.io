@@ -10,14 +10,10 @@ event:
 **When:**  2022-05-09 10:00-12:00 (Tallinn time)  
 **Where:** CUDAN Open Lab room A107 and online via zoom. 
 
-The event is public via zoom: https://zoom.us/j/98904266100
+The event is public via zoom: https://zoom.us/j/98904266100  
 
-**Abstract**  
-
-Frank Schweitzer
-Chair of Systems Design, ETH Zürich, Switzerland
-
-As Herbert Simon states it, "a wealth of information creates a poverty of attention".
+<!--more-->
+**Abstract** – As Herbert Simon states it, "a wealth of information creates a poverty of attention".
 Often, this wealth of information is not even realized. 
 Thousands of hand written documents have been collected in state archives over centuries, but only a few specialists are able to decipher them.
 Millions of printed matters are stored in libraries, but noone reads or borrows them again. 
@@ -32,4 +28,7 @@ How can we extract social networks, measure the importance of individuals and de
 How can we distinguish meaningful from random interactions and consider preferences for interactions in network models?
 How can we build large-scale knowledge graphs?
 The talk will address these questions with a focus on methodology.
-It spares the details, to catch a glimpse of how the wealth of isolated information can be turned into a new attention for relationships.
+It spares the details, to catch a glimpse of how the wealth of isolated information can be turned into a new attention for relationships.  
+
+Frank Schweitzer
+Chair of Systems Design, ETH Zürich, Switzerland
