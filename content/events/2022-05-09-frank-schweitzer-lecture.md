@@ -8,7 +8,7 @@ event:
 ---
 
 **When:**  2022-05-09 10:00-12:00 (Tallinn time)  
-**Where:** CUDAN Open Lab room A107 and online via zoom. 
+**Where:** CUDAN Open Lab room A108 and online via zoom. 
 
 The event is public via zoom: https://zoom.us/j/98904266100  
 
