@@ -8,10 +8,9 @@ event:
 ---
 
 **When:** 2022-05-10 14:00-15:30 (Tallinn time)  
-**Where:** Online, registration TBA  
+**Where:** Online, registration via https://us06web.zoom.us/meeting/register/tZwpd-mqpjoqG93yvWJM4cLnlmWKAz89lAQw?utm_source=Website 
 
-Webpage: https://publicvalueofdata.tlu.ee/   
-The event is public via zoom: https://ju-se.zoom.us/j/745204163  
+Webpage: https://www.filmeu.eu/cultural-data-analytics-for-understanding-todays-cinema-10th-may-13h-cet-2/
 
 <!--more-->
 **Abstract** – CUDAN Senior Research Fellow Vejune Zemaityte will give an invited online talk titled ‘Cultural Data Analytics for Understanding Today’s Cinema’ at FilmEU Talks series.
