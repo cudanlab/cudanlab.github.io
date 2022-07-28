@@ -13,4 +13,4 @@ event:
 Webpage: https://cinematographer.org.au/a-wider-lens-australian-camera-workforce-development-and-diversity-report/    
 
 <!--more-->
-**Abstract** – CUDAN Senior Research Fellow Vejune Zemaityte has worked on an Australian Camera Workforce Development and Diversity report released which will be released at the A Wider Lens: Australian Camera Workforce Development & Diversity Launch. 
+**Abstract** – CUDAN Senior Research Fellow Vejune Zemaityte has worked on an Australian Camera Workforce Development and Diversity report which will be released at the A Wider Lens: Australian Camera Workforce Development & Diversity Launch. 
