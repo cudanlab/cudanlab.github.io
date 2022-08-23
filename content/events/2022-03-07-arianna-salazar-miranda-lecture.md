@@ -10,8 +10,8 @@ event:
 **When:**  2022-03-07 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
-The event is public via zoom https://zoom.us/j/98904266100  
-Webpages: http://ariana.scripts.mit.edu/ & https://senseable.mit.edu/. 
+Video of the seminar: https://www.youtube.com/watch?v=Zjpe1DJ09Pk  
+Webpages: http://ariana.scripts.mit.edu/ & https://senseable.mit.edu/  
 
 <!--more-->
 **Abstract** – Arianna Salazar Miranda, a PhD student at Massachusetts Institute of Technology and Researcher at the MIT Senseable City Lab will give a lecture on "Urban Analytics and City Design". 
