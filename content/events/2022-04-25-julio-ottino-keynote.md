@@ -10,7 +10,7 @@ event:
 **When:** 2022-04-25 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom https://zoom.us/j/98904266100  
+Video of the seminar: https://www.youtube.com/watch?v=mVD9INErWgs  
 Websites: http://www.juliomarioottino.com/ & https://brucemaustudio.com/ & https://www.massivechangenetwork.com  
 
 
