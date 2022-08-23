@@ -1,16 +1,16 @@
 ---
 bookHidden: true
 
-title: "POSTPONED: Elaine Chew - At the Heart of Music: From Perception to Physiology Analytics"
+title: "Elaine Chew - At the Heart of Music: From Perception to Physiology Analytics"
 event:
-  start: 2022-05-14T14:00:00-00:00
-  end: 2022-05-14T16:00:00-00:00
+  start: 2022-12-12T14:00:00-00:00
+  end: 2022-12-12T16:00:00-00:00
 ---
 
-**When:** TBA   
+**When:** 2022-12-12 14:00-16:00 (Tallinn time)   
 **Where:** M-213 and online (hybrid)  
 
-The event is public via zoom: https://zoom.us/j/98904266100  
+The event is public via zoom: https://zoom.us/j/99209544202  
 Websites: http://cosmos.ircam.fr, http://www.ircam.fr/person/elaine-chew  
 
 
