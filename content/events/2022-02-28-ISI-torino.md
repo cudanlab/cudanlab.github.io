@@ -9,7 +9,7 @@ title: "Lab encounter with Yamir Moreno, and Ciro Cattuto et al. from Institute 
 **When:** 2022-02-28 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)  
 
-The event is public via zoom https://zoom.us/j/98904266100  
+Video of the seminar: https://www.youtube.com/watch?v=qT4jU2pSOts  
 Website: https://www.isi.it/en/home  
 
 <!--more-->
