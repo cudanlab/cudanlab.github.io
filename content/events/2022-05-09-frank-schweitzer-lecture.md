@@ -10,7 +10,7 @@ event:
 **When:**  2022-05-09 10:00-12:00 (Tallinn time)  
 **Where:** CUDAN Open Lab room A108 and online via zoom. 
 
-The event is public via zoom: https://zoom.us/j/98904266100  
+Video of the seminar: https://www.youtube.com/watch?v=zEcNE0_zcBU  
 
 <!--more-->
 **Abstract** – As Herbert Simon states it, "a wealth of information creates a poverty of attention".
