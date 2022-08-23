@@ -10,7 +10,7 @@ event:
 **When:**  2022-03-21 14:00-16:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
-The event is public via zoom https://zoom.us/j/98904266100  
+Video of the seminar: https://www.youtube.com/watch?v=tYZ3PT3F4uM  
 Webpage: https://www.quanturb.com/   
 
 <!--more-->
