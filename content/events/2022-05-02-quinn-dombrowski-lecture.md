@@ -10,7 +10,7 @@ event:
 **When:**  2022-05-02 18:00-20:00 (Tallinn time)  
 **Where:** CUDAN Open Lab (online)
 
-The event is public via zoom: https://zoom.us/j/98904266100  
+Video of the seminar: https://www.youtube.com/watch?v=GXvuRjs7cFU  
 Websites: https://datasittersclub.github.io/site/books and https://www.quinndombrowski.com/
 
 
