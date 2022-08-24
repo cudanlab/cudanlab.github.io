@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Jer Thorp - Living in Data - A User's Guide to a Better Information Future"
+title: "Jer Thorp - Living in Data: A User's Guide to a Better Information Future"
 event:
   start: 2022-09-12T14:00:00-00:00
   end: 2022-09-12T16:00:00-00:00
