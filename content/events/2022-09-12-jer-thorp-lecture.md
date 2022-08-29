@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Jer Thorp - Living in Data: A User's Guide to a Better Information Future"
+title: "Jer Thorp - Time, Space and Place: How to Break All Of Data's Rules"
 event:
   start: 2022-09-12T14:00:00-00:00
   end: 2022-09-12T16:00:00-00:00
@@ -15,4 +15,8 @@ Website: https://www.jerthorp.com/
 The event is public via zoom: https://zoom.us/j/99209544202
 
 <!--more-->
-**Abstract** – Jer Thorp is an artist, writer and teacher living in New York City. He is best known for designing the algorithm to place the nearly 3,000 names on the 9/11 Memorial in Manhattan. Jer was the New York Times' first Data Artist in Residence, is a National Geographic Explorer, and in 2017 and 2018 served as the Innovator in Residence at the Library of Congress. Jer is one of the world's foremost data artists, and is a leading voice for the ethical use of big data. In this seminar Jer will present his recent work. 
+**Abstract** – In this presentation, Jer Thorp will share a decade's worth of work that seeks to break down the rules we have built for data representation, and the rigid demands we've put on our audiences. Starting with static visualization and stretching to sculpture, performance and participatory art, Thorp will examine how refusing to comply with Tuftian standards might give data a chance to speak to wider audiences about complex topics.
+
+Jer Thorp
+New York University
+Knowing Machines
