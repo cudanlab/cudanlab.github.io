@@ -9,8 +9,9 @@ event:
 
 **When:** 2022-10-17 14:00-16:00 (Tallinn time)  
 **Where:** Hybrid, CUDAN Open Lab A108, and online  
- 
 
+Website: http://elluba.com/  
+ 
 The event is public via zoom: https://zoom.us/j/99209544202
 
 <!--more-->
