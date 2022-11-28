@@ -1,13 +1,13 @@
 ---
 bookHidden: true
 
-title: "Taina Bucher - Saying nothing, saying plenty: On the role of silences in digital networks"
+title: "POSTPONED Taina Bucher - Saying nothing, saying plenty: On the role of silences in digital networks"
 event:
   start: 2022-11-28T14:00:00-00:00
   end: 2022-11-28T16:00:00-00:00
 ---
 
-**When:** 2022-11-28 14:00-16:00 (Tallinn time)  
+**When:**
 **Where:** CUDAN Open Lab (online)
 
 The event is public via zoom: https://zoom.us/j/99209544202
