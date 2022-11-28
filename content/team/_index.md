@@ -53,6 +53,8 @@ CUDAN Team Coordinator
 ---
 
 {{< team-card  
+image = "/img/team-icon/andres.jpg"
+
 member = "Sandra Kaljumäe"
 position = "Project Coordinator"
 school = "CUDAN"
