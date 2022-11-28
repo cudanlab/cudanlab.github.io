@@ -52,13 +52,11 @@ text = ""
 CUDAN Team Coordinator
 ---
 
-{{< team-card 
-image = "/img/team-icon/mariliis.jpg"
-member = "Mariliis Niinemägi"
+member = "Sandra Kaljumäe"
 position = "Project Coordinator"
 school = "CUDAN"
 text = "Sine coordinatio nihil est."
-mail = "mariliis.niinemagi@tlu.ee"
+mail = "sandra.kaljumae@tlu.ee"
  >}}   
 
 CUDAN Senior Research Fellows
