@@ -63,15 +63,6 @@ mail = "sandra.kaljumae@tlu.ee"
 CUDAN Senior Research Fellows
 ---  
 
-{{< team-card 
-image = "/img/team-icon/tasweer.jpg"
-member = "Tasweer Ahmad" 
-position = "Research Fellow"
-school = "Baltic Film, Media and Arts School, Tallinn University"
-text = ""
-link = "/team/tasweer"
-mail = "tasweer@tlu.ee"
- >}}
 
 {{< team-card 
 image = "/img/team-icon/andres.jpg"
