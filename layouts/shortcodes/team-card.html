@@ -5,7 +5,9 @@
             <img src={{.Get `image`}} style="border-radius: 18px;" width="150"/>
         </a>
         {{ else }}
+        {{ if .Get `image` }}
             <img src={{.Get `image`}} style="border-radius: 18px;" width="150"/>
+        {{ end }}
         {{ end }}
     </div>
     <div class="school">
