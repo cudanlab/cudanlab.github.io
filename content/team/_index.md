@@ -53,6 +53,7 @@ CUDAN Team Coordinator
 ---
 
 **Sandra Kaljumäe**, Project Coordinator, Baltic Film, Media and Arts School (BFM), Tallinn University.
+mail = "sandra.kaljumae@tlu.ee"
 
 CUDAN Senior Research Fellows
 ---  
