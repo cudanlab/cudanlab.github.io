@@ -17,6 +17,7 @@
     <div>
         {{if .Get `text`}}
         <p>
+            `text`
             {{ if .Get `link` }}
             <a href={{.Get `link`}} title={{.Get `member`}}>Read more [...]</a>
             {{ end }}
