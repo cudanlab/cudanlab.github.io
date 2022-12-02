@@ -15,11 +15,14 @@
         <em>{{.Get `position`}} / {{.Get `school`}}</em>
     </div>
     <div>
-        <p>{{.Get `text`}}
+        {{if .Get `text`}}
+        <p>
             {{ if .Get `link` }}
             <a href={{.Get `link`}} title={{.Get `member`}}>Read more [...]</a>
             {{ end }}
+            
         </p>
+        {{ end }}
         <p>
             {{ if .Get `mail` }}
             <a href="mailto:{{.Get `mail`}}" title={{.Get `mail`}}>email</a>
