@@ -53,7 +53,7 @@ CUDAN Team Coordinator
 ---
 
 {{< team-card
-image = "![Screenshot 2022-12-02 at 13 37 15 Small Small](https://user-images.githubusercontent.com/119287600/205288408-29dad353-5ab3-4a81-99b4-ecda053b1656.jpg)"
+image = "/img:team-icon:sandra"
 member = "Sandra Kaljumäe"
 position = "Project Coordinator"
 school = "Baltic Film, Media and Arts School (BFM), Tallinn University"
