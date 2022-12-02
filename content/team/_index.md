@@ -52,11 +52,11 @@ text = ""
 CUDAN Team Coordinator
 ---
 
-{{< team-card 
+{{< team-card
 member = "Sandra Kaljumäe"
 position = "Project Coordinator"
 school = "Baltic Film, Media and Arts School (BFM), Tallinn University"
-mail = "sandra.kaljumae@tlu.ee".
+mail = "sandra.kaljumae@tlu.ee"
  >}}
 
 CUDAN Senior Research Fellows
