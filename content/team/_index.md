@@ -52,6 +52,7 @@ text = ""
 CUDAN Team Coordinator
 ---
 
+{{< team-card 
 member = "Sandra Kaljumäe"
 position = "Project Coordinator"
 school = "Baltic Film, Media and Arts School (BFM), Tallinn University"
