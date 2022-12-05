@@ -8,7 +8,7 @@ event:
 ---
 
 **When:**
-**Where:**CUDAN Open Lab (online)
+**Where:** CUDAN Open Lab (online)
 
 The event is public via zoom: https://zoom.us/j/99209544202
 
