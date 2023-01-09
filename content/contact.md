@@ -10,7 +10,7 @@ CONTACT
 Maximilian Schich: [mxs@tlu.ee](mailto:mxs@tlu.ee "mxs@tlu.ee")  
 ERA Chair
 
-Mariliis Niinemägi: [mariliis.niinemagi@tlu.ee](mailto:mariliis.niinemagi@tlu.ee "mariliis.niinemagi@tlu.ee")  
+Sandra Kaljumäe: [sandra.kaljumae@tlu.ee](sandra.kaljumae@tlu.ee "sandra.kaljumae@tlu.ee")  
 Project Coordinator
 
 CUDAN on Twitter: [@CUDANLab](https://twitter.com/CUDANLab "@CUDANLab")
