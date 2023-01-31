@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Taylor Arnold and Lauren Tilton- Distant Viewing: Theory and Method"
+title: "Taylor Arnold and Lauren Tilton - Distant Viewing: Theory and Method"
 event:
   start: 2022-02-06T15:00:00-00:00
   end: 2022-02-06T17:00:00-00:00
