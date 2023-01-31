@@ -3,11 +3,11 @@ bookHidden: true
 
 title: "Taylor Arnold and Lauren Tilton - Distant Viewing: Theory and Method"
 event:
-  start: 2022-02-06T15:00:00-00:00
-  end: 2022-02-06T17:00:00-00:00
+  start: 2023-02-06T15:00:00-00:00
+  end: 2023-02-06T17:00:00-00:00
 ---
 
-**When:** 2022-02-06 15:00-17:00 (Tallinn time)   
+**When:** 2023-02-06 15:00-17:00 (Tallinn time)   
 **Where:** online 
 
 The event is public via zoom: https://zoom.us/j/95742990400?pwd=NjNPRmxBZkhaWTJjWExsWEwyMk5tZz09 
