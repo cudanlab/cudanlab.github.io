@@ -1,10 +1,11 @@
 ---
 bookHidden: true
 
-title: "Alex ‘Sandy’ Pentland and Esteban Moro - Lab encounter with MIT Media Lab"
+title: "Alex 'Sandy' Pentland and Esteban Moro - Lab encounter with MIT Media Lab"
 event:
   start: 2023-02-21T20:00:00-00:00
-  end: 2023-02-21T:21:00-00:00
+  end: 2023-02-21T21:00:00-00:00
+  
 ---
 
 **When:** 2023-02-21 20:00-21:00 (Tallinn time)   
