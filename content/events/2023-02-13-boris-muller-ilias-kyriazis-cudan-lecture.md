@@ -10,7 +10,7 @@ event:
 **When:** 2023-02-13 14:00-16:00 (Tallinn time)   
 **Where:** online 
 
-The event is public via zoom: https://zoom.us/j/95742990400?pwd=NjNPRmxBZkhaWTJjWExsWEwyMk5tZz09 
+The event is public via zoom: https://zoom.us/j/99209544202
 Websites: [https://www.distantviewing.org/](https://uclab.fh-potsdam.de <https://uclab.fh-potsdam.de/>
 https://interface.fh-potsdam.de <https://interface.fh-potsdam.de/>
 https://borism.medium.com/)
