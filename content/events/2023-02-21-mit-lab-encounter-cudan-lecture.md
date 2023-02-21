@@ -8,10 +8,8 @@ event:
   
 ---
 
-**[ CANCELLED / RESCHEDULING ]**
+**CANCELLED / RESCHEDULING**
 
-**When:** 2023-02-21 20:00-21:00 (Tallinn time)   
-**Where:** online 
 
 The event is public via zoom: https://zoom.us/j/99209544202
 Websites:
