@@ -8,6 +8,8 @@ event:
   
 ---
 
+**[ CANCELLED / RESCHEDULING ]**
+
 **When:** 2023-02-21 20:00-21:00 (Tallinn time)   
 **Where:** online 
 
