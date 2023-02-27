@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Helle Sjøvaag- Communication infrastructures, distribution flows and datafied media industries"
+title: "Helle Sjøvaag- Communication Infrastructures, Distribution Flows and Datafied Media Industries"
 event:
   start: 2023-04-24T14:00:00-00:00
   end: 2023-04-24T16:00:00-00:00
