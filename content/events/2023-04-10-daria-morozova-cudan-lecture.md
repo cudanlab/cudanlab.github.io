@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Daria Morozova- Impact of narratively constructed perceptions of artificial intelligence on creative work"
+title: "Daria Morozova- Impact of Narratively Constructed Perceptions of Artificial Intelligence on Creative Work"
 event:
   start: 2023-04-10T14:00:00-00:00
   end: 2023-04-10T16:00:00-00:00
