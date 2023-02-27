@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Eduardo G. Altmann- Complex-systems approaches to social data"
+title: "Eduardo G. Altmann- Complex-systems Approaches to Social Data"
 event:
   start: 2023-03-13T13:00:00-00:00
   end: 2023-03-13T15:00:00-00:00
