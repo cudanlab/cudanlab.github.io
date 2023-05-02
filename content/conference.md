@@ -4,17 +4,19 @@ title: "Contact"
 ---
 # Conference
 
-## CUDAN 2023
+## CUDAN 2023 
 
-## About the conference
-
-**Key dates**
-Abstracts due:  ***July 24, 2023*** (23:59 CET)
-Notification of acceptance: September 14, 2023
-Pre-conference workshops: December 13, 2023
-Conference: ***December 14-16, 2023***
+## Call for abstracts & dates  
 
 We invite submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CSS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in ***Tallinn, Estonia*** from ***December 14 to 16, 2023***, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.
+
+**Key dates**  
+Abstracts due:  ***July 24, 2023*** (23:59 CET)  
+Notification of acceptance: September 14, 2023  
+Pre-conference workshops: December 13, 2023  
+Conference: ***December 14-16, 2023***  
+
+## Scope of the conference  
 
 Cultures and cultural production are multifaceted phenomena, which, like other complex systems, cannot be fully understood from the perspective of a single specific discipline. This is why the core mission of cultural data analytics is to join forces and make headway across disciplines and domains of expertise. Feeding into this mission, we welcome both multidisciplinary submissions, and contributions from specific disciplines, which aim to benefit from discussion in a multidisciplinary forum.
 
@@ -38,9 +40,7 @@ Contributions ideally address at least one of the following subject domains (in 
 – *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
 – *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.  
   
-## Call for papers
-
-HOW TO APPLY:  
+## HOW TO APPLY
 
 We invite authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accept contributed talks, lightning talks, and posters (please indicate your preference). Review is single-blind.  
 
@@ -62,13 +62,13 @@ If you or your institution/company is interested in participation, please contac
 
 ## Registration & Accommodation
 
-As we are fully funded through the European Commission, there will be no conference fee for accepted participants and PC members, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance.  
+As we are fully funded through the European Commission, there will be ***no conference fee*** for accepted participants and PC members, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance.  
 
 [more information to be announced]
 
 ## Organizers
 
-**Organizing chair** 
+**Organizing chair**  
 Maximilian Schich  
 
 **Organizing committee**  
