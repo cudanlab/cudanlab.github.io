@@ -6,14 +6,14 @@ title: "Contact"
 
 ## About CUDAN 2023  
 
-We invite submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CSS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in ***Tallinn, Estonia*** from ***December 14 to 16, 2023***, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.
+We invite submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CSS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in **Tallinn, Estonia** from **December 14 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.
 
 ## Key Dates  
 
-Abstracts due:  ***July 24, 2023*** (23:59 CET)  
+Abstracts due:  **July 24, 2023** (23:59 CET)  
 Notification of acceptance: September 14, 2023  
 Pre-conference workshops: December 13, 2023  
-Conference: ***December 14-16, 2023***  
+Conference: **December 14-16, 2023**  
 
 ## Call for Abstracts  
 
@@ -47,19 +47,19 @@ Contributions ideally address at least one of the following subject domains (in 
 
 ## Program
 
-The CUDAN 2023 conference programme (December 14-16, 2023) will include six ***keynotes*** covering the spectrum of relevant disciplines, a ***lightning talk session*** in the plenary, ***parallel sessions***, and a ***poster section*** running throughout the whole conference in the coffee and lunch area that is collocated the plenum. The conference will close with a best poster and best paper award ceremony.  
+The CUDAN 2023 conference programme (December 14-16, 2023) will include six **keynotes** covering the spectrum of relevant disciplines, a **lightning talk session** in the plenary, **parallel sessions**, and a **poster section** running throughout the whole conference in the coffee and lunch area that is collocated the plenum. The conference will close with a best poster and best paper award ceremony.  
 
-The pre-conference day (December 13, 2023) will feature ***introductory workshops*** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization using Python, R, and Tableau.   
+The pre-conference day (December 13, 2023) will feature **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization using Python, R, and Tableau.   
 
-Before and after the main conference, we will offer ***sightseeing tours***, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town) and[ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn) (among many reasons to [visit Estonia](https://www.visitestonia.com/en/)).  
+Before and after the main conference, we will offer **sightseeing tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town) and[ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn) (among many reasons to [visit Estonia](https://www.visitestonia.com/en/)).  
 
-We are further planning a ***meet the publisher's session*** and other opportunities for relevant stakeholders, including ***exhibition booths***.  
+We are further planning a **meet the publisher's session** and other opportunities for relevant stakeholders, including **exhibition booths**.  
 
 If you or your institution/company is interested in participation, please contact us via email to <cudan@tlu.ee>, ideally before September 14, 2023.  
 
 ## Registration & Accommodation
 
-As we are fully funded through the European Commission, there will be ***no conference fee*** for accepted participants and PC members, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance.  
+As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants and PC members, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance.  
 
 [more information to be announced]
 
