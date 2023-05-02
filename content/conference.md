@@ -21,7 +21,7 @@ We invite authors to submit a **single-page abstract pdf** including a (mandator
 
 **[SUBMIT HERE](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference)**  
 
-## Scope of the conference  
+## Conference scope  
 
 Cultures and cultural production are multifaceted phenomena, which, like other complex systems, cannot be fully understood from the perspective of a single specific discipline. This is why the core mission of cultural data analytics is to join forces and make headway across disciplines and domains of expertise. Feeding into this mission, we welcome both multidisciplinary submissions, and contributions from specific disciplines, which aim to benefit from discussion in a multidisciplinary forum.
 
@@ -45,7 +45,7 @@ Contributions ideally address at least one of the following subject domains (in 
 – *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
 – *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.  
 
-## Program
+## Conference program
 
 The CUDAN 2023 conference programme (December 14-16, 2023) will include six **keynotes** covering the spectrum of relevant disciplines, a **lightning talk session** in the plenary, **parallel sessions**, and a **poster section** running throughout the whole conference in the coffee and lunch area that is collocated the plenum. The conference will close with a best poster and best paper award ceremony.  
 
