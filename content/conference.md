@@ -46,14 +46,14 @@ Contributions ideally address at least one of the following subject domains (in 
 – *material aspects*, including artworks, architecture, texts, images, sound, film, digital media, databases, and other forms of tangible cultural heritage;  
 – *conceptual aspects*, including cultural practices, rituals, theories, policies, data models, narratives, imagined communities, and other forms of intangible cultural heritage;  
 – *social aspects*, including human behaviour, human mobility, social networks and social media;  
-– temporal aspects, from slow historical processes to turbulence in today's economy of attention;    
+– *temporal aspects*, from slow historical processes to turbulence in today's economy of attention;    
 – *spatial aspects* of cultural geography, historical topography, and urban dynamics;  
 – *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
 – *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.  
 
 ## Conference program
 
-The CUDAN 2023 conference programme (December 14-16, 2023) will include six **keynotes** covering the spectrum of relevant disciplines, a **lightning talk session** in the plenary, **parallel sessions**, and a **poster section** running throughout the whole conference in the coffee and lunch area that is collocated the plenum. The conference will close with a best poster and best paper award ceremony.  
+The CUDAN 2023 conference programme (December 14-16, 2023) will include six **keynotes** covering the spectrum of relevant disciplines, a **lightning talk session** in the plenary, **parallel sessions**, and a **poster section** running throughout the whole conference in the coffee and lunch area that is collocated with the plenum. The conference will close with a best poster and best paper award ceremony.  
 
 The pre-conference day (December 13, 2023) will feature **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization using Python, R, and Tableau.   
 
