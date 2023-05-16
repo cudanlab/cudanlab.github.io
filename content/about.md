@@ -5,10 +5,10 @@ title: "About"
 About
 ==  
 
-> In a nutshell, **the CUDAN project mission is to establish a novel analytical approach, called Cultural Data Analytics, to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution,** through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.  
+> **In a nutshell, the mission of the CUDAN ERA Chair project is to establish a novel analytical approach, called Cultural Data Analytics, to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution,** through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.  
 
-![BFM, Tallinn University (image)](/img/28084978075_bf8b497648_o.jpg "BFM, Tallinn University (image)")
-*BFM building, Tallinn University*
+![Collection Space Navigator (image)](/img/csn_projection_720.png "Collection Space Navigator (image)")
+*Collection Space Navigator (screenshot). CC-BY Ohm Canet et al. 2023*
 
 **The CUDAN ERA Chair project for Cultural Data Analytics brings together a total of 6 postdoctoral Senior Research Fellows and 6 predoctoral Junior Research Fellows, under the leadership of the ERA Chair holder Prof. Dr. Maximilian Schich**, to harness the rare high-risk/high-gain opportunity of combining multidisciplinary science, computation, and information design, with art history, cultural history, cultural media studies, and cultural semiotics, in close collaboration and co-authorship. The [CUDAN Research Group]({{< relref "team" >}}), established in June 2020 and funded through August 2024, forms the core of the CUDAN Open Lab, which, in addition to research, functions as a forum for intellectual exchange, and as an incubator for follow-up projects, in collaboration with faculty and colleagues from three Tallinn University schools: The Baltic, Film Media, and Arts School (BFM), the School of Humanities (HUM), and the School of Digital Technology (DTI).
 
@@ -32,7 +32,7 @@ Beyond the local environment, the CUDAN initiative provides research fellows and
 
 Since its inception, **the CUDAN approach is evolving** over this vision as it is the explicitly funded mission of the ERA Chair holder and CUDAN team to form and formulate the ERA chair research and management principles, obviously in line with the original proposal, yet also open for radical innovation. **Herein lies a rare or even unique high-risk/high-gain opportunity that cuts across disciplines** and even established funding panels and domains (e.g. as defined by the ERC).
 
-The CUDAN ERA Chair project is funded with 2.5m Euro through the Horizon 2020 research and innovation program of the European Commission (Grant No. 810961). Complementary equipment funding of 200k Euro was provided through the Mobilitas+ program of the Estoniain Research Council. 
+The CUDAN ERA Chair project is funded with 2.5m Euro through the Horizon 2020 research and innovation program of the European Commission (Grant No. 810961). Complementary equipment funding of 200k Euro was provided through the Mobilitas+ program of the Estonian Research Council. 
 
 We are happy to report, that a broad spectrum of [publications]({{< relref "publications" >}}) are currently coming to fruition, fulfilling the original grant agreement, while feeding into the initial and ongoing long-term challenges as outlined by the ERA Chair holder.
 
