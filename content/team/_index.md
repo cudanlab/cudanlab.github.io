@@ -231,7 +231,7 @@ CUDAN Advisory Board
 
 **Julio M. Ottino**, R.R. McCormick Institute Professor and Dean of Engineering and Applied Science, Northwestern University
 
-Academic Advisory Board
+CUDAN Academic Advisory Board
 ---
 
 **Nancy Baym**, Principal Researcher at Microsoft Research – New England, Research Affiliate at Comparative Media Studies/Writing at MIT  
