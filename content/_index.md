@@ -4,7 +4,7 @@ title: "Welcome"
 ---
 About
 ==
-> In a nutshell, the mission of the CUDAN ERA Chair project is to establish a novel analytical approach, called Cultural Data Analytics, to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing.
+> In a nutshell, our mission is to establish a novel analytical approach, called Cultural Data Analytics, to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing. 
 
 Collection Space Navigator (image) Collection Space Navigator (screenshot). CC-BY Ohm Canet et al. 2023
 
