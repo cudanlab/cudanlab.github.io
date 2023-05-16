@@ -12,7 +12,7 @@ Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukh
 
 ## 2023 publications
 
-Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.06809
+Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
 
 Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich, and Indrek Ibrus. 2023. “**Quantifying the Global Film Festival Circuit: Networks, Diversity, and Public Value Creation.**” *SocArXiv*. April 26. open access: https://doi.org/10.31235/osf.io/g9w4b
 
