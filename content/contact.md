@@ -14,3 +14,5 @@ CONTACT
 **General contact**: [cudan@tlu.ee](mailto:cudan@tlu.ee "cudan@tlu.ee")  
 
 CUDAN on Twitter: [@CUDANLab](https://twitter.com/CUDANLab "@CUDANLab")
+
+CUDAN on Youtube: [@CUDANLab](https://www.youtube.com/@CUDANLab/videos "@CUDANLab")
