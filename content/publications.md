@@ -6,7 +6,7 @@ title: "Publications"
 
 ## Ongoing publications
 
-Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukhina, Mila Oiva, Mikhail Tamm, Vejune Zemaityte, Tasweer Ahmad, Yan Asadchy, Mar Canet Sola, Hanna Jemmer, Mark Mets, and Tillmann Ohm. **Horizon 2020 Cultural Data Analytics: CUDAN ERA Chair Fact sheet, Reporting, Results**, *cordis.europa.eu/project/id/810961* (2019-2024, ongoing). open access: https://doi.org/10.3030/810961>
+Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukhina, Mila Oiva, Mikhail Tamm, Vejune Zemaityte, Tasweer Ahmad, Yan Asadchy, Mar Canet Sola, Hanna Jemmer, Mark Mets, and Tillmann Ohm. **Horizon 2020 Cultural Data Analytics: CUDAN ERA Chair Fact sheet, Reporting, Results**, *cordis.europa.eu/project/id/810961* (2019-2024, ongoing). open access: https://doi.org/10.3030/810961
 
 > Extensive reporting on objectives, tasks, and deliverables related to the CUDAN project. Published documents include the **CUDAN Research Cooperation Strategy**, which functions as a manifesto of multidisciplinary academic mixing for Cultural Data Analytics. The **Mid-Term Report** characterises the project achievements in Spring 2022, i.e. the time of the recent successful external evaluation through the European Commission.
 
