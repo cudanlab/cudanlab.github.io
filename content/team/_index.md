@@ -2,7 +2,9 @@
 weight: 4
 bookCollapseSection: true
 title: "Team"
+
 ---
+
 TEAM
 ==  
 
@@ -20,10 +22,12 @@ twitter = "schichmax"
 website = "http://www.schich.info/"
 ETIS = "https://www.etis.ee/CV/Maximilian_Schich/est?tabId=CV_ENG"
 text = ""
+
  >}}
 
 CUDAN Team Faculty
 ---
+
 {{< team-card 
 image = "/img/team-icon/indrek.jpg"
 member = "Indrek Ibrus"
@@ -33,6 +37,7 @@ mail = "ibrus@tlu.ee"
 twitter = "IndrekIbrus"
 ETIS = "https://www.etis.ee/CV/Indrek_Ibrus/eng?lang=ENG"
 text = ""
+
  >}}
 
 {{< team-card 
@@ -57,6 +62,7 @@ member = "Sandra Kaljumäe"
 position = "Project Coordinator"
 school = "Baltic Film, Media and Arts School (BFM), Tallinn University"
 mail = "sandra.kaljumae@tlu.ee"
+
  >}}
 
 CUDAN Senior Research Fellows
@@ -74,6 +80,7 @@ mail = "andres.karjus@tlu.ee"
 twitter = "AndresKarjus"
 website = "https://andreskarjus.github.io/"
 ETIS = "https://www.etis.ee/CV/Andres_Karjus/est?tabId=CV_ENG"
+
  >}}
 
 {{< team-card 
@@ -87,8 +94,9 @@ mail = "mukhina@tlu.ee"
 twitter = "mukhinaks"
 website = "https://mukhinaks.github.io/"
 ETIS = "https://www.etis.ee/CV/Ksenia_Mukhina/est?tabId=CV_ENG"
+
  >}}
- 
+
 {{< team-card 
 image = "/img/team-icon/mila.jpg"
 member = "Mila Oiva"
@@ -99,6 +107,7 @@ link = "/team/mila"
 mail = "milaoiva@tlu.ee"
 website = "https://milaoiva.fi/"
 ETIS = "https://www.etis.ee/CV/mila_oiva/est?tabId=CV_ENG"
+
  >}}
 
 {{< team-card 
@@ -110,20 +119,7 @@ text = "Physicist - Works on application of statistical physics ideas in the int
 link = "/team/mikhail"
 mail = "mikhailt@tlu.ee"
 ETIS = "https://www.etis.ee/CV/Mikhail_Tamm/?lang=ENG"
- >}}
 
-
-{{< team-card 
-image = "/img/team-icon/vejune.jpg"
-member = "Vejune Zemaityte" 
-position = "Research Fellow"
-school = "Baltic Film, Media and Arts School, Tallinn University"
-text = "Cultural Industries Researcher - Computational cinema studies to understand industry dynamics including gender & diversity."
-link = "/team/vejune"
-mail = "vejune.zemaityte@tlu.ee"
-twitter = "VejuneZem"
-website = "http://www.vejune-zemaityte.com/"
-ETIS = "https://www.etis.ee/CV/Vejune_Zemaityte/est?tabId=CV_ENG"
  >}}
 
 CUDAN Junior Research Fellows
@@ -140,6 +136,7 @@ mail = "yan.asadchy@tlu.ee"
 twitter = "Cactus_606"
 website = "http://www.yanasadchy.com/"
 ETIS = "https://www.etis.ee/CV/Yan_Asadchy/est?tabId=CV_ENG"
+
  >}}
 
 {{< team-card 
@@ -151,6 +148,7 @@ text = "Media Policy Researcher - Investigating data use practices and innovatio
 link = "/team/hanna"
 mail = "hjemmer@tlu.ee"
 ETIS = "https://www.etis.ee/CV/Hanna_Jemmer/est?tabId=CV_ENG"
+
  >}}
 
 {{< team-card 
@@ -164,6 +162,7 @@ mail = "korep@tlu.ee"
 twitter = ""
 website = ""
 ETIS = "https://www.etis.ee/CV/Vejune_Zemaityte/est?tabId=CV_ENG"
+
  >}}
 
 {{< team-card 
@@ -175,6 +174,7 @@ text = "Cultural Semiotician - Exploring the possibilities of researching cultur
 link = "/team/mark"
 mail = "mark.mets@tlu.ee"
 ETIS = "https://www.etis.ee/CV/Mark_Mets/est?tabId=CV_ENG"
+
  >}}
 
 {{< team-card 
@@ -188,8 +188,9 @@ mail = "tillmann.ohm@tlu.ee"
 twitter = "tillmannohm"
 website = "http://tillmannohm.com/"
 ETIS = "https://www.etis.ee/CV/Tillmann_Ohm/est?tabId=CV_ENG"
+
  >}}
- 
+
 {{< team-card 
 image = "/img/team-icon/mar.jpg"
 member = "Mar Canet Solà"
@@ -201,11 +202,13 @@ mail = "mar.canet@tlu.ee"
 twitter = "mcanet"
 website = "http://var-mar.info/"
 ETIS = "https://www.etis.ee/CV/Mar_Canet_sola/est?tabId=CV_ENG"
+
  >}}
 
 
 CUDAN Advisory Board
 ---
+
 **Taaniel Raudsepp**, Undersecretary for Art in the Ministry of Culture  
 
 **Luukas Kristjan Ilves**, Undersecretary and e-government COO, Ministry of Economic Affairs and Communication  
@@ -220,6 +223,7 @@ CUDAN Advisory Board
 
 Academic Advisory Board
 ---
+
 **Nancy Baym**, Principal Researcher at Microsoft Research – New England, Research Affiliate at Comparative Media Studies/Writing at MIT  
 
 **José van Dijck**, Distinguished University Professor, Utrecht University  
@@ -232,4 +236,50 @@ Academic Advisory Board
 
 **Lev Manovich**, Professor in Computer Science at the City University of New York; Director of Cultural Analytics Lab, Faculty member of Strelka Institute for Media, Architecture, and Design in Moscow  
 
-**Robin Mansell**, Professor of New Media and the Internet in the Department of Media and Communication at the London School of Economics and Political Science  
+**Robin Mansell**, Professor of New Media and the Internet in the Department of Media and Communication at the London School of Economics and Political Science 
+
+CUDAN Alumni
+---
+
+{{< team-card 
+image = "/img/team-icon/vejune.jpg"
+member = "Vejune Zemaityte"
+position = "Senior Research Fellow (2020-2023)"
+school = "Baltic Film, Media and Arts School, Tallinn University"
+text = "Cultural Industries Researcher - Computational cinema studies to understand industry dynamics including gender & diversity."
+link = "/team/vejune"
+mail = "vejune.zemaityte@tlu.ee"
+twitter = "VejuneZem"
+website = "http://www.vejune-zemaityte.com/"
+ETIS = "https://www.etis.ee/CV/Vejune_Zemaityte/est?tabId=CV_ENG"
+
+ >}} 
+
+{{< team-card 
+image = "/img/team-icon/tasweer.jpg"
+member = "Tasweer Ahmad (2020-2022)"
+position = "Senior Research Fellow"
+school = "Baltic Film, Media and Arts School, Tallinn University"
+text = "Information scientist using deep learning to recognize objects in stylized images, such as artworks."
+link = "/team/tasweer"
+mail = ""
+twitter = ""
+website = ""
+ETIS = ""
+
+ >}} 
+
+{{< team-card 
+image = "/img/team-icon/mariliis.jpg"
+member = "Mariliis Niinemägi"
+position = "Project Coordinator (2020-2022)"
+school = "CUDAN"
+text = "Sine coordinatio nihil est."
+link = ""
+mail = ""
+twitter = ""
+website = ""
+ETIS = ""
+
+ >}} 
+
