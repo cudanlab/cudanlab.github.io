@@ -244,7 +244,7 @@ CUDAN Alumni
 {{< team-card 
 image = "/img/team-icon/vejune.jpg"
 member = "Vejune Zemaityte"
-position = "Senior Research Fellow (2020-2023)"
+position = "Senior Research Fellow (Fall 2020 to Spring 2023)"
 school = "Baltic Film, Media and Arts School, Tallinn University"
 text = "Cultural Industries Researcher - Computational cinema studies to understand industry dynamics including gender & diversity."
 link = "/team/vejune"
@@ -257,7 +257,7 @@ ETIS = "https://www.etis.ee/CV/Vejune_Zemaityte/est?tabId=CV_ENG"
 
 {{< team-card 
 image = "/img/team-icon/tasweer.jpg"
-member = "Tasweer Ahmad (2020-2022)"
+member = "Tasweer Ahmad (Fall 2020 to Fall 2022)"
 position = "Senior Research Fellow"
 school = "Baltic Film, Media and Arts School, Tallinn University"
 text = "Information scientist using deep learning to recognize objects in stylized images, such as artworks."
@@ -272,7 +272,7 @@ ETIS = ""
 {{< team-card 
 image = "/img/team-icon/mariliis.jpg"
 member = "Mariliis Niinemägi"
-position = "Project Coordinator (2020-2022)"
+position = "Project Coordinator (Spring 2020 to Fall 2022)"
 school = "CUDAN"
 text = "Sine coordinatio nihil est."
 link = ""
