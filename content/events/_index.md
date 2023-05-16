@@ -6,7 +6,7 @@ bookCollapseSection: true
 EVENTS
 ==  
 
-> CUDAN events include **Open Lab Lectures** (featuring international guests), **Open Lab Encounters** (featuring international lab groups), and **CUDAN@** events (where group members are featured elsewhere). Other formats will be rolled out.  
+> CUDAN events include our **Open Lab Seminar series**, including **Lectures** (featuring international guests), ** Encounters** (featuring international lab groups), and **CUDAN@** events (where group members are featured elsewhere). Previous event recordings are available on our youtube channel (https://www.youtube.com/@CUDANLab/videos). 
 
-> **The Open Lab Seminar series in the Fall 2022 runs from 2022-09-05 to 2022-12-12 with an events regularly happening on Monday 14:00–16:00 Tallinn time** (with some deviations to accommodate speakers from different time zones).
+> Information regarding the Cultural Data Analytics Conference 2023, scheduled to happen December 13-16 in Tallinn, Estonia, is available on the [conference page]({{< relref "conference" >}}). The call for abstracts is open until July 24, 2023.
 
