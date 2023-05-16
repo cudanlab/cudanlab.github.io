@@ -1,5 +1,5 @@
 ---
-bookFlatSection: true
+bookFlatSection: false
 title: "Approach"
 ---
 APPROACH
