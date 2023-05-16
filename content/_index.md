@@ -6,7 +6,8 @@ About
 ==
 > In a nutshell, our mission is to establish a novel analytical approach, called Cultural Data Analytics, to further understand the nature of cultural interaction, cultural dynamics, and cultural evolution, through research in the mode of a multidisciplinary science lab, and through nurturing the associated community of practice in an exercise of intentional academic mixing. 
 
-Collection Space Navigator (image) Collection Space Navigator (screenshot). CC-BY Ohm Canet et al. 2023
+[Collection Space Navigator (image)](/img/csn_projection_720.jpg  "Collection Space Navigator (screenshot)")
+*CC-BY Ohm Canet et al. 2023*
 
 The CUDAN ERA Chair project for Cultural Data Analytics brings together a total of 6 postdoctoral Senior Research Fellows and 6 predoctoral Junior Research Fellows, under the leadership of the ERA Chair holder Prof. Dr. Maximilian Schich, to harness the rare high-risk/high-gain opportunity of combining multidisciplinary science, computation, and information design, with art history, cultural history, cultural media studies, and cultural semiotics, in close collaboration and co-authorship. The [CUDAN Research Group]({{< relref "team" >}}), established in June 2020 and funded through August 2024, forms the core of the CUDAN Open Lab, which, in addition to research, functions as a forum for intellectual exchange, and as an incubator for follow-up projects, in collaboration with faculty and colleagues from three Tallinn University schools: The Baltic, Film Media, and Arts School (BFM), the School of Humanities (HUM), and the School of Digital Technology (DTI).
 
