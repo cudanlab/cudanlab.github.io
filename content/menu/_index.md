@@ -4,9 +4,9 @@ bookMenuLevels: 1
 ---
 
 - [About]({{< relref "about" >}})
+- [Team]({{< relref "team" >}})
 - [Approach]({{< relref "approach" >}})
 <!-- - [ERA Chair]({{< relref "era-chair" >}}) -->
-- [Team]({{< relref "team" >}})
 <!-- - [Positions]({{< relref "positions" >}}) -->
 - [Publications]({{< relref "publications" >}})
 - [Conference]({{< relref "conference" >}})
