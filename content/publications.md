@@ -10,6 +10,8 @@ Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukh
 
 > Extensive reporting on objectives, tasks, and deliverables related to the CUDAN project. Published documents include the **CUDAN Research Cooperation Strategy**, which functions as a manifesto of multidisciplinary academic mixing for Cultural Data Analytics. The **Mid-Term Report** characterises the project achievements in Spring 2022, i.e. the time of the recent successful external evaluation through the European Commission.
 
+Video recordings of our ongoing **Open Lab Seminar series** are published and available on via the CUDAN Youtube channel. open access: https://www.youtube.com/@CUDANLab/videos
+
 ## 2023 publications
 
 Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
