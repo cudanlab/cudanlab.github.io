@@ -26,7 +26,7 @@ Main conference: December 14-16, 2023
 
 ## Call for Abstracts  
 
-We invite authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accept contributed talks, lightning talks, and posters (please indicate your preference). Review is single-blind.  
+We invite authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accept contributed talks, lightning talks, and posters (please indicate your preference). We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review is single-blind.  
 
 **SUBMIT HERE: https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference**  
 
