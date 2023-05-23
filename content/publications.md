@@ -14,6 +14,9 @@ Video recordings of our ongoing **Open Lab Seminar series** are published and av
 
 ## 2023 publications
 
+Mark Mets, Andres Karjus, Indrek Ibrus, Maximilian Schich. "**Automated stance detection in complex topics and small languages:
+the challenging case of immigration in polarizing news media.**" *arXiv:2305.13047* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.13047 
+
 Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
 
 Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich, and Indrek Ibrus. 2023. “**Quantifying the Global Film Festival Circuit: Networks, Diversity, and Public Value Creation.**” *SocArXiv*. April 26. open access: https://doi.org/10.31235/osf.io/g9w4b
