@@ -14,8 +14,11 @@ Video recordings of our ongoing **Open Lab Seminar series** are published and av
 
 ## 2023 publications
 
-Mark Mets, Andres Karjus, Indrek Ibrus, Maximilian Schich. "**Automated stance detection in complex topics and small languages:
-the challenging case of immigration in polarizing news media.**" *arXiv:2305.13047* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.13047 
+Mar Canet Solà, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich. "**Quantifying Collection Lag
+in European Modern and Contemporary Art Museums.**" *arXiv:2305.14159* [cs.SI] (2023) open access: https://arxiv.org/abs/2305.14159 
+
+Mark Mets, Andres Karjus, Indrek Ibrus, and Maximilian Schich. "**Automated stance detection in complex topics and small languages:
+the challenging case of immigration in polarizing news media.**" *arXiv:2305.13047* [cs.CL] (2023) open access: https://arxiv.org/abs/2305.13047 
 
 Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
 
