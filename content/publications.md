@@ -32,9 +32,9 @@ Guljajeva, V., Canet Sola, M. 2023. **AI-Aided Ceramic Sculptures: Bridging Deep
 
 Guljajeva, V., & Canet Sola, M. 2023. **Psychedelic Forms-Ceramics and Physical Form in Conversation with Deep Learning**. In *Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction* (pp. 1-5). https://doi.org/10.1145/3569009.3576191.
 
-Kasyanov I.A., van der Hoorn P., Krioukov D., Tamm M.V., (2023) **Nearest-neighbour directed random hyperbolic graphs**, arXiv:2303.01002.
+Kasyanov I.A., van der Hoorn P., Krioukov D., and Tamm M.V. "**Nearest-neighbour directed random hyperbolic graphs**", *arXiv:2303.01002* [physics.soc-ph] (2023) open-access https://arxiv.org/abs/2303.01002
 
-Jemmer, Hanna, and Indrek Ibrus. "Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses." Media, Culture & Society (2023): 01634437231155558.
+Jemmer, Hanna, and Indrek Ibrus. "Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses." Media, Culture & Society (2023) open-access: https://doi.org/10.1177/01634437231155558.
 
 ## 2022 publications
 Ramona Roller, Maximilian Schich, Mikhail Tamm, and Hyejin Youn, eds., "**A Topical Issue on Cultural Complexity**", *Advances in Complex Systems* (2022). https://www.worldscientific.com/toc/acs/25/05n06
