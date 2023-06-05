@@ -70,7 +70,7 @@ If you or your institution/company is interested in participation, please contac
 
 ## Registration & Accommodation
 
-As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance. Information regarding accommodation and a form to order VISA support letters will be announced on the conference website (https://cudan.tlu.ee/conference/).
+As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance. Information regarding accommodation (including reduced rate hotels) and a form to order VISA support letters will be announced on the conference website (https://cudan.tlu.ee/conference/).
 
 ## Organizers
 
