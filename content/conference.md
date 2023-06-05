@@ -78,7 +78,7 @@ As we are fully funded through the European Commission, there will be **no confe
 
 **Maximilian Schich**, CUDAN ERA Chair holder  
 
-### Organizing chair  
+### Advising chair  
 
 **Lev Manovich**, Cultural Analytics Lab, City University of New York, US  
 
