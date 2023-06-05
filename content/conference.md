@@ -8,6 +8,8 @@ title: "Conference"
 
 We invite submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CSS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in **Tallinn, Estonia** from **December 13 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.  
 
+![Winter morning in Tallinn (image)](/img/winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
+*Winter morning in Tallinn. CC-BY Maximilian Schich*
 
 ## Key Dates  
 
@@ -72,9 +74,13 @@ As we are fully funded through the European Commission, there will be **no confe
 
 ## Organizers
 
-### Organizing chair
+### Organizing chair  
 
 **Maximilian Schich**, CUDAN ERA Chair holder  
+
+### Organizing chair  
+
+**Lev Manovich**, Cultural Analytics Lab, City University of New York, US  
 
 ### Organizing committee
 
