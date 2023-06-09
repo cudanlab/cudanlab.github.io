@@ -95,6 +95,7 @@ As we are fully funded through the European Commission, there will be **no confe
 ### Programme committee confirmed
 
 **James Abello Monedero**, Rutgers University, US  
+**Yong-Yeol Ahn**, Indiana University, Bloomington, US  
 **Ruth Ahnert**, Queen Mary University of London, UK  
 **Sebastian Ahnert**, University of Cambridge, UK  
 **Kim Albrecht**, Artist, Berlin, DE  
@@ -111,6 +112,7 @@ As we are fully funded through the European Commission, there will be **no confe
 **Ana Clemente**, University of Barcelona, ES  
 **Bronwyn Coate**, RMIT University, AU  
 **Michele Coscia**, IT-University of Copenhagen, DK  
+**Brian Coxall**, Brigham Young University, US  
 **David J. Crandall**, Indiana University, US  
 **Christine Cuskley**, Newcastle University, UK  
 **Maria-Rita D'Orsogna**, University of California, Los Angeles, US  
@@ -132,16 +134,19 @@ As we are fully funded through the European Commission, there will be **no confe
 **Lindsay King**, Stanford University, US  
 **Harald Klinke**, LMU Munich, DE  
 **Ilias Kyriazis**, Fachhochschule Potsdam, DE  
+**John Laudun**, University of Louisiana at Lafeyette, US  
 **Kristoffer Laigaard Nielbo**, Aarhus Universitet, DK  
 **Lik-Hang Lee**, Hong Kong Polytechnic University, HK  
 **Liina Lindström**, University of Tartu, EE  
 **Jordi McKenzie**, Macquarie University, AU  
+**Stefania Milan**, University of Amsterdam, NL 
 **David Mimno**, Cornell University, Ithaca/NY, US  
 **Daria Morozova**, Ecole des Hautes Etudes Commerciales, FR  
 **Cassini Nazir**, University of North Texas, US  
 **Maarja Ojamaa**, University of Tartu, EE  
 **Giovanni Petri**, Northeastern University London, UK  
 **Iyad Rahwan**, Max Planck Institute for Human Development, DE  
+**Martin Rosvall**, Umeå University, SE  
 **Louis Michael Shekhtman**, Northeastern University, Boston, US  
 **André Skupin**, San Diego State University, US  
 **Oleg Sobchuk**, Max Planck Institute for Evolutionary Anthropology, DE  
@@ -150,10 +155,13 @@ As we are fully funded through the European Commission, there will be **no confe
 **Nina Tahmasebi**, Språkbanken (The swedish language bank), SE  
 **Timothy R Tangherlini**, University of California, Berkeley, US  
 **Mark Taylor**, University of Sheffield, UK  
+**Jer Thorp**, New York University, US  
+**Lauren Tilton**, University of Richmond, US  
 **Mikko Tolonen**, University of Helsinki, FI  
 **Stephen Miles Uzzo**, National Museum of Mathematics, US  
 **Melvin Wevers**, University of Amsterdam, NL  
 **Hyejin Youn**, Northwestern University, Evanston, US  
+
 
 For updated information, please re-check the conference website (https://cudan.tlu.ee/conference/).  
 In case of questions, please do not hesitate to contact us via email to <cudan@tlu.ee>.  
