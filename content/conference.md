@@ -121,7 +121,7 @@ As we are fully funded through the European Commission, there will be **no confe
 **Kate Elswit**, University of London, UK  
 **Sara Irina Fabrikant**, University of Zurich, CH  
 **Elena Fedorovskaya**, Rochester Institute of Technology, US  
-**Jianbo Gao**, University of California, Los Angeles, US  
+**Jianbo Gao**, Beijing Normal University, CN  
 **David Garcia**, Universität Konstanz, DE  
 **Bruno Goncalves**, Data For Science, Inc., US  
 **Jack Grieve**, University of Birmingham, UK  
