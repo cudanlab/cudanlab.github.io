@@ -6,7 +6,9 @@ title: "Conference"
 
 ## About CUDAN 2023  
 
-We invited submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CCS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in **Tallinn, Estonia** from **December 13 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.  
+The **Cultural Data Analytics Conference 2023** / **CUDAN 2023** is scheduled to happen in **Tallinn, Estonia** from **December 13 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community. The conference is organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CCS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials.
+
+The call for abstracts is now closed. Acceptance notices have been sent out, and the conference program will be published soon. [Free registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form) for accepted authors, PC members, CUDAN affiliates, and guests is now open. We are looking forward to seeing you in Tallinn!  
 
 ## Key Dates  
 
@@ -28,8 +30,6 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 – **Anu Masso**, TalTech, Tallinn, Estonia ([https://taltech.ee/...](https://taltech.ee/en/contacts/anu-masso))  
 
 ## Call for Abstracts  
-
-The call for abstracts is now closed. Acceptance notices have been sent out.
 
 We invited authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accepted a total of 49 long contributed talks and 27 combined lightning talks & posters, by a total of 157 accepted co-authors. We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review was single-blind and performed by a college of 65 Programme Committee members (as listed below). 
 
@@ -85,10 +85,12 @@ Accepted speakers have been notified via email and requested to register for the
 [https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)
 
 Accepted authors, PC members, and guests are asked to book and cover their own **travel** and **accommodation**. Tallinn Airport is a small and highly efficient, only a few minutes commute from the city center, and well connected via international hubs including Copenhagen, Helsinki, Frankfurt, Munich, Riga, and Stockholm. **Reduced rate hotel rooms** are available from December 12 to 17, using the booking code "**CUDAN23**" in the following hotels:  
-– Park Inn by Radisson Central Tallinn 4* (75 Euro, single Standard room per night)  
-– Tallink City Hotel 4* (80/90 Euro, single/double Standard room per night)  
-– Tallink Express Hotel 3* (50/57 Euro, single/double Standard room per night)  
-– Nordic Hotel Forum 4* (90/105 Euro, single/double Standard/Superior room per night)  
+
+– **Park Inn by Radisson Central Tallinn** 4* (75 Euro, single Standard room per night)  
+– **Tallink City Hotel** 4* (80/90 Euro, single/double Standard room per night)  
+– **Tallink Express Hotel** 3* (50/57 Euro, single/double Standard room per night)  
+– **Nordic Hotel Forum** 4* (90/105 Euro, single/double Standard/Superior room per night)  
+
 Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/static/CUDAN2023-Hotels.pdf)
 
 **VISA support letters** are provided to accepted authors upon request (please use the conference registration form above). 
