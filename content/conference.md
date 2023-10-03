@@ -91,7 +91,7 @@ Accepted authors, PC members, and guests are asked to book and cover their own *
 – **Tallink Express Hotel** 3* (50/57 Euro, single/double Standard room per night)  
 – **Nordic Hotel Forum** 4* (90/105 Euro, single/double Standard/Superior room per night)  
 
-Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/static/CUDAN2023-Hotels.pdf)
+Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/CUDAN2023-Hotels.pdf)
 
 **VISA support letters** are provided to accepted authors upon request (please use the conference registration form above). 
 
