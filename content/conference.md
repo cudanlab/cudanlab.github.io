@@ -6,15 +6,16 @@ title: "Conference"
 
 ## About CUDAN 2023  
 
-We invite submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CCS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in **Tallinn, Estonia** from **December 13 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.  
+We invited submissions for the **Cultural Data Analytics Conference 2023** / **CUDAN 2023**, organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CCS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials. The conference is scheduled to happen in **Tallinn, Estonia** from **December 13 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed talks, and poster contributions from the community.  
 
 ## Key Dates  
 
-Abstracts due:  **July 24, 2023** (23:59 CET)  
+Abstracts due:  July 24, 2023 (23:59 CET)  
 Notification of acceptance: September 14, 2023  
 Conference: **December 13-16, 2023**  
 Pre-conference workshops: December 13, 2023  
-Main conference: December 14-16, 2023  
+Main conference: December 14-16, 2023 
+Walking tours: December 13 (afternoon) & 17 (morning)
 
 ![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
 *Winter morning in Tallinn. CC-BY Maximilian Schich*  
@@ -28,11 +29,15 @@ Main conference: December 14-16, 2023
 
 ## Call for Abstracts  
 
-We invite authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accept contributed talks, lightning talks, and posters (please indicate your preference). We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review is single-blind. 
+The call for abstracts is now closed. Acceptance notices have been sent out.
 
-In the spirit of multidisciplinary abstract conferences and idea conferences, we encourage submissions which aim to present entirely novel work, and also recently published contributions which would benefit from broader multidisciplinary discussion. In the latter case, please make sure to cite the original publication venue.   
+We invited authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accepted a total of 49 long contributed talks and 27 combined lightning talks & posters, by a total of 157 accepted co-authors. We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review was single-blind and performed by a college of 65 Programme Committee members (as listed below). 
 
-**SUBMIT HERE: https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference**  
+In the spirit of multidisciplinary abstract conferences and idea conferences, we encouraged submissions that aim to present entirely novel work, and also recently published contributions which would benefit from broader multidisciplinary discussion, asking authors to cite the original publication venue in the latter case.   
+
+**SUBMISSIONS & REVIEWS: https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference**
+
+Note that submissions and reviews are visible in the review system for accepted authors and reviewers. The conference line-up will be published around October 8, pending participation confirmation of accepted authors.
 
 ## Conference scope  
 
@@ -64,15 +69,31 @@ The CUDAN 2023 main conference programme (December 14-16, 2023) will include six
 
 The pre-conference day (December 13, 2023) will feature **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization using Python, R, Tableau, and the Collection Space Navigator.   
 
-Before and after the main conference, we will offer **sightseeing tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town) and[ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn) (among many reasons to [visit Estonia](https://www.visitestonia.com/en/)).  
+Before and after the main conference (December 13 in the afternoon & Decembewr 17 in the morning), we will offer **sightseeing tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town) and[ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn) (among many reasons to [visit Estonia](https://www.visitestonia.com/en/)).  
 
 We are further planning a **meet the publisher's session** and other opportunities for relevant stakeholders, including **exhibition booths**.  
 
-If you or your institution/company is interested in participation, please contact us via email to <cudan@tlu.ee>, ideally before September 14, 2023.  
+If you or your institution/company is interested in participation, please contact us via email to <cudan@tlu.ee>.  
 
 ## Registration & Accommodation
 
-As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance. Information regarding accommodation (including reduced rate hotels) and a form to order VISA support letters will be announced on the conference website (https://cudan.tlu.ee/conference/).
+As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance. 
+
+Accepted speakers have been notified via email and requested to register for the conference by **October 6**. We kindly ask Programme Committee members and CUDAN affiliates to register by **October 15** (to anticipate crowd size and name tag preferences). Guests are welcome to apply for conference participation by October 15.
+
+**Please use the following registration form:**
+[https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)
+
+Accepted authors, PC members, and guests are asked to book and cover their own **travel** and **accommodation**. Tallinn Airport is a small and highly efficient, only a few minutes commute from the city center, and well connected via international hubs including Copenhagen, Helsinki, Frankfurt, Munich, Riga, and Stockholm. **Reduced rate hotel rooms** are available from December 12 to 17, using the booking code "**CUDAN23**" in the following hotels:  
+– Park Inn by Radisson Central Tallinn 4* (75 Euro, single Standard room per night)  
+– Tallink City Hotel 4* (80/90 Euro, single/double Standard room per night)  
+– Tallink Express Hotel 3* (50/57 Euro, single/double Standard room per night)  
+– Nordic Hotel Forum 4* (90/105 Euro, single/double Standard/Superior room per night)  
+Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/static/CUDAN2023-Hotels.pdf)
+
+**VISA support letters** are provided to accepted authors upon request (please use the conference registration form above). 
+
+Further information regarding the optional and separately organized **networking dinner** will be sent out to registered participants in the coming weeks.
 
 ## Organizers
 
