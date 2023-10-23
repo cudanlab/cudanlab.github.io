@@ -324,7 +324,7 @@ Note that submissions and reviews are visible in the review system for accepted 
 **Lik-Hang Lee**, Hong Kong Polytechnic University, HK  
 **Liina Lindström**, University of Tartu, EE  
 **Jordi McKenzie**, Macquarie University, AU  
-**Stefania Milan**, University of Amsterdam, NL 
+**Stefania Milan**, University of Amsterdam, NL  
 **David Mimno**, Cornell University, Ithaca/NY, US  
 **Daria Morozova**, Ecole des Hautes Etudes Commerciales, FR  
 **Cassini Nazir**, University of North Texas, US  
