@@ -14,13 +14,14 @@ Video recordings of our ongoing **Open Lab Seminar series** are published and av
 
 ## 2023 publications
 
-Mar Canet Solà, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich. "**Quantifying Collection Lag
-in European Modern and Contemporary Art Museums.**" *arXiv:2305.14159* [cs.SI] (2023) open access: https://arxiv.org/abs/2305.14159 
+Mar Canet Solà, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich. "**Quantifying Collection Lag in European Modern and Contemporary Art Museums.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-8]. open access: https://doi.org/10.1145/3615522.3615562 preprint: https://arxiv.org/abs/2305.14159 
+
+Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023), *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5].  open access: https://doi.org/10.1145/3615522.3615546  extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
+
+Varvara Guljajeva, Mar Canet Sola, M. and Iurii Kuzmin. "**Telematic performance enforced by the pandemic: Neuroknitting Beethoven.**" *International Journal of Performance Arts and Digital Media* (October 2023). URLhttps://doi.org/10.1080/14794713.2023.2270790
 
 Mark Mets, Andres Karjus, Indrek Ibrus, and Maximilian Schich. "**Automated stance detection in complex topics and small languages:
 the challenging case of immigration in polarizing news media.**" *arXiv:2305.13047* [cs.CL] (2023) open access: https://arxiv.org/abs/2305.13047 
-
-Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023) open access: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
 
 Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich, and Indrek Ibrus. 2023. “**Quantifying the Global Film Festival Circuit: Networks, Diversity, and Public Value Creation.**” *SocArXiv*. April 26. open access: https://doi.org/10.31235/osf.io/g9w4b
 
