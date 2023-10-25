@@ -16,9 +16,11 @@ Video recordings of our ongoing **Open Lab Seminar series** are published and av
 
 Mar Canet Solà, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich. "**Quantifying Collection Lag in European Modern and Contemporary Art Museums.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-8]. open access: https://doi.org/10.1145/3615522.3615562 preprint: https://arxiv.org/abs/2305.14159 
 
-Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *arXiv:2305.06809* [cs.CV] (2023), *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5].  open access: https://doi.org/10.1145/3615522.3615546  extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
+Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5].  open access: https://doi.org/10.1145/3615522.3615546  extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
 
-Varvara Guljajeva, Mar Canet Sola, M. and Iurii Kuzmin. "**Telematic performance enforced by the pandemic: Neuroknitting Beethoven.**" *International Journal of Performance Arts and Digital Media* (October 2023). URLhttps://doi.org/10.1080/14794713.2023.2270790
+Varvara Guljajev and Mar Canet Sola. "**Interactive NeuroKnitting: Knitting with Your Brain.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction*, (2023) [1-2]. URL: https://doi.org/10.1145/3615522.3615573
+
+Varvara Guljajeva, Mar Canet Sola, and Iurii Kuzmin. "**Telematic performance enforced by the pandemic: Neuroknitting Beethoven.**" *International Journal of Performance Arts and Digital Media* (October 2023). URL: https://doi.org/10.1080/14794713.2023.2270790
 
 Mark Mets, Andres Karjus, Indrek Ibrus, and Maximilian Schich. "**Automated stance detection in complex topics and small languages:
 the challenging case of immigration in polarizing news media.**" *arXiv:2305.13047* [cs.CL] (2023) open access: https://arxiv.org/abs/2305.13047 
@@ -35,7 +37,7 @@ Guljajeva, V., & Canet Sola, M. 2023. **Psychedelic Forms-Ceramics and Physical 
 
 Kasyanov I.A., van der Hoorn P., Krioukov D., and Tamm M.V. "**Nearest-neighbour directed random hyperbolic graphs**", *arXiv:2303.01002* [physics.soc-ph] (2023) open-access https://arxiv.org/abs/2303.01002
 
-Jemmer, Hanna, and Indrek Ibrus. "Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses." Media, Culture & Society (2023) open-access: https://doi.org/10.1177/01634437231155558.
+Jemmer, Hanna, and Indrek Ibrus. "**Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses.**" *Media, Culture & Society* (2023) open-access: https://doi.org/10.1177/01634437231155558.
 
 ## 2022 publications
 Ramona Roller, Maximilian Schich, Mikhail Tamm, and Hyejin Youn, eds., "**A Topical Issue on Cultural Complexity**", *Advances in Complex Systems* (2022). https://www.worldscientific.com/toc/acs/25/05n06
@@ -62,11 +64,11 @@ Lobashev, A., Tamm, M.V., (2022) **Counting Phases and Faces Using Bayesian Ther
 
 Coles, Amanda, Justine Ferrer, Vejune Zemaityte, and Marcus Banks. 2022. "**A Wider Lens: Australian Camera Workforce Development and Diversity**”. Australian Cinematographers Association, https://cinematographer.org.au/wp-content/uploads/2022/07/A-Wider-Lens-report-final.pdf
 
-Keck, Jana, Mila Oiva, and Paul Fyfe. 2022. “Lajos Kossuth and the Transnational News: A Computational and Multilingual Approach to Digitized Newspaper Collections.” *Media History* 0, no. 0 (November 16): 1–18.[ https://doi.org/10.1080/13688804.2022.2146905](https://doi.org/10.1080/13688804.2022.2146905).
+Keck, Jana, Mila Oiva, and Paul Fyfe. 2022. “**Lajos Kossuth and the Transnational News: A Computational and Multilingual Approach to Digitized Newspaper Collections.**” *Media History* 0, no. 0 (November 16): 1–18.[ https://doi.org/10.1080/13688804.2022.2146905](https://doi.org/10.1080/13688804.2022.2146905).
 
-Oiva, Mila and Anna Ristilä. 2022. “Mapping the pseudohistorical knowledge space in the Russian World Wide Web” in[ *Medievalism in Finland and Russia: twentieth- and twenty-first-century aspects*](https://www.bloomsburycollections.com/book/medievalism-in-finland-and-russia-twentieth-and-twenty-first-century-aspects/), edited by Reima Välimäki, 57-71. England: Bloomsbury.
+Oiva, Mila and Anna Ristilä. 2022. “**Mapping the pseudohistorical knowledge space in the Russian World Wide Web**” in[ *Medievalism in Finland and Russia: twentieth- and twenty-first-century aspects*](https://www.bloomsburycollections.com/book/medievalism-in-finland-and-russia-twentieth-and-twenty-first-century-aspects/), edited by Reima Välimäki, 57-71. England: Bloomsbury.
 
-La Mela, Matti, and Mila Oiva. 2022. “Digitaalinen historiantutkimus.” In[ *Avaimia menneisyyteen — Opas historiantutkimuksen menetelmiin*](https://kauppa.gaudeamus.fi/sivu/tuote/avaimia-menneisyyteen/4047622), edited by Mirkka Danielsbacka, Matti O. Hannikainen, and Tuomas Tepora, 211–28. Helsinki: Gaudeamus.
+La Mela, Matti, and Mila Oiva. 2022. “**Digitaalinen historiantutkimus.**” In *Avaimia menneisyyteen — Opas historiantutkimuksen menetelmiin*, edited by Mirkka Danielsbacka, Matti O. Hannikainen, and Tuomas Tepora, 211–28. Helsinki: Gaudeamus. URL: https://kauppa.gaudeamus.fi/sivu/tuote/avaimia-menneisyyteen/4047622
 
 ## 2021 publications
 Ibrus, Indrek, Maximilian Schich, and Marek Tamm. "**Digihumanitaariast kultuuriandmete analüüsini.**" *Keel ja Kirjandus*, 64,8-9 (2021), 671−688. DOI <https://doi.org/10.54013/kk764a2>
