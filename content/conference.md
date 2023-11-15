@@ -27,6 +27,11 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 ![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
 *Winter morning in Tallinn. CC-BY Maximilian Schich*  
 
+## Schedule
+
+![CUDAN 2023 Conference schedule (image)](/img/CUDAN-2023-schedule_20231116.png "CUDAN 2023 Conference schedule (image)")
+*CUDAN 2023 Conference schedule (2023-11-16 version)* 
+
 ## Keynotes confirmed  
 
 – **Petter Holme**, Aalto University, Helsinki, Finland (https://petterhol.me/)  
