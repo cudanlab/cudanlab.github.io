@@ -247,6 +247,10 @@ Pre-conference workshops: December 13, 2023
 Main conference: December 14-16, 2023 
 Walking tours: December 13 (afternoon) & 17 (morning)
 
+## Conference venue
+
+The CUDAN 2023 conference venue is located in the _Astra building_ of **Tallinn University**, **Narva mantee 29**, **10120 Tallinn**, **Estonia**.
+
 ## Registration & Accommodation
 
 As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance. 
