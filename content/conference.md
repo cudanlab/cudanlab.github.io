@@ -39,170 +39,179 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 – **Mauro Martino**, Visual Artificial Intelligence Lab, IBM Research, Boston, USA (https://www.mamartino.com/)   
 – **Anu Masso**, TalTech, Tallinn, Estonia ([https://taltech.ee/...](https://taltech.ee/en/contacts/anu-masso))  
 
- ## Accepted long talks
-– **Simon Dedeo**  
-Sense-making, story-telling, and the unspeakable in r/relationships.  
-– **Mar Canet Sola, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich**  
-Quantifying collection lag in world modern and contemporary art museums.  
-– **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi**  
-Quantifying hierarchy and prestige in US ballet academies as social predictors of career success.  
-– **Melvin Wevers and Kristoffer Nielbo**  
-Embed, detect and describe: A framework for examining events in complex sociocultural and historical data.  
-– **Andres Karjus**  
-Large language models to supercharge humanities and cultural analytics research.  
-– **Bárbara Romero Ferron**  
-The concept of Spanish art in nineteenth-century exhibitions: A data-driven analysis.  
-– **Axel Bohmann**  
-The grammar of gender: Verb phrases with gendered subjects across 200 years of American English.  
-– **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen**  
-Awakening the material in the network of things through data-driven semantic analysis.  
-– **Bartosz Jusypenko**  
-What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment.  
-– **Alberto Acerbi and Joe Stubbersfield**  
-Large language models show human-like content biases in transmission chain experiments.  
-– **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts**  
-Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940.  
-– **Tod Stewart Van Gunten and Aybuke Atalay**  
-Modeling cultural globalization on music streaming platforms.  
-– **Nadia Alaily-Mattar, Vincent Baptist, Lukas Legner, and Diane Arvanitakis**  
-The mediated lifespan of urban architectural icons: An empirical investigation using Instagram data .  
-– **Luca Giovannini and Miriam Schirmer**  
-The courtroom as stage: Exploring the performative dimension of genocide trials.  
-– **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers**  
-Steady formulas, shifting spells: Estimating unseen folktale diversity.  
-– **Antonina Korepanova, Davide Pafumi, and Bowei Wang**  
-Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling.  
-– **Louis Michael Shekhtman and Albert-Laszlo Barabasi**  
-Philanthropy in art: locality, donor retention, and prestige.  
-– **Richard A Blythe and William Croft**  
-How individuals change culture.  
-– **Martin E Berger**  
-Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research.  
-– **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds**  
-A decomposition of book structure through ousiometric fluctuations in cumulative word-time.  
-– **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm**  
-Between history and poetics: Identifying temporal dynamics in large audiovisual collections.  
-– **Vivian Dornelas, Els Heinsalu, and Marco Patriarca**  
-Spreading of cultural traits in spatially embedded networks.  
-– **Francesca Odella**  
-Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009.  
-– **Esther Solé Martí**  
-Quantifying relevance in art exhibitions.  
-– **Ekaterina Lapina-Kratasiuk**  
-Threats and temptations of the digital city: Social and political consequences of data-driven networked urbanism.  
-– **Donghyeok Choi and Juyong Park**  
-Unraveling the Joseon dynasty: A quantitative approach to historical dynamics.  
-– **Mark J. Hill and Paul Nulty**  
-Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe.  
-– **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich**  
-Gendered aspects of team formation in the Soviet newsreel production industry.  
-– **Simon Ullrich and Johanna Einsiedler**  
-Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs.  
-– **Wojciech Hardy and Paul Crosby**  
-Fewer streams but longer songs? Attention economics and the pandemic effects on music listening.  
-– **Wojciech Hardy, Michał Paliński, Satia Rożynek, and Sophia Gaenssle**  
-Promoting music through user-generated content: The TikTok effect on music streaming.  
-– **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan**  
-Exploring the evolution of artistic styles with generative AI.  
-– **Corinna Coupette, Jilles Vreeken, and Bastian Rieck**  
-All the world's a (hyper)graph: A data drama.  
-– **Camilla Mazzucato and Michele Coscia**  
-Constructing kinship: A network study of material and biological ties at Çatalhöyük.  
-– **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz**  
-Sampling cultural universes of notable individuals from Wikipedia.  
-– **Alexandra Barancova, Melvin Wevers, and Nanne Van Noord**  
-The expression of temporality in historical photographs.  
-– **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao**  
-Global coherence, local uncertainty: A recipe for literary success.  
-– **Selenia Anastasi, Florian Schneider, Tim Fischer, and Chris Biemann**  
-Unraveling the incelosphere aesthetics: Memes and visual culture across the Italian and the English-speaking incel communities.  
-– **Shiming Shen**  
-Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization.  
-– **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu**  
-A three-state language competition model including language learning and attrition.  
-– **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe**  
-Modelling and corpus analysis of the co-evolution of linguistic forms and functions.  
-– **Chico Q Camargo and Isabel Sebire**  
-Genres, subgenres, and storytelling tropes: a data science approach.  
-– **Andres Kõnno and Kais Allkivi-Metsoja**  
-The role of metadata in interpreting media data as cultural data: The ERR case.  
-– **Yadira Lizama Mué and Juan-Luis Suárez**  
-Unraveling the emerging frontiers of interdisciplinary research in cultural analytics.  
-– **Fanglei Wang and Jianbo Gao**  
-Differential impact of the Covid-19 pandemic on African countries.  
-– **Ksenia Mukhina and Maximilian Schich**  
-Learning geo-socio-visual attention patterns regarding the city of Rome.  
-– **Olga Mukhortova and Dmitry Zinoviev**  
-What is star discourse in post-Soviet film journals?  
-– **Marc Santolini and Liubov Tupikina**  
-Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts.  
-– **Ludovica Schaerf**  
-Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?.  
-
-## Accepted lightning talk & poster combinations
-– **Everardo Reyes**  
-Media visualization of SIGGRAPH art shows.  
-– **Ian Kisil Marino**  
-Approaches to data in the case of digital informal archives: A digital history study based on the COVID-19 pandemic in Latin America.  
-– **Justin Munoz and Rachel Fensham**  
-Protean figures for protean careers in cultural data.  
-– **Bruno Caldas Vianna, and Elen Nas**  
-Visual AI's matter of taste.  
-– **Maria-Rita D'Orsogna, Tom Chou, and Lucas Böttcher**  
-Fentanyl-driven acceleration of racial, gender and geographical disparities in drug overdose deaths in the United States.  
-– **Luis Alejandro Miccio, Carlos Gámez, Juan-Luis Suárez, and Gustavo A. Schwartz**  
-Complex networks reveal emergent interdisciplinary knowledge in Wikipedia.  
-– **Teresa Kamencek, Velitchko Filipov, Victor Schetinger, Silvia Miksch, and Raphael Rosenberg**  
-TimeScapes: Towards a visual characterization of modern artists’ exhibition activity.  
-– **Tomasz Żuradzki**  
-Half a century of bioethics and philosophy of medicine. A computational approach.  
-– **Sonja Thiel and Etienne Posthumus**  
-xCurator: AI-supported exploration and curation of digital collections.  
-– **Jacek Bąkowski**  
-Comparative study of Sanskrit and Perso-Arabic loanwords in modern Hindi with word embeddings.  
-– **Clément Zankoc, Marco Patriarca, and Els Heinsalu**  
-Language dynamics model with finite-range interactions influencing the diffusion of linguistic traits and human dispersal.  
-– **Nancy Hada and Kavita Vemuri**  
-Deep-Learning-driven feature extraction for classification of Indian tribal paintings.  
-– **Kelly Elizabeth McClinton and Luis M Rocha**  
-POESIS: A new tool for aiding human-centered computational Art History.  
-– **Sarala Shakya and Rajani Chulyadyo**  
-Emotion-aware Nepali music recommender system.  
-– **Youcef Benkhedda, Viktor Schlegel, Goran Nenadic, and Riza Batista-Navarro**  
-Integrating community-generated digital content into the UK National Collection.  
-– **Olena Mykhailenko**  
-Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data.  
-– **Mar Canet Sola and Varvara Guljajeva**  
-Visions of destruction: Experiencing the climate crisis through an interactive AI-aided artwork.  
-– **Mila Oiva and Ksenia Mukhina**  
-Understanding footage sharing and reuse in Estonian and Soviet newsreels.  
-– **Anda Iulia Solea**  
-Mainstreaming The Blackpill: An exploration of the incel community on TikTok and YouTube shorts.  
-– **Irine Chachanidze and Tamar Guchua**  
-The Russification language policy in Georgia according to the press of the Georgian Emigrants of the first half of the 20th century.  
-– **Paschalis Agapitos, Luis Alejandro Miccio, Gustavo A. Schwartz, and Juan-Luis Suárez**  
-SynPedia classifier: Using syntactic structures and named entity recognition for effective Wikipedia page classification.  
-– **Els Heinsalu, Marco Patriarca, Andrzej Pȩkalski, and Janusz Szwabiński**  
-Networks of traditional cuisines as cultural benchmarks.  
-– **Jon Durand and Cloe Chapotot Abreu**  
-When culture is the user: Learning from cultural data and UX research to engage European youth in politics.  
-– **Phillip Stenmann Baun**  
-Beyond keywords: An NLP method for identifying corpus-specific historical terms in cultural datasets.  
-– **Pilar Rodriguez Mata**  
-Trending together: Mapping transnational hashtags in the Hispanosphere's feminist discourse.  
-– **Rebecca Giblin and Paul Crosby**  
-Untapped potential: Economic analyses emerging from the Australian Literary Heritage project.  
-– **Jianbo Gao, and Zhaoyang He**  
-Media big-data-based continuous monitoring of global risks.  
+## Schedule
+| **Dec13 CUDAN 2023 PRE-CONFERENCE WORKSHOP DAY**             |
+| ------------------------------------------------------------ |
+| *WORKSHOP-1* (10:00-13:00) **Ksenia Mukhina** – Workshop 1: Computer vision techniques for analyzing cultural data with Python |
+| *WORKSHOP-2* (10:00-13:00) **Andres Karjus** – Workshop 2: Visualizing big cultural data using R, with a little help from AI |
+| *WORKSHOP-3* (14:00-17:00) **Mar Canet Sola** – Workshop 3: Navigating visual collections using image embeddings |
+| *WORKSHOP-4* (14:00-17:00) **Vejune Zemaityte** – Workshop 4: Tableau for exploring, analysing and visualising cultural data |
+|                                                              |
+| *14:00-16:00 – walking tours (tbd)*                          |
+|                                                              |
+| **Dec14 CUDAN 2023 CONFERENCE DAY 1**                        |
+| **09:00-10:00 – Keynote Session 1**                          |
+| *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
+| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](https://petterhol.me/)** – [Cultural physics]. |
+|                                                              |
+| **10:00-11:00 – Long Talk Session 1a**                       |
+| *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. (#21) |
+| *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. (#15) |
+| *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. (#33) |
+|                                                              |
+| *11:00-11:30 – coffee break*                                 |
+|                                                              |
+| **11:30-12:30 – Long Talk Session 1b**                       |
+| *LONG-1-4* (11:30-11:50) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. (#56) |
+| *LONG-1-5* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. (#10) |
+| *LONG-1-6* (12:10-12:30) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. |
+|                                                              |
+| **12:30-13:30 – Global Remote Session**                      |
+| *REMOTE-1* (12:30-12:36) **Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. (#23) |
+| *REMOTE-2* (12:36-12:42) **Ian Kisil Marino** – Approaches to data in the case of digital informal archives: A digital history study based on the COVID-19 pandemic in Latin America. (#68) |
+| *REMOTE-3* (12:42-12:48) **Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. (#22) |
+| *REMOTE-4* (12:48-12:54) **Maria-Rita D'Orsogna, Tom Chou, and Lucas Böttcher** – Fentanyl-driven acceleration of racial, gender and geographical disparities in drug overdose deaths in the United States. (#39) |
+| *REMOTE-5* (12:54-13:00) **Olena Mykhailenko** – Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data. (#71) |
+| *REMOTE-6* (13:00-13:06) **Irine Chachanidze and Tamar Guchua** – The Russification language policy in Georgia according to the press of the Georgian Emigrants of the first half of the 20th century. (#31) |
+| *REMOTE-7* (13:06:13:12) **Kelly Elizabeth McClinton and Luis M Rocha** – POESIS: A new tool for aiding human-centered computational Art History. (#26) |
+| *REMOTE-8* (13:12-13:18) **Nadia Alaily-Mattar, Vincent Baptist, Lukas Legner, and Diane Arvanitakis** – The mediated lifespan of urban architectural icons: An empirical investigation using Instagram data . (#5) |
+| *REMOTE-9* (13:18-13:24) **Nancy Hada and Kavita Vemuri** – Deep-Learning-driven feature extraction for classification of Indian tribal paintings. (#73) |
+| *REMOTE-10* (13:24-13:30) **Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. (#43) |
+|                                                              |
+| *13:30-14:30 – lunch*                                        |
+|                                                              |
+| **14:30-16:30 – Long Talk Session 2a (parallel)**            |
+| *LONG-2A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. (#35) |
+| *LONG-2A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. (#58) |
+| *LONG-2A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. (#77) |
+| *LONG-2A-4* (15:30-15:50) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. (#75) |
+| *LONG-2A-5* (15:50-16:10) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. (#74) |
+| *LONG-2A-6* (16:10-16:30) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. (#52) |
+|                                                              |
+| **14:30-16:30 – Long Talk Session 2b (parallel)**            |
+| *LONG-2B-1* (14:30-14:50) **Selenia Anastasi, Florian Schneider, Tim Fischer, and Chris Biemann** – Unraveling the incelosphere aesthetics: Memes and visual culture across the Italian and the English-speaking incel communities. (#27) |
+| *LONG-2B-2* (14:50-15:10) **Wojciech Hardy, Michał Paliński, Satia Rożynek, and Sophia Gaenssle** – Promoting music through user-generated content: The TikTok effect on music streaming. (#44) |
+| *LONG-2B-3* (15:10-15:30) **Wojciech Hardy and Paul Crosby** – Fewer streams but longer songs? Attention economics and the pandemic effects on music listening. (#17) |
+| *LONG-2B-4* (15:30-15:50) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. (#90) |
+| *LONG-2B-5* (15:50-16:10) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. (#79) |
+| *LONG-2B-6* (16:10-16:30) **Tillmann Ohm** – Curatorial algorithms and collection spaces. (#94) |
+|                                                              |
+| *16:30-17:00 – coffee break*                                 |
+|                                                              |
+| **17:00-18:00 – Keynote Session 2**                          |
+| *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, n.n., n.n.** – Data analytics at Tallinn University: Past, present, and future. |
+|                                                              |
+| *19:00-22:00 – conference dinner*                            |
+|                                                              |
+| **Dec15 CUDAN 2023 CONFERENCE DAY 2**                        |
+| **09:00-10:00 – Keynote Session 3**                          |
+| *WELCOME* (09:00-09:15) **y'all** – Meet the publishers      |
+| *KEYNOTE-2* (09:15-10:00) **[Anu Masso](https://taltech.ee/en/contacts/anu-masso)** – Towards understanding global data migration: A social transformation approach |
+|                                                              |
+| **10:00-11:00 – Long Talk Session 3a**                       |
+| *LONG-3-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. (#2) |
+| *LONG-3-2* (10:20-10:40) **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi** – Quantifying hierarchy and prestige in US ballet academies as social predictors of career success. (#3) |
+| *LONG-3-3* (10:40-11:00) **Mar Canet Sola, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich** – Quantifying collection lag in world modern and contemporary art museums. (#84) |
+|                                                              |
+| *11:00-11:30 – coffee break*                                 |
+|                                                              |
+| **11:30-12:30 – Long Talk Session 3b**                       |
+| *LONG-3-4* (11:30-11:50) **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz** – Sampling cultural universes of notable individuals from Wikipedia. (#49) |
+| *LONG-3-5* (11:50-12:10) **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe** – Modelling and corpus analysis of the co-evolution of linguistic forms and functions. (#51) |
+| *LONG-3-6* (12:10-12:30) **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen** – Awakening the material in the network of things through data-driven semantic analysis. (#59) |
+|                                                              |
+| **12:30-13:30 – Lightning Session 1**                        |
+| *LIGHTNING-1-1* (12:30-12:36) **Bruno Caldas Vianna, and Elen Nas** – Visual AI's matter of taste. (#47) |
+| *LIGHTNING-1-2* (12:36-12:42) **Sonja Thiel and Etienne Posthumus** – xCurator: AI-supported exploration and curation of digital collections. (#63) |
+| *LIGHTNING-1-3* (12:42-12:48) **Youcef Benkhedda, Viktor Schlegel, Goran Nenadic, and Riza Batista-Navarro** – Integrating community-generated digital content into the UK National Collection. (#69) |
+| *LIGHTNING-1-4* (12:48-12:54) **Rebecca Giblin and Paul Crosby** – Untapped potential: Economic analyses emerging from the Australian Literary Heritage project. (#87) |
+| *LIGHTNING-1-5* (12:54-13:00) **Jon Durand and Cloe Chapotot Abreu** – When culture is the user: Learning from cultural data and UX research to engage European youth in politics. (#80) |
+| *LIGHTNING-1-6* (13:00-13:06) **Pilar Rodriguez Mata** – Trending together: Mapping transnational hashtags in the Hispanosphere's feminist discourse. (#82) |
+| *LIGHTNING-1-7* (13:06:13:12) **Tomasz Żuradzki** – Half a century of bioethics and philosophy of medicine. A computational approach. (#57) |
+| *LIGHTNING-1-8* (13:12-13:18) **Luis Alejandro Miccio, Carlos Gámez, Juan-Luis Suárez, and Gustavo A. Schwartz** – Complex networks reveal emergent interdisciplinary knowledge in Wikipedia. (#48) |
+| *LIGHTNING-1-9* (13:18-13:24) **Justin Munoz and Rachel Fensham** – Protean figures for protean careers in cultural data. (#19) |
+|                                                              |
+| *13:30-14:30 – coffee break*                                 |
+|                                                              |
+| **14:30-16:30 – Long Talk Session 4a (parallel)**            |
+| *LONG-4A-1* (14:30-14:50) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. (#72) |
+| *LONG-4A-2* (14:50-15:10) **Martin E Berger** – Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research. (#18) |
+| *LONG-4A-3* (15:10-15:30) **Bárbara Romero Ferron** – The concept of Spanish art in nineteenth-century exhibitions: A data-driven analysis. (#37) |
+| *LONG-4A-4* (15:30-15:50) **Esther Solé Martí** – Quantifying relevance in art exhibitions. (#60) |
+| *LONG-4A-5* (15:50-16:10) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. (#78) |
+| *LONG-4A-6* (16:10-16:30) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. (#4) |
+|                                                              |
+| **14:30-16:30 – Long Talk Session 4b (parallel)**            |
+| *LONG-4B-1* (14:30-14:50) **Mark Mets** – Patterns of cultural other at scale. (#91) |
+| *LONG-4B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? (#89) |
+| *LONG-4B-3* (15:10-15:30) **Mikhail Tamm** – Newsreel geography. (#92) |
+| *LONG-4B-4* (15:30-15:50) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. (#36) |
+| *LONG-4B-5* (15:50-16:10) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. (#46) |
+| *LONG-4B-6* (16:10-16:30) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. (#16) |
+|                                                              |
+| *16:30-17:00 – coffee break*                                 |
+|                                                              |
+| **17:00-18:00 – Keynote Session 4**                          |
+| *KEYNOTE-PANEL-2* (17:00-18:00) **[Surprise!]** – The state of cultural data analytics. |
+| *18:00-20:00 – AI art exhibit reception*                     |
+|                                                              |
+| **Dec16 CUDAN 2023 CONFERENCE DAY 2**                        |
+| **09:00-10:00 – Keynote Session 5**                          |
+| *GROUP PHOTO* (09:00-09:15) **all y'all** – Join us for a group photo |
+| *KEYNOTE-3* (09:15-10:00) **[Béatrice Joyeux-Prunel](https://www.unige.ch/lettres/humanites-numeriques/equipe/collaborateurs/prof-beatrice-joyeux-prunel)** – Cultural data analytics and the deluge of images. |
+|                                                              |
+| **10:00-11:00 – Long Talk Session 5a**                       |
+| *LONG-5-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. (#53) |
+| *LONG-5-2* (10:20-10:40) **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts** – Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940. (#40) |
+| *LONG-5-3* (10:40-11:00) **Yadira Lizama Mué and Juan-Luis Suárez** – Unraveling the emerging frontiers of interdisciplinary research in cultural analytics. (#70) |
+|                                                              |
+| *11:00-11:30 – coffee break*                                 |
+|                                                              |
+| **11:30-12:30 – Long Talk Session 5b**                       |
+| *LONG-5-4* (11:30-11:50) **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds** – A decomposition of book structure through ousiometric fluctuations in cumulative word-time. (#34) |
+| *LONG-5-5* (11:50-12:10) **Chico Q Camargo and Isabel Sebire** – Genres, subgenres, and storytelling tropes: a data science approach. (#55) |
+| *LONG-5-6* (12:10-12:30) **Simon Dedeo** – Sense-making, story-telling, and the unspeakable in r/relationships. (#88) |
+|                                                              |
+| **12:30-13:30 – Lightning Session 2**                        |
+| *LIGHTNING-3-1* (12:30-12:36) **Jacek Bąkowski** – Comparative study of Sanskrit and Perso-Arabic loanwords in modern Hindi with word embeddings. (#85) |
+| *LIGHTNING-3-2* (12:36-12:42) **Clément Zankoc, Marco Patriarca, and Els Heinsalu** – Language dynamics model with finite-range interactions influencing the diffusion of linguistic traits and human dispersal. (#32) |
+| *LIGHTNING-3-3* (12:42-12:48) **Phillip Stenmann Baun** – Beyond keywords: An NLP method for identifying corpus-specific historical terms in cultural datasets. (#81) |
+| *LIGHTNING-3-4* (12:48-12:54) **Paschalis Agapitos, Luis Alejandro Miccio, Gustavo A. Schwartz, and Juan-Luis Suárez** – SynPedia classifier: Using syntactic structures and named entity recognition for effective Wikipedia page classification. (#50) |
+| *LIGHTNING-3-5* (12:54-13:00) **Els Heinsalu, Marco Patriarca, Andrzej Pȩkalski, and Janusz Szwabiński** – Networks of traditional cuisines as cultural benchmarks. (#41) |
+| *LIGHTNING-3-6* (13:00-13:06) **Anda Iulia Solea** – Mainstreaming The Blackpill: An exploration of the incel community on TikTok and YouTube shorts. (#42) |
+| *LIGHTNING-3-7* (13:06:13:12) **Teresa Kamencek, Velitchko Filipov, Victor Schetinger, Silvia Miksch, and Raphael Rosenberg** – TimeScapes: Towards a visual characterization of modern artists’ exhibition activity. (#54) |
+| *LIGHTNING-3-8* (13:12-13:18) **Everardo Reyes** – Media visualization of SIGGRAPH art shows. (#30) |
+| *LIGHTNING-3-9* (13:18-13:24) **Mar Canet Sola and Varvara Guljajeva** – Visions of destruction: Experiencing the climate crisis through an interactive AI-aided artwork. (#86) |
+|                                                              |
+| *13:30-14:30 – lunch*                                        |
+|                                                              |
+| **14:30-16:30 – Long Talk Session 6a (parallel)**            |
+| *LONG-6A-1* (14:30-14:50) **Camilla Mazzucato and Michele Coscia** – Constructing kinship: A network study of material and biological ties at Çatalhöyük. (#11) |
+| *LONG-6A-2* (14:50-15:10) **Donghyeok Choi and Juyong Park** – Unraveling the Joseon dynasty: A quantitative approach to historical dynamics. (#62) |
+| *LONG-6A-3* (15:10-15:30) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. (#20) |
+| *LONG-6A-4* (15:30-15:50) **Simon Ullrich and Johanna Einsiedler** – Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs. (#76) |
+| *LONG-6A-5* (15:50-16:10) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. (#83) |
+| *LONG-6A-6* (16:10-16:30) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. (#9) |
+|                                                              |
+| **14:30-16:30 – Long Talk Session 6b (parallel)**            |
+| *LONG-6B-1* (14:30-14:50) **Ekaterina Lapina-Kratasiuk** – Threats and temptations of the digital city: Social and political consequences of data-driven networked urbanism. (#61) |
+| *LONG-6B-2* (14:50-15:10) **Alexandra Barancova, Melvin Wevers, and Nanne Van Noord** – The expression of temporality in historical photographs. (#14) |
+| *LONG-6B-3* (15:10-15:30) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. (#13) |
+| *LONG-6B-4* (15:30-15:50) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. (#65) |
+| *LONG-6B-5* (15:50-16:10) **Hanna Jemmer** – How media organisations innovate via data analytics: a non-orthodox view. (#93) |
+|                                                              |
+| *16:30-17:00 – coffee break*                                 |
+|                                                              |
+| **17:00-18:00 – Keynote Session 6**                          |
+| *KEYNOTE-4* (17:00-18:00) **[Mauro Martino](https://www.mamartino.com/)** – Generativism: The impact of generative models on aesthetics and the human experience. |
+| *CLOSING* (18:00-18:30) **Maximilian Schich** – Farewell (incl. best talk, best poster, and what's next?) |
+|                                                              |
+| **Dec17 CUDAN 2023 AFTERGLOW**                               |
+| *10:00-12:00 – walking tours (tbd)*                          |
 
 ## Pre-conference workshops
 
-– **Ksenia Mukhina**, Computer vision techniques for analyzing cultural data with Python  
-– **Andres Karjus**, Visualizing big cultural data using R, with a little help from AI  
-– **Mar Canet Sola**, Navigating visual collections using image embeddings  
-– **Vejune Zemaityte**, Tableau for exploring, analysing and visualising cultural data
-
-Workshops require free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46)
+December 13 workshops, as listed in the schedule above, require free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46)
 
 ## Conference scope  
 
