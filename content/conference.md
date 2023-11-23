@@ -8,39 +8,39 @@ title: "Conference"
 
 The **Cultural Data Analytics Conference 2023** / **CUDAN 2023** is scheduled to happen in **Tallinn, Estonia** from **December 13 to 16, 2023**, including a number of leading invited practitioners, peer-reviewed long talks, and lightning+poster contributions from the community. The conference is organized by the ERA Chair project for Cultural Data Analytics at Tallinn University, generously funded by the European Commission. Inspired by initial large gatherings of the cultural analytics community, including [UCLA/IPAM 2016](http://www.ipam.ucla.edu/programs/long-programs/culture-analytics/), and multidisciplinary conferences such as [NetSci](https://netscisociety.net/home), [IC2S2](https://www.ic2s2.org/index.html), or [CCS](https://cssociety.org/home), we aim to bring together researchers, practitioners, and stakeholders using methods of cultural data analytics to understand cultures and cultural production. This particularly includes multidisciplinary combinations of quantification, qualitative inquiry, computational analysis, and visualization to make sense of large cultural datasets, including visual, audiovisual, linguistic, and other genres of socio-cultural materials.  
 
-Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting talk and poster*** combinations are listed below. Further information includes the ***conference programm schedule***, the ***conference scope***, the ***call for abstracts*** (which is now closed), ***registration & accommodation***, the team of ***organizers***, and the international ***program committee*** members (who have performed peer-review). 
+Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting talk and poster*** combinations are listed below. Further information includes the ***conference scope***, ***key dates***, ***registration & accommodation***, the now closed ***call for abstracts***, the team of ***organizers***, and the international ***program committee*** members (who have performed peer-review).  
 
-**[Free conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests remains open until October 31 (or until we run out of capacity). Pre-conference workshops require free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46).  
+**[Free conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests remains open until we run out of capacity. Pre-conference workshops require free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46).  
 
-We are looking forward to seeing you in Tallinn!  
-
-## Key Dates  
-
-Abstracts due:  July 24, 2023 (23:59 CET)  
-Notification of acceptance: September 14, 2023  
-Registration deadline: **October 31, 2023** (or until we run out of capacity)  
-Conference: **December 13-16, 2023**  
-Pre-conference workshops: December 13, 2023  
-Main conference: December 14-16, 2023 
-Walking tours: December 13 (afternoon) & 17 (morning)
+**We are looking forward to seeing you in Tallinn from December 13 to 16!**  
 
 ![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
 *Winter morning in Tallinn. CC-BY Maximilian Schich*  
 
-## Schedule
-
-![CUDAN 2023 Conference schedule (image)](/img/CUDAN-2023-schedule_20231116.png "CUDAN 2023 Conference schedule (image)")
-*CUDAN 2023 Conference schedule (2023-11-16 version)* 
-
-## Keynotes confirmed  
+## Keynote speakers  
 
 – **Petter Holme**, Aalto University, Helsinki, Finland (https://petterhol.me/)  
 – **Béatrice Joyeux-Prunel**, Université de Genève, Switzerland ([https://www.unige.ch/...](https://www.unige.ch/lettres/humanites-numeriques/equipe/collaborateurs/prof-beatrice-joyeux-prunel))  
 – **Mauro Martino**, Visual Artificial Intelligence Lab, IBM Research, Boston, USA (https://www.mamartino.com/)   
 – **Anu Masso**, TalTech, Tallinn, Estonia ([https://taltech.ee/...](https://taltech.ee/en/contacts/anu-masso))  
 
-## Schedule
-| **Dec13 CUDAN 2023 PRE-CONFERENCE WORKSHOP DAY**             |
+## Program schedule overview
+
+![CUDAN 2023 Conference schedule (image)](/img/CUDAN-2023-schedule_20231116.png "CUDAN 2023 Conference schedule (image)")
+*CUDAN 2023 Conference schedule (2023-11-16 version)* 
+
+## Program schedule description
+
+The pre-conference day (December 13, 2023) features **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization (see detailed schedule below). The workshops require a free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46).
+
+The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel discussions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A001), while one day will feature long talks in two parallel tracks (rooms A001 and directly adjaceny A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. The main conference program will close with a best poster and best long presentation award ceremony. Special events during the main conference include a ***conference dinner*** (December 14) and an ***AI art exhibition*** vernissage (December 15). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
+
+
+Before and after the main conference (December 13 & 17), we will offer **walking tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town), the [ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn), and a tour along the coast into the forest (all among many reasons to [visit Estonia](https://www.visitestonia.com/en/)). Warm clothing is highly recommended. Separate registration will be announced.
+
+## Program schedule details
+### December 13
+| **CUDAN 2023 PRE-CONFERENCE WORKSHOP DAY**                   |
 | ------------------------------------------------------------ |
 | *WORKSHOP-1* (10:00-13:00) **Ksenia Mukhina** – Workshop 1: Computer vision techniques for analyzing cultural data with Python |
 | *WORKSHOP-2* (10:00-13:00) **Andres Karjus** – Workshop 2: Visualizing big cultural data using R, with a little help from AI |
@@ -48,11 +48,12 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 | *WORKSHOP-4* (14:00-17:00) **Vejune Zemaityte** – Workshop 4: Tableau for exploring, analysing and visualising cultural data |
 |                                                              |
 | *14:00-16:00 – walking tours (tbd)*                          |
-|                                                              |
-| **Dec14 CUDAN 2023 CONFERENCE DAY 1**                        |
+### December 14
+| **CUDAN 2023 CONFERENCE DAY 1**                              |
+| ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 1**                          |
 | *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
-| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](https://petterhol.me/)** – [Cultural physics]. |
+| *KEYNOTE-1* (09:15-10:00) **Petter Holme** – [Cultural physics]. |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 1a**                       |
 | *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. (#21) |
@@ -102,11 +103,12 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 | *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, n.n., n.n.** – Data analytics at Tallinn University: Past, present, and future. |
 |                                                              |
 | *19:00-22:00 – conference dinner*                            |
-|                                                              |
-| **Dec15 CUDAN 2023 CONFERENCE DAY 2**                        |
+### December 15
+| **CUDAN 2023 CONFERENCE DAY 2**                              |
+| ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 3**                          |
 | *WELCOME* (09:00-09:15) **y'all** – Meet the publishers      |
-| *KEYNOTE-2* (09:15-10:00) **[Anu Masso](https://taltech.ee/en/contacts/anu-masso)** – Towards understanding global data migration: A social transformation approach |
+| *KEYNOTE-2* (09:15-10:00) **Anu Masso** – Towards understanding global data migration: A social transformation approach |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 3a**                       |
 | *LONG-3-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. (#2) |
@@ -154,11 +156,12 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 | **17:00-18:00 – Keynote Session 4**                          |
 | *KEYNOTE-PANEL-2* (17:00-18:00) **[Surprise!]** – The state of cultural data analytics. |
 | *18:00-20:00 – AI art exhibit reception*                     |
-|                                                              |
-| **Dec16 CUDAN 2023 CONFERENCE DAY 2**                        |
+### December 16
+| **CUDAN 2023 CONFERENCE DAY 3**                              |
+| ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 5**                          |
 | *GROUP PHOTO* (09:00-09:15) **all y'all** – Join us for a group photo |
-| *KEYNOTE-3* (09:15-10:00) **[Béatrice Joyeux-Prunel](https://www.unige.ch/lettres/humanites-numeriques/equipe/collaborateurs/prof-beatrice-joyeux-prunel)** – Cultural data analytics and the deluge of images. |
+| *KEYNOTE-3* (09:15-10:00) **Béatrice Joyeux-Prunel** – Cultural data analytics and the deluge of images. |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 5a**                       |
 | *LONG-5-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. (#53) |
@@ -203,15 +206,12 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 | *16:30-17:00 – coffee break*                                 |
 |                                                              |
 | **17:00-18:00 – Keynote Session 6**                          |
-| *KEYNOTE-4* (17:00-18:00) **[Mauro Martino](https://www.mamartino.com/)** – Generativism: The impact of generative models on aesthetics and the human experience. |
+| *KEYNOTE-4* (17:00-18:00) **Mauro Martino** – Generativism: The impact of generative models on aesthetics and the human experience. |
 | *CLOSING* (18:00-18:30) **Maximilian Schich** – Farewell (incl. best talk, best poster, and what's next?) |
-|                                                              |
-| **Dec17 CUDAN 2023 AFTERGLOW**                               |
+### December 17
+| **CUDAN 2023 AFTERGLOW**                                     |
+| ------------------------------------------------------------ |
 | *10:00-12:00 – walking tours (tbd)*                          |
-
-## Pre-conference workshops
-
-December 13 workshops, as listed in the schedule above, require free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46)
 
 ## Conference scope  
 
@@ -237,16 +237,15 @@ Contributions ideally address at least one of the following subject domains (in 
 – *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
 – *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.   
 
-## Conference program schedule
+## Key Dates  
 
-The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including six **keynote** sessions, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum, while one day will feature long talks in two parallel tracks. The poster session will run throughout the whole conference in the coffee and lunch area, collocated with the plenum. The conference will close with a best poster and best long presentation award ceremony.
-
-The pre-conference day (December 13, 2023) will feature **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization using Python, R, Tableau, and the Collection Space Navigator. Separate registration will be announced.
-
-Before and after the main conference (December 13 in the afternoon & Decembewr 17 in the morning), we will offer **sightseeing tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town) and[ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn) (among many reasons to [visit Estonia](https://www.visitestonia.com/en/)). Separate registration will be announced.
-
-We are further planning a **meet the publisher's session** and other opportunities for relevant stakeholders, including **exhibition booths**.  
-If you or your institution/company is interested in participation, please contact us via email to <cudan@tlu.ee>. 
+Abstracts due:  July 24, 2023 (23:59 CET)  
+Notification of acceptance: September 14, 2023  
+Registration deadline: October 31, 2023 (or until we run out of capacity)  
+Conference: **December 13-16, 2023**  
+Pre-conference workshops: December 13, 2023  
+Main conference: December 14-16, 2023 
+Walking tours: December 13 (afternoon) & 17 (morning)
 
 ## Registration & Accommodation
 
@@ -266,11 +265,13 @@ Accepted authors, PC members, and guests are asked to book and cover their own *
 
 Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/CUDAN2023-Hotels.pdf)
 
-**VISA support letters** are provided to accepted authors upon request (please use the conference registration form above). 
+**VISA support letters** are provided to accepted authors upon request (please use the conference registration form above).  
+
+Publishers that want to participate in the **meet the publishers session** and an **exhibition booths**, as well as other relevant stakeholders, who are interested in participating, areencouraged to contact us via email to <cudan@tlu.ee>. 
 
 Further information regarding the optional and separately organized **networking dinner** will be sent out to registered participants in the coming weeks.
 
-## Call for Abstracts  
+## Call for Abstracts (closed)  
 
 We invited authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accepted a total of 49 long contributed talks and 27 combined lightning talks & posters, by a total of 157 accepted co-authors. We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review was single-blind and performed by a college of 65 Programme Committee members (as listed below). 
 
@@ -278,7 +279,7 @@ In the spirit of multidisciplinary abstract conferences and idea conferences, we
 
 **SUBMISSIONS & REVIEWS: https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference**
 
-Note that submissions and reviews are visible in the review system for accepted authors and reviewers. The conference line-up will be published around October 8, pending participation confirmation of accepted authors.
+Note that submissions and reviews are visible in the review system for accepted authors and reviewers. The conference line-up of accepted authors, who have confirmed their participation, is published above.
 
 ## Organizers
 
@@ -300,7 +301,7 @@ Note that submissions and reviews are visible in the review system for accepted 
 **Sirli Peda**, Tallinn University Conference Center  
 **Sirli Taniloo**, Tallinn University Conference Center  
 
-### Programme committee confirmed
+### Programme committee
 
 **James Abello Monedero**, Rutgers University, US  
 **Yong-Yeol Ahn**, Indiana University, Bloomington, US  
