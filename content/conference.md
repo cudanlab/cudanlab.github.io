@@ -26,8 +26,8 @@ Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting ta
 
 ## Program schedule overview
 
-![CUDAN 2023 Conference schedule (image)](/img/CUDAN-2023-schedule_20231116.png "CUDAN 2023 Conference schedule (image)")
-*CUDAN 2023 Conference schedule (2023-11-16 version)* 
+![CUDAN 2023 Conference schedule (image)](/img/CUDAN-2023-schedule_20231203.png "CUDAN 2023 Conference schedule (image)")
+*CUDAN 2023 Conference schedule (2023-12-03 version)* 
 
 ## Program schedule description
 
