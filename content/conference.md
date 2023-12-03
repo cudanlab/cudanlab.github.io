@@ -10,7 +10,7 @@ The **Cultural Data Analytics Conference 2023** / **CUDAN 2023** is scheduled to
 
 Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting talk and poster*** combinations are listed below. Further information includes the ***conference scope***, ***key dates***, ***registration & accommodation***, the now closed ***call for abstracts***, the team of ***organizers***, and the international ***program committee*** members (who have performed peer-review).  
 
-**[Free conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests remains open until we run out of capacity. Pre-conference workshops require free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46).  
+**[Conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests was made available free of charge, thanks to funding through the European Commission. Pre-conference workshops require free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46) and remain open.  
 
 **We are looking forward to seeing you in Tallinn from December 13 to 16!**  
 
@@ -33,7 +33,7 @@ Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting ta
 
 The pre-conference day (December 13, 2023) features **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization (see detailed schedule below). The workshops require a free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46).
 
-The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel discussions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A001), while one day will feature long talks in two parallel tracks (rooms A001 and directly adjaceny A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. The main conference program will close with a best poster and best long presentation award ceremony. Special events during the main conference include a ***conference dinner*** (December 14) and an ***AI art exhibition*** vernissage (December 15). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
+The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel sessions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A001), while one day will feature long talks in two parallel tracks (rooms A001 and directly adjaceny A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. Catering throughout the whole event is free of charge. The main conference program will close with a best poster and best long presentation award ceremony. Special events during the main conference include a ***keynote dinner*** (December 14, invitation only) and an ***AI Art Exhibit Reception*** with food and drinks (December 15, free for all). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
 
 
 Before and after the main conference (December 13 & 17), we will offer **walking tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town), the [ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn), and a tour along the coast into the forest (all among many reasons to [visit Estonia](https://www.visitestonia.com/en/)). Warm clothing is highly recommended. Separate registration will be announced.
@@ -53,19 +53,19 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 1**                          |
 | *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
-| *KEYNOTE-1* (09:15-10:00) **Petter Holme** – [Cultural physics]. |
+| *KEYNOTE-1* (09:15-10:00) **Petter Holme** – Understanding the world from structures in time. |
 |                                                              |
-| **10:00-11:00 – Long Talk Session 1a**                       |
+| **10:00-11:00 – Long Talk Session 1**                       |
 | *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. (#21) |
 | *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. (#15) |
 | *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. (#33) |
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
-| **11:30-12:30 – Long Talk Session 1b**                       |
-| *LONG-1-4* (11:30-11:50) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. (#56) |
-| *LONG-1-5* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. (#10) |
-| *LONG-1-6* (12:10-12:30) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. |
+| **11:30-12:30 – Long Talk Session 2**                       |
+| *LONG-2-1* (11:30-11:50) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. |
+| *LONG-2-2* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. (#10) |
+| *LONG-2-3* (12:10-12:30) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. (#36) |
 |                                                              |
 | **12:30-13:30 – Global Remote Session**                      |
 | *REMOTE-1* (12:30-12:36) **Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. (#23) |
@@ -81,28 +81,32 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
-| **14:30-16:30 – Long Talk Session 2a (parallel)**            |
-| *LONG-2A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. (#35) |
-| *LONG-2A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. (#58) |
-| *LONG-2A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. (#77) |
-| *LONG-2A-4* (15:30-15:50) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. (#75) |
-| *LONG-2A-5* (15:50-16:10) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. (#74) |
-| *LONG-2A-6* (16:10-16:30) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. (#52) |
+| **14:30-15:30 – Long Talk Session 3A (parallel)**            |
+| *LONG-3A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. (#35) |
+| *LONG-3A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. (#58) |
+| *LONG-3A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. (#77) |
 |                                                              |
-| **14:30-16:30 – Long Talk Session 2b (parallel)**            |
-| *LONG-2B-1* (14:30-14:50) **Selenia Anastasi, Florian Schneider, Tim Fischer, and Chris Biemann** – Unraveling the incelosphere aesthetics: Memes and visual culture across the Italian and the English-speaking incel communities. (#27) |
-| *LONG-2B-2* (14:50-15:10) **Wojciech Hardy, Michał Paliński, Satia Rożynek, and Sophia Gaenssle** – Promoting music through user-generated content: The TikTok effect on music streaming. (#44) |
-| *LONG-2B-3* (15:10-15:30) **Wojciech Hardy and Paul Crosby** – Fewer streams but longer songs? Attention economics and the pandemic effects on music listening. (#17) |
-| *LONG-2B-4* (15:30-15:50) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. (#90) |
-| *LONG-2B-5* (15:50-16:10) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. (#79) |
-| *LONG-2B-6* (16:10-16:30) **Tillmann Ohm** – Curatorial algorithms and collection spaces. (#94) |
+| **14:30-15:30 – Long Talk Session 3B (parallel)**            |
+| *LONG-3B-1* (14:30-14:50) **Selenia Anastasi, Florian Schneider, Tim Fischer, and Chris Biemann** – Unraveling the incelosphere aesthetics: Memes and visual culture across the Italian and the English-speaking incel communities. (#27) |
+| *LONG-3B-2* (14:50-15:10) **Wojciech Hardy, Michał Paliński, Satia Rożynek, and Sophia Gaenssle** – Promoting music through user-generated content: The TikTok effect on music streaming. (#44) |
+| *LONG-3B-3* (15:10-15:30) **Wojciech Hardy and Paul Crosby** – Fewer streams but longer songs? Attention economics and the pandemic effects on music listening. (#17) |
 |                                                              |
-| *16:30-17:00 – coffee break*                                 |
+| *15:30-16:00 – coffee break*                                 |
+|                                                              |
+| **16:00-17:00 – Long Talk Session 4A (parallel)**            |
+| *LONG-4A-1* (15:30-15:50) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. (#75) |
+| *LONG-4A-2* (15:50-16:10) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. (#74) |
+| *LONG-4A-3* (16:10-16:30) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. (#52) |
+|                                                              |
+| **16:00-17:00 – Long Talk Session 4B (parallel)**            |
+| *LONG-4B-1* (15:30-15:50) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. (#90) |
+| *LONG-4B-2* (15:50-16:10) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. (#79) |
+| *LONG-4B-3* (16:10-16:30) **Tillmann Ohm** – Curatorial algorithms and collection spaces. (#94) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 2**                          |
 | *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, n.n., n.n.** – Data analytics at Tallinn University: Past, present, and future. |
 |                                                              |
-| *19:00-22:00 – conference dinner*                            |
+| *19:00-22:00 – [keynote dinner]*                             |
 ### December 15
 | **CUDAN 2023 CONFERENCE DAY 2**                              |
 | ------------------------------------------------------------ |
@@ -110,17 +114,17 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *WELCOME* (09:00-09:15) **y'all** – Meet the publishers      |
 | *KEYNOTE-2* (09:15-10:00) **Anu Masso** – Towards understanding global data migration: A social transformation approach |
 |                                                              |
-| **10:00-11:00 – Long Talk Session 3a**                       |
-| *LONG-3-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. (#2) |
-| *LONG-3-2* (10:20-10:40) **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi** – Quantifying hierarchy and prestige in US ballet academies as social predictors of career success. (#3) |
-| *LONG-3-3* (10:40-11:00) **Mar Canet Sola, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich** – Quantifying collection lag in world modern and contemporary art museums. (#84) |
+| **10:00-11:00 – Long Talk Session 5**                       |
+| *LONG-5-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. (#2) |
+| *LONG-5-2* (10:20-10:40) **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi** – Quantifying hierarchy and prestige in US ballet academies as social predictors of career success. (#3) |
+| *LONG-5-3* (10:40-11:00) **Mar Canet Sola, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich** – Quantifying collection lag in world modern and contemporary art museums. (#84) |
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
-| **11:30-12:30 – Long Talk Session 3b**                       |
-| *LONG-3-4* (11:30-11:50) **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz** – Sampling cultural universes of notable individuals from Wikipedia. (#49) |
-| *LONG-3-5* (11:50-12:10) **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe** – Modelling and corpus analysis of the co-evolution of linguistic forms and functions. (#51) |
-| *LONG-3-6* (12:10-12:30) **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen** – Awakening the material in the network of things through data-driven semantic analysis. (#59) |
+| **11:30-12:30 – Long Talk Session 6**                       |
+| *LONG-6-1* (11:30-11:50) **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz** – Sampling cultural universes of notable individuals from Wikipedia. (#49) |
+| *LONG-6-2* (11:50-12:10) **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe** – Modelling and corpus analysis of the co-evolution of linguistic forms and functions. (#51) |
+| *LONG-6-3* (12:10-12:30) **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen** – Awakening the material in the network of things through data-driven semantic analysis. (#59) |
 |                                                              |
 | **12:30-13:30 – Lightning Session 1**                        |
 | *LIGHTNING-1-1* (12:30-12:36) **Bruno Caldas Vianna, and Elen Nas** – Visual AI's matter of taste. (#47) |
@@ -133,29 +137,37 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LIGHTNING-1-8* (13:12-13:18) **Luis Alejandro Miccio, Carlos Gámez, Juan-Luis Suárez, and Gustavo A. Schwartz** – Complex networks reveal emergent interdisciplinary knowledge in Wikipedia. (#48) |
 | *LIGHTNING-1-9* (13:18-13:24) **Justin Munoz and Rachel Fensham** – Protean figures for protean careers in cultural data. (#19) |
 |                                                              |
-| *13:30-14:30 – coffee break*                                 |
+| *13:30-14:30 – lunch*                                        |
 |                                                              |
-| **14:30-16:30 – Long Talk Session 4a (parallel)**            |
-| *LONG-4A-1* (14:30-14:50) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. (#72) |
-| *LONG-4A-2* (14:50-15:10) **Martin E Berger** – Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research. (#18) |
-| *LONG-4A-3* (15:10-15:30) **Bárbara Romero Ferron** – The concept of Spanish art in nineteenth-century exhibitions: A data-driven analysis. (#37) |
-| *LONG-4A-4* (15:30-15:50) **Esther Solé Martí** – Quantifying relevance in art exhibitions. (#60) |
-| *LONG-4A-5* (15:50-16:10) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. (#78) |
-| *LONG-4A-6* (16:10-16:30) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. (#4) |
+| **14:30-15:30 – Long Talk Session 7A (parallel)**            |
+| *LONG-7A-1* (14:30-14:50) **Simon Ullrich and Johanna Einsiedler** – Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs. (#76) |
+| *LONG-7A-2* (14:50-15:10) **Martin E Berger** – Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research. (#18) |
+| *LONG-7A-3* (15:10-15:30) **Bárbara Romero Ferron** – The concept of Spanish art in nineteenth-century exhibitions: A data-driven analysis. (#37) |
 |                                                              |
-| **14:30-16:30 – Long Talk Session 4b (parallel)**            |
-| *LONG-4B-1* (14:30-14:50) **Mark Mets** – Patterns of cultural other at scale. (#91) |
-| *LONG-4B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? (#89) |
-| *LONG-4B-3* (15:10-15:30) **Mikhail Tamm** – Newsreel geography. (#92) |
-| *LONG-4B-4* (15:30-15:50) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. (#36) |
-| *LONG-4B-5* (15:50-16:10) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. (#46) |
-| *LONG-4B-6* (16:10-16:30) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. (#16) |
+| **14:30-15:30 – Long Talk Session 7B (parallel)**            |
+| *LONG-7B-1* (14:30-14:50) **Mark Mets** – Patterns of cultural other at scale. (#91) |
+| *LONG-7B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? (#89) |
+| *LONG-7B-3* (15:10-15:30) **Mikhail Tamm** – Newsreel geography. (#92) |
 |                                                              |
-| *16:30-17:00 – coffee break*                                 |
+| *15:30-16:00 – coffee break*                                 |
+|                                                              |
+| **16:00-17:00 – Long Talk Session 8A (parallel)**            |
+| *LONG-8A-1* (15:30-15:50) **Esther Solé Martí** – Quantifying relevance in art exhibitions. (#60) |
+| *LONG-8A-2* (15:50-16:10) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. (#78) |
+| *LONG-8A-3* (16:10-16:30) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. (#4) |
+|                                                              |
+| **16:00-17:00 – Long Talk Session 8B (parallel)**            |
+| *LONG-8B-1* (15:30-15:50) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. (#16) |
+| *LONG-8B-2* (15:50-16:10) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. (#46) |
+| *LONG-8B-3* (16:10-16:30) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. (#13) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 4**                          |
 | *KEYNOTE-PANEL-2* (17:00-18:00) **[Surprise!]** – The state of cultural data analytics. |
-| *18:00-20:00 – AI art exhibit reception*                     |
+|                                                              |
+| **18:00-20:00 – AI Art Exhibit Reception**                   |
+| *AI-ART-EXHIBIT-1* (Dec 14-16) **Mauro Martino** – Milano Fabbrica di Futuro
+| *AI-ART-EXHIBIT-2* (Dec 14-16) **Lev Manovich** – [AI prints]
+| *AI-ART-EXHIBIT-3* (Dec 14-16) **Var & Mar** – [AI sculpture & interactive art]
 ### December 16
 | **CUDAN 2023 CONFERENCE DAY 3**                              |
 | ------------------------------------------------------------ |
@@ -163,17 +175,17 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *GROUP PHOTO* (09:00-09:15) **all y'all** – Join us for a group photo |
 | *KEYNOTE-3* (09:15-10:00) **Béatrice Joyeux-Prunel** – Cultural data analytics and the deluge of images. |
 |                                                              |
-| **10:00-11:00 – Long Talk Session 5a**                       |
-| *LONG-5-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. (#53) |
-| *LONG-5-2* (10:20-10:40) **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts** – Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940. (#40) |
-| *LONG-5-3* (10:40-11:00) **Yadira Lizama Mué and Juan-Luis Suárez** – Unraveling the emerging frontiers of interdisciplinary research in cultural analytics. (#70) |
+| **10:00-11:00 – Long Talk Session 9**                        |
+| *LONG-9-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. (#53) |
+| *LONG-9-2* (10:20-10:40) **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts** – Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940. (#40) |
+| *LONG-9-3* (10:40-11:00) **Yadira Lizama Mué and Juan-Luis Suárez** – Unraveling the emerging frontiers of interdisciplinary research in cultural analytics. (#70) |
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
-| **11:30-12:30 – Long Talk Session 5b**                       |
-| *LONG-5-4* (11:30-11:50) **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds** – A decomposition of book structure through ousiometric fluctuations in cumulative word-time. (#34) |
-| *LONG-5-5* (11:50-12:10) **Chico Q Camargo and Isabel Sebire** – Genres, subgenres, and storytelling tropes: a data science approach. (#55) |
-| *LONG-5-6* (12:10-12:30) **Simon Dedeo** – Sense-making, story-telling, and the unspeakable in r/relationships. (#88) |
+| **11:30-12:30 – Long Talk Session 10**                       |
+| *LONG-10-4* (11:30-11:50) **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds** – A decomposition of book structure through ousiometric fluctuations in cumulative word-time. (#34) |
+| *LONG-10-5* (11:50-12:10) **Chico Q Camargo and Isabel Sebire** – Genres, subgenres, and storytelling tropes: a data science approach. (#55) |
+| *LONG-10-6* (12:10-12:30) **Simon Dedeo** – Sense-making, story-telling, and the unspeakable in r/relationships. (#88) |
 |                                                              |
 | **12:30-13:30 – Lightning Session 2**                        |
 | *LIGHTNING-3-1* (12:30-12:36) **Jacek Bąkowski** – Comparative study of Sanskrit and Perso-Arabic loanwords in modern Hindi with word embeddings. (#85) |
@@ -188,22 +200,26 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
-| **14:30-16:30 – Long Talk Session 6a (parallel)**            |
-| *LONG-6A-1* (14:30-14:50) **Camilla Mazzucato and Michele Coscia** – Constructing kinship: A network study of material and biological ties at Çatalhöyük. (#11) |
-| *LONG-6A-2* (14:50-15:10) **Donghyeok Choi and Juyong Park** – Unraveling the Joseon dynasty: A quantitative approach to historical dynamics. (#62) |
-| *LONG-6A-3* (15:10-15:30) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. (#20) |
-| *LONG-6A-4* (15:30-15:50) **Simon Ullrich and Johanna Einsiedler** – Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs. (#76) |
-| *LONG-6A-5* (15:50-16:10) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. (#83) |
-| *LONG-6A-6* (16:10-16:30) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. (#9) |
+| **14:30-15:30 – Long Talk Session 11A (parallel)**           |
+| *LONG-11A-1* (14:30-14:50) **Camilla Mazzucato and Michele Coscia** – Constructing kinship: A network study of material and biological ties at Çatalhöyük. (#11) |
+| *LONG-11A-2* (14:50-15:10) **Donghyeok Choi and Juyong Park** – Unraveling the Joseon dynasty: A quantitative approach to historical dynamics. (#62) |
+| *LONG-11A-3* (15:10-15:30) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. (#20) |
 |                                                              |
-| **14:30-16:30 – Long Talk Session 6b (parallel)**            |
-| *LONG-6B-1* (14:30-14:50) **Ekaterina Lapina-Kratasiuk** – Threats and temptations of the digital city: Social and political consequences of data-driven networked urbanism. (#61) |
-| *LONG-6B-2* (14:50-15:10) **Alexandra Barancova, Melvin Wevers, and Nanne Van Noord** – The expression of temporality in historical photographs. (#14) |
-| *LONG-6B-3* (15:10-15:30) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. (#13) |
-| *LONG-6B-4* (15:30-15:50) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. (#65) |
-| *LONG-6B-5* (15:50-16:10) **Hanna Jemmer** – How media organisations innovate via data analytics: a non-orthodox view. (#93) |
+| **14:30-15:30 – Long Talk Session 11B (parallel)**           |
+| *LONG-11B-1* (14:30-14:50) **Ekaterina Lapina-Kratasiuk** – Threats and temptations of the digital city: Social and political consequences of data-driven networked urbanism. (#61) |
+| *LONG-11B-2* (14:50-15:10) **Alexandra Barancova, Melvin Wevers, and Nanne Van Noord** – The expression of temporality in historical photographs. (#14) |
+| *LONG-11B-3* (15:10-15:30) **Hanna Jemmer** – How media organisations innovate via data analytics: a non-orthodox view. (#93) |
 |                                                              |
-| *16:30-17:00 – coffee break*                                 |
+| *15:30-16:00 – coffee break*                                 |
+|                                                              |
+| **16:00-17:00 – Long Talk Session 12A (parallel)**           |
+| *LONG-12A-1* (15:30-15:50) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. (#72) |
+| *LONG-12A-2* (15:50-16:10) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. (#83) |
+| *LONG-12A-3* (16:10-16:30) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. (#9) |
+|                                                              |
+| **16:00-17:00 – Long Talk Session 12B (parallel)**           |
+| *LONG-12B-1* (15:30-15:50) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. (#65) |
+| *LONG-12B-2* (15:50-16:10) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. (#56) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 6**                          |
 | *KEYNOTE-4* (17:00-18:00) **Mauro Martino** – Generativism: The impact of generative models on aesthetics and the human experience. |
@@ -253,9 +269,9 @@ The CUDAN 2023 conference venue is located in the _Astra building_ of **Tallinn 
 
 ## Registration & Accommodation
 
-As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants, with the exception of the conference dinner. Accepted participants are required to register and confirm their attendance. 
+As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants. Accepted participants are required to register and confirm their attendance. all catering throughout the conference is free of charge. Yet, in order to stay in line with European Commission rules, we kindly ask all participants in Tallinn to sign the participation form morning when they enter the conference venue.
 
-Accepted speakers have been notified via email and requested to register for the conference by **October 6**. We kindly ask Programme Committee members and CUDAN affiliates to register by **October 31** (to anticipate crowd size and name tag preferences). Guests are welcome to apply for conference participation by October 31.
+Accepted speakers have been notified via email and have been requested to register for the conference by **October 6**. We kindly asked Programme Committee members and CUDAN affiliates to register by **October 31** (to anticipate crowd size and name tag preferences). Guests are welcome to apply for conference participation by October 31.
 
 **Please use the following registration form:**
 [https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)
@@ -271,10 +287,9 @@ Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/CUDAN2
 
 **VISA support letters** are provided to accepted authors upon request (please use the conference registration form above).  
 
-Publishers that want to participate in the **meet the publishers session** and an **exhibition booths**, as well as other relevant stakeholders, who are interested in participating, areencouraged to contact us via email to <cudan@tlu.ee>. 
+Publishers that want to participate in the **meet the publishers session** and **exhibitors**, as well as other relevant stakeholders, who are interested in participating, are encouraged to contact us via email to <cudan@tlu.ee>. 
 
-Further information regarding the optional and separately organized **networking dinner** will be sent out to registered participants in the coming weeks.
-
+The planned **networking dinner** for all participants has been merged with the **AI Art Exhibit reception** on December 15, which now features food and drinks. No separate registration is necessary. The **keynote dinner** on December 14 is restricted to invited speakers and CUDAN project affiliates. We kindly ask all other conference participants to mingle during the day and organize December 14 dinner on their own. Tallinn culinary scene worthwhile checking out in its full diversity.
 ## Call for Abstracts (closed)  
 
 We invited authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accepted a total of 49 long contributed talks and 27 combined lightning talks & posters, by a total of 157 accepted co-authors. We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review was single-blind and performed by a college of 65 Programme Committee members (as listed below). 
@@ -380,4 +395,3 @@ For updated information, please re-check the conference website (https://cudan.t
 In case of questions, please do not hesitate to contact us via email to <cudan@tlu.ee>.  
 
 We'd love to welcome you in Tallinn, Estonia in December 2023!
-
