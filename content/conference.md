@@ -104,7 +104,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LONG-4B-3* (16:40-17:00) **Tillmann Ohm** – Curatorial algorithms and collection spaces. (#94) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 2**                          |
-| *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, n.n., n.n.** – Data analytics at Tallinn University: Past, present, and future. |
+| *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, Katrin Niglas** – Data analytics at Tallinn University: Past, present, and future. |
 |                                                              |
 | *19:00-22:00 – [keynote dinner]*                             |
 ### December 15
