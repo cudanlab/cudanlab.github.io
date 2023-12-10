@@ -94,14 +94,14 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 4A (parallel)**            |
-| *LONG-4A-1* (15:30-15:50) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. (#75) |
-| *LONG-4A-2* (15:50-16:10) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. (#74) |
-| *LONG-4A-3* (16:10-16:30) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. (#52) |
+| *LONG-4A-1* (16:00-16:20) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. (#75) |
+| *LONG-4A-2* (16:20-16:40) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. (#74) |
+| *LONG-4A-3* (16:40-17:00) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. (#52) |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 4B (parallel)**            |
-| *LONG-4B-1* (15:30-15:50) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. (#90) |
-| *LONG-4B-2* (15:50-16:10) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. (#79) |
-| *LONG-4B-3* (16:10-16:30) **Tillmann Ohm** – Curatorial algorithms and collection spaces. (#94) |
+| *LONG-4B-1* (16:00-16:20) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. (#90) |
+| *LONG-4B-2* (16:20-16:40) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. (#79) |
+| *LONG-4B-3* (16:40-17:00) **Tillmann Ohm** – Curatorial algorithms and collection spaces. (#94) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 2**                          |
 | *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, n.n., n.n.** – Data analytics at Tallinn University: Past, present, and future. |
@@ -152,14 +152,14 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 8A (parallel)**            |
-| *LONG-8A-1* (15:30-15:50) **Esther Solé Martí** – Quantifying relevance in art exhibitions. (#60) |
-| *LONG-8A-2* (15:50-16:10) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. (#78) |
-| *LONG-8A-3* (16:10-16:30) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. (#4) |
+| *LONG-8A-1* (16:00-16:20) **Esther Solé Martí** – Quantifying relevance in art exhibitions. (#60) |
+| *LONG-8A-2* (16:20-16:40) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. (#78) |
+| *LONG-8A-3* (16:40-17:00) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. (#4) |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 8B (parallel)**            |
-| *LONG-8B-1* (15:30-15:50) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. (#16) |
-| *LONG-8B-2* (15:50-16:10) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. (#46) |
-| *LONG-8B-3* (16:10-16:30) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. (#13) |
+| *LONG-8B-1* (16:00-16:20) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. (#16) |
+| *LONG-8B-2* (16:20-16:40) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. (#46) |
+| *LONG-8B-3* (16:40-17:00) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. (#13) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 4**                          |
 | *KEYNOTE-PANEL-2* (17:00-18:00) **[Surprise!]** – The state of cultural data analytics. |
@@ -213,13 +213,13 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 12A (parallel)**           |
-| *LONG-12A-1* (15:30-15:50) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. (#72) |
-| *LONG-12A-2* (15:50-16:10) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. (#83) |
-| *LONG-12A-3* (16:10-16:30) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. (#9) |
+| *LONG-12A-1* (16:00-16:20) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. (#72) |
+| *LONG-12A-2* (16:20-16:40) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. (#83) |
+| *LONG-12A-3* (16:40-17:00) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. (#9) |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 12B (parallel)**           |
-| *LONG-12B-1* (15:30-15:50) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. (#65) |
-| *LONG-12B-2* (15:50-16:10) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. (#56) |
+| *LONG-12B-1* (16:00-16:20) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. (#65) |
+| *LONG-12B-2* (16:20-16:40) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. (#56) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 6**                          |
 | *KEYNOTE-4* (17:00-18:00) **Mauro Martino** – Generativism: The impact of generative models on aesthetics and the human experience. |
