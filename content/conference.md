@@ -162,7 +162,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LONG-8B-3* (16:40-17:00) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. (#13) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 4**                          |
-| *KEYNOTE-PANEL-2* (17:00-18:00) **[Surprise!]** – The state of cultural data analytics. |
+| *KEYNOTE-PANEL-2* (17:00-18:00) **Lev Manovich & Maximilian Schich** – Genesis & future of cultural data analytics: a fireside chat. |
 |                                                              |
 | **18:00-20:00 – AI Art Exhibit Reception**                   |
 | *AI-ART-EXHIBIT-1* (Dec 14-16) **Mauro Martino** – Milano Fabbrica di Futuro
