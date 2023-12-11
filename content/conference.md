@@ -42,10 +42,10 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 ### December 13
 | **CUDAN 2023 PRE-CONFERENCE WORKSHOP DAY**                   |
 | ------------------------------------------------------------ |
-| *WORKSHOP-1* (10:00-13:00) **Ksenia Mukhina** – Workshop 1: Computer vision techniques for analyzing cultural data with Python |
-| *WORKSHOP-2* (10:00-13:00) **Andres Karjus** – Workshop 2: Visualizing big cultural data using R, with a little help from AI |
-| *WORKSHOP-3* (14:00-17:00) **Mar Canet Sola** – Workshop 3: Navigating visual collections using image embeddings |
-| *WORKSHOP-4* (14:00-17:00) **Vejune Zemaityte** – Workshop 4: Tableau for exploring, analysing and visualising cultural data |
+| *WORKSHOP-1* (10:00-13:00) **Ksenia Mukhina** – Workshop 1: Computer vision techniques for analyzing cultural data with Python (room A121) |
+| *WORKSHOP-2* (10:00-13:00) **Andres Karjus** – Workshop 2: Visualizing big cultural data using R, with a little help from AI (room A006) |
+| *WORKSHOP-3* (14:00-17:00) **Mar Canet Sola** – Workshop 3: Navigating visual collections using image embeddings (room A006) |
+| *WORKSHOP-4* (14:00-17:00) **Vejune Zemaityte** – Workshop 4: Tableau for exploring, analysing and visualising cultural data (room A121) |
 |                                                              |
 | *14:00-16:00 – walking tours (tbd)*                          |
 ### December 14
