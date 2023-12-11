@@ -350,6 +350,7 @@ Note that submissions and reviews are visible in the review system for accepted 
 **Ksenia Mukhina**, CUDAN Senior Fellow (computer science)  
 **Mila Oiva**, CUDAN Senior Fellow (cultural history)  
 **Mikhail Tamm**, CUDAN Senior Fellow (social physics)   
+**Mar Canet Sola**, CUDAN Fellow (art & AI)   
 **Sandra Kaljumäe**, CUDAN Project coordinator  
 **Sirli Peda**, Tallinn University Conference Center  
 **Sirli Taniloo**, Tallinn University Conference Center  
