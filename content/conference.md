@@ -251,7 +251,41 @@ Contributions ideally address at least one of the following subject domains (in 
 – *temporal aspects*, from slow historical processes to turbulence in today's economy of attention;    
 – *spatial aspects* of historical topography, cultural geography, and urban dynamics;  
 – *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
-– *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.   
+– *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.
+
+## Featured publishers
+
+***Cambridge University Press***
+contact: Anastasija Nikiforova, Tartu University
+https://www.cambridge.org/ 
+
+***EPJ Data Science (SpringerNature)***
+chief editors: Ingmar Weber & Yelena Mejova
+https://epjdatascience.springeropen.com/
+
+***Humanities & Social Sciences Communications (SpringerNature)***
+chief editor: Gino D'Oca
+https://www.nature.com/palcomms/
+
+***Advances in Complex Systems (ACS)***
+chief editor: Marton Karsai, CEU
+https://www.worldscientific.com/worldscinet/acs
+
+***Journal of Cultural Analytics (McGill University)***
+editor: Andrew Piper, McGill University
+https://culturalanalytics.org/
+
+***Cultural Science Journal (Sciendo)*** 
+editor-in-chief: Carsten Herrmann-Pillath
+https://sciendo.com/journal/CSJ
+
+***International Journal for Digital Art History***
+head: Harald Klinke
+https://dahj.org/
+
+***Leonardo (MIT-Press)*** 
+ceo: Diana Ayton-Shenker
+https://leonardo.info/   
 
 ## Key Dates  
 
