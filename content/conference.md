@@ -10,9 +10,11 @@ The **Cultural Data Analytics Conference 2023** / **CUDAN 2023** is scheduled to
 
 Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting talk and poster*** combinations are listed below. Further information includes the ***conference scope***, ***key dates***, ***registration & accommodation***, the now closed ***call for abstracts***, the team of ***organizers***, and the international ***program committee*** members (who have performed peer-review).  
 
-**[Conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests was made available free of charge, thanks to funding through the European Commission. Pre-conference workshops require free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46) and remain open.  
+**[Conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests was made available free of charge, thanks to funding through the European Commission. Pre-conference workshops required free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46).  
 
-**We are looking forward to seeing you in Tallinn from December 13 to 16!**  
+**We welcome on-site participants in Tallinn from December 13 to 16!**  
+
+**The conference will be live-streamed, with streaming links appearing here in the morning of Dec 14, 8:45 Tallinn time**
 
 ![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
 *Winter morning in Tallinn. CC-BY Maximilian Schich*  
@@ -31,12 +33,12 @@ Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting ta
 
 ## Program schedule description
 
-The pre-conference day (December 13, 2023) features **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization (see detailed schedule below). The workshops require a free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46).
+The pre-conference day (December 13, 2023) features **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization (see detailed schedule below). The workshops required a free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46).
 
-The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel sessions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A001), while one day will feature long talks in two parallel tracks (rooms A001 and directly adjaceny A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. Catering throughout the whole event is free of charge. The main conference program will close with a best poster and best long presentation award ceremony. Special events during the main conference include a ***keynote dinner*** (December 14, invitation only) and an ***AI Art Exhibit Reception*** with food and drinks (December 15, free for all). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
+The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel sessions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A001), while afternoon long talks are scheduled in two parallel tracks (rooms A001 and directly adjacent A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. Catering throughout the whole event is free of charge for registered participants. The main conference program will close with a best poster and best long talk award ceremony. Special events include an ***AI Art Exhibit Reception*** with food and drinks (December 15, free for all registered participants). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
 
 
-Before and after the main conference (December 13 & 17), we will offer **walking tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town), the [ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn), and a tour along the coast into the forest (all among many reasons to [visit Estonia](https://www.visitestonia.com/en/)). Warm clothing is highly recommended. Separate registration will be announced.
+Before and after the main conference (December 13 & 17), we will offer **walking tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town), the [ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn), and a tour along the coast into the forest (all among many reasons to [visit Estonia](https://www.visitestonia.com/en/)). Warm clothing is highly recommended. Separate registration was sent to participants via email.
 
 ## Program schedule details
 ### December 13
@@ -52,7 +54,6 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | **CUDAN 2023 CONFERENCE DAY 1**                              |
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 1** room A001                |
-| *session chair: Maximilian Schich*                           |
 | *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
 | *KEYNOTE-1* (09:15-10:00) **Petter Holme** – Understanding the world from structures in time. |
 |                                                              |
@@ -251,30 +252,6 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | ------------------------------------------------------------ |
 | *10:00-12:00 – walking tour*.                                |
 
-## Conference scope  
-
-Cultures and cultural production are multifaceted phenomena, which, like other complex systems, cannot be fully understood from the perspective of a single specific discipline. This is why the core mission of cultural data analytics is to join forces and make headway across disciplines and domains of expertise. Feeding into this mission, we welcomed both multidisciplinary submissions, and contributions from specific disciplines, which aim to benefit from discussion in a multidisciplinary forum.
-
-We encourage discussion towards a deeper understanding of cultures and cultural production including aspects, methods, and intersections of the following fields:  
-– cultural analytics, culturomics, and socio-cultural data science;  
-– digital humanities and computational humanities;  
-– cultural evolution, including experimental and observational approaches;  
-– cultural complexity science, network science, computational social science, and social physics;  
-– computational linguistics, quantitative aesthetics, critical computer vision, and machine learning;  
-– art history, cultural history, cultural semiotics, film studies, musicology, and urbanism;  
-– artistic research, algorithmic curation, and AI art (including aspects of cultural data analysis);  
-– creative industries research, media economics, and policy studies;  
-– data journalism, data science, and information visualization.  
-
-Contributions ideally address at least one of the following subject domains (in line with state-of-the-art conceptual reference models for cultural data):  
-– *material aspects*, including artworks, architecture, texts, images, sound, film, digital media, databases, and other forms of tangible cultural heritage;  
-– *conceptual aspects*, including cultural practices, rituals, theories, policies, data models, narratives, imagined communities, and other forms of intangible cultural heritage;  
-– *social aspects*, including human behaviour, human mobility, social networks, and social media;  
-– *temporal aspects*, from slow historical processes to turbulence in today's economy of attention;    
-– *spatial aspects* of historical topography, cultural geography, and urban dynamics;  
-– *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
-– *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.
-
 ## Featured publishers
 
 **EPJ Data Science (SpringerNature)**  
@@ -309,6 +286,30 @@ https://dahj.org/
 ceo: Diana Ayton-Shenker  
 https://leonardo.info/   
 
+## Conference scope  
+
+Cultures and cultural production are multifaceted phenomena, which, like other complex systems, cannot be fully understood from the perspective of a single specific discipline. This is why the core mission of cultural data analytics is to join forces and make headway across disciplines and domains of expertise. Feeding into this mission, we welcomed both multidisciplinary submissions, and contributions from specific disciplines, which aim to benefit from discussion in a multidisciplinary forum.
+
+We encourage discussion towards a deeper understanding of cultures and cultural production including aspects, methods, and intersections of the following fields:  
+– cultural analytics, culturomics, and socio-cultural data science;  
+– digital humanities and computational humanities;  
+– cultural evolution, including experimental and observational approaches;  
+– cultural complexity science, network science, computational social science, and social physics;  
+– computational linguistics, quantitative aesthetics, critical computer vision, and machine learning;  
+– art history, cultural history, cultural semiotics, film studies, musicology, and urbanism;  
+– artistic research, algorithmic curation, and AI art (including aspects of cultural data analysis);  
+– creative industries research, media economics, and policy studies;  
+– data journalism, data science, and information visualization.  
+
+Contributions ideally address at least one of the following subject domains (in line with state-of-the-art conceptual reference models for cultural data):  
+– *material aspects*, including artworks, architecture, texts, images, sound, film, digital media, databases, and other forms of tangible cultural heritage;  
+– *conceptual aspects*, including cultural practices, rituals, theories, policies, data models, narratives, imagined communities, and other forms of intangible cultural heritage;  
+– *social aspects*, including human behaviour, human mobility, social networks, and social media;  
+– *temporal aspects*, from slow historical processes to turbulence in today's economy of attention;    
+– *spatial aspects* of historical topography, cultural geography, and urban dynamics;  
+– *event aspects*, which combine the above aspects in cultural co-production, event series, tourism, etc.;  
+– *network aspects* of socio-cultural interaction, including the inherent ecology of complex networks as documented in the structure and dynamics of large cultural knowledge graphs or blockchains associated with the crypto-art-market, for example.
+
 ## Key Dates  
 
 Abstracts due:  July 24, 2023 (23:59 CET)  
@@ -325,14 +326,11 @@ The CUDAN 2023 conference venue is located in the _Astra building_ of **Tallinn 
 
 ## Registration & Accommodation
 
-As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants. Accepted participants are required to register and confirm their attendance. all catering throughout the conference is free of charge. Yet, in order to stay in line with European Commission rules, we kindly ask all participants in Tallinn to sign the participation form morning when they enter the conference venue.
+As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants. Accepted participants are required to register and confirm their attendance. all catering throughout the conference is free of charge for registered participants. Yet, in order to stay in line with European Commission rules, we kindly ask all participants in Tallinn to sign the participation form morning when they enter the conference venue.
 
-Accepted speakers have been notified via email and have been requested to register for the conference by **October 6**. We kindly asked Programme Committee members and CUDAN affiliates to register by **October 31** (to anticipate crowd size and name tag preferences). Guests are welcome to apply for conference participation by October 31.
+Accepted speakers have been notified via email and have been requested to register for the conference by **October 6**. We kindly asked Programme Committee members and CUDAN affiliates to register by **October 31** (to anticipate crowd size and name tag preferences). Guests were welcome to apply for conference participation by October 31. Registration was possible via the following registration form: [https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)
 
-**Please use the following registration form:**
-[https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)
-
-Accepted authors, PC members, and guests are asked to book and cover their own **travel** and **accommodation**. Tallinn Airport is a small and highly efficient, only a few minutes commute from the city center, and well connected via international hubs including Copenhagen, Helsinki, Frankfurt, Munich, Riga, and Stockholm. **Reduced rate hotel rooms** are available from December 12 to 17, using the booking code "**CUDAN23**" in the following hotels:  
+Accepted authors, PC members, and guests were asked to book and cover their own **travel** and **accommodation**. Tallinn Airport is a small and highly efficient, only a few minutes commute from the city center, and well connected via international hubs including Copenhagen, Helsinki, Frankfurt, Munich, Riga, and Stockholm. **Reduced rate hotel rooms** were available from December 12 to 17, using the booking code "**CUDAN23**" in the following hotels:  
 
 – **Park Inn by Radisson Central Tallinn** 4* (75 Euro, single Standard room per night)  
 – **Tallink City Hotel** 4* (80/90 Euro, single/double Standard room per night)  
@@ -341,11 +339,12 @@ Accepted authors, PC members, and guests are asked to book and cover their own *
 
 Please see the following PDF for booking details: [CUDAN2023-Hotels.pdf](/CUDAN2023-Hotels.pdf)
 
-**VISA support letters** are provided to accepted authors upon request (please use the conference registration form above).  
+**VISA support letters** were provided to accepted authors upon request (via the conference registration form above).  
 
-Publishers that want to participate in the **meet the publishers session** and **exhibitors**, as well as other relevant stakeholders, who are interested in participating, are encouraged to contact us via email to <cudan@tlu.ee>. 
+Publishers that want to participate in the **meet the publishers session** and **exhibitors**, as well as other relevant stakeholders, who were interested in participating, were encouraged to contact us via email to <cudan@tlu.ee>. 
 
-The planned **networking dinner** for all participants has been merged with the **AI Art Exhibit reception** on December 15, which now features food and drinks. No separate registration is necessary. The **keynote dinner** on December 14 is restricted to invited speakers and CUDAN project affiliates. We kindly ask all other conference participants to mingle during the day and organize December 14 dinner on their own. Tallinn culinary scene worthwhile checking out in its full diversity.
+The planned **networking dinner** for all participants has been merged with the **AI Art Exhibit reception** on December 15, which now features food and drinks. No separate registration is necessary. A separate **keynote dinner** on December 14 is restricted to invited speakers and CUDAN project affiliates. We kindly ask all other conference participants to mingle during the day and organize December 14 dinner on their own. Tallinn culinary scene worthwhile checking out in its full diversity.
+
 ## Call for Abstracts (closed)  
 
 We invited authors to submit a **single-page abstract pdf** including a (mandatory) descriptive figure and caption by the **24th of July 2023** via our [OpenReview](https://openreview.net/group?id=CUDAN.tlu.ee/2023/Conference) submission system. We accepted a total of 49 long contributed talks and 27 combined lightning talks & posters, by a total of 157 accepted co-authors. We strive for an in-person event to maximize community interaction, yet we will offer a limited amount of remote presentation slots. Review was single-blind and performed by a college of 65 Programme Committee members (as listed below). 
@@ -368,14 +367,15 @@ Note that submissions and reviews are visible in the review system for accepted 
 
 ### Organizing committee
 
-**Andres Karjus**, CUDAN Senior Fellow (computational linguistics)  
-**Ksenia Mukhina**, CUDAN Senior Fellow (computer science)  
-**Mila Oiva**, CUDAN Senior Fellow (cultural history)  
-**Mikhail Tamm**, CUDAN Senior Fellow (social physics)   
-**Mar Canet Sola**, CUDAN Fellow (art & AI)   
+Workshop chair: **Andres Karjus**, CUDAN Senior Fellow (computational linguistics)  
+Video chair: **Ksenia Mukhina**, CUDAN Senior Fellow (computer science)  
+Catering chair: **Mila Oiva**, CUDAN Senior Fellow (cultural history)  
+Schedule & poster chair: **Mikhail Tamm**, CUDAN Senior Fellow (social physics)   
+AI Art Exhibit chair: **Mar Canet Sola**, CUDAN PhD Fellow (AI art research) 
 **Sandra Kaljumäe**, CUDAN Project coordinator  
 **Sirli Peda**, Tallinn University Conference Center  
 **Sirli Taniloo**, Tallinn University Conference Center  
+**Lydia Kurus**, Tallinn University Conference Center  
 
 ### Programme committee
 
