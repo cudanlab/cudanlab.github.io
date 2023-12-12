@@ -58,7 +58,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | **10:00-11:00 – Long Talk Session 1** room A001              |
 | *session chair: Maximilian Schich*                           |
-| *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. (#21) |
+| *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. ([#21](/conference/CUDAN2023-abstract21.pdf) |
 | *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. (#15) |
 | *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. (#33) |
 |                                                              |
