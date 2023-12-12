@@ -271,7 +271,7 @@ https://culturalanalytics.org/
 chief editor: Marton Karsai, CEU  
 https://www.worldscientific.com/worldscinet/acs  
 
-**Data & Policy, Cambridge University Press**  
+**Data & Policy (Cambridge University Press)**  
 contact: Anastasija Nikiforova, Tartu University  
 https://www.cambridge.org/core/journals/data-and-policy  
 
@@ -279,7 +279,7 @@ https://www.cambridge.org/core/journals/data-and-policy
 editor-in-chief: Carsten Herrmann-Pillath  
 https://sciendo.com/journal/CSJ  
 
-**International Journal for Digital Art History**  
+**International Journal for Digital Art History (Heidelberg)**  
 head: Harald Klinke  
 https://dahj.org/  
 
