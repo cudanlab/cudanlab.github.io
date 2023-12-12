@@ -73,12 +73,12 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | **12:30-13:30 – Global Remote Session** room A001            |
 | *session chair:* Mikhail Tamm                                |
-| *REMOTE-1* (12:30-12:36) !**Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. ([#23](/conference/CUDAN2023-abstract-23.pdf)) |
-| *REMOTE-2* (12:36-12:42) !**Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. ([#22](/conference/CUDAN2023-abstract-22.pdf)) |
-| *REMOTE-3* (12:42-12:48) !**Olena Mykhailenko** – Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data. ([#71](/conference/CUDAN2023-abstract-71.pdf)) |
-| *REMOTE-4* (12:48-12:54) !**Nancy Hada and Kavita Vemuri** – Deep-Learning-driven feature extraction for classification of Indian tribal paintings. ([#73](/conference/CUDAN2023-abstract-73.pdf)) |
-| *REMOTE-5* (12:54-13:00) !**Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. ([#43](/conference/CUDAN2023-abstract-43.pdf)) |
-| *REMOTE-6* (13:00:13:06) !**Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. ([#20](/conference/CUDAN2023-abstract-20.pdf)) |
+| *REMOTE-1* (12:30-12:36) **Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. ([#23](/conference/CUDAN2023-abstract-23.pdf)) |
+| *REMOTE-2* (12:36-12:42) **Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. ([#22](/conference/CUDAN2023-abstract-22.pdf)) |
+| *REMOTE-3* (12:42-12:48) **Olena Mykhailenko** – Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data. ([#71](/conference/CUDAN2023-abstract-71.pdf)) |
+| *REMOTE-4* (12:48-12:54) **Nancy Hada and Kavita Vemuri** – Deep-Learning-driven feature extraction for classification of Indian tribal paintings. ([#73](/conference/CUDAN2023-abstract-73.pdf)) |
+| *REMOTE-5* (12:54-13:00) **Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. ([#43](/conference/CUDAN2023-abstract-43.pdf)) |
+| *REMOTE-6* (13:00:13:06) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. ([#20](/conference/CUDAN2023-abstract-20.pdf)) |
 | *REMOTE-7* (13:06-13:12) **Nadia Alaily-Mattar, Vincent Baptist, Lukas Legner, Alain Thierstein and Diane Arvanitakis** – The mediated lifespan of urban architectural icons: An empirical investigation using Instagram data . ([#5](/conference/CUDAN2023-abstract-05.pdf)) |
 | *REMOTE-8* (13:12-13:18) **Irine Chachanidze and Tamar Guchua** – The Russification language policy in Georgia according to the press of the Georgian Emigrants of the first half of the 20th century. ([#31](/conference/CUDAN2023-abstract-31.pdf)) |
 | *REMOTE-9* (13:18-13:24) **Maria-Rita D'Orsogna, Tom Chou, and Lucas Böttcher** – Fentanyl-driven acceleration of racial, gender and geographical disparities in drug overdose deaths in the United States. ([#39](/conference/CUDAN2023-abstract-39.pdf)) |
