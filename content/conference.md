@@ -255,36 +255,36 @@ Contributions ideally address at least one of the following subject domains (in 
 
 ## Featured publishers
 
-***EPJ Data Science (SpringerNature)***
-chief editors: Ingmar Weber & Yelena Mejova
-https://epjdatascience.springeropen.com/
+**EPJ Data Science (SpringerNature)**  
+chief editors: Ingmar Weber & Yelena Mejova  
+https://epjdatascience.springeropen.com/  
 
-***Humanities & Social Sciences Communications (SpringerNature)***
-chief editor: Gino D'Oca
-https://www.nature.com/palcomms/
+**Humanities & Social Sciences Communications (SpringerNature)**  
+chief editor: Gino D'Oca  
+https://www.nature.com/palcomms/  
 
-***Journal of Cultural Analytics (McGill University)***
-editor: Andrew Piper, McGill University
-https://culturalanalytics.org/
+**Journal of Cultural Analytics (McGill University)**  
+editor: Andrew Piper, McGill University  
+https://culturalanalytics.org/  
 
-***Advances in Complex Systems (ACS)***
-chief editor: Marton Karsai, CEU
-https://www.worldscientific.com/worldscinet/acs
+**Advances in Complex Systems (ACS)**  
+chief editor: Marton Karsai, CEU  
+https://www.worldscientific.com/worldscinet/acs  
 
-***Data & Policy, Cambridge University Press***
-contact: Anastasija Nikiforova, Tartu University
-https://www.cambridge.org/core/journals/data-and-policy
+**Data & Policy, Cambridge University Press**  
+contact: Anastasija Nikiforova, Tartu University  
+https://www.cambridge.org/core/journals/data-and-policy  
 
-***Cultural Science Journal (Sciendo)*** 
-editor-in-chief: Carsten Herrmann-Pillath
-https://sciendo.com/journal/CSJ
+**Cultural Science Journal (Sciendo)**  
+editor-in-chief: Carsten Herrmann-Pillath  
+https://sciendo.com/journal/CSJ  
 
-***International Journal for Digital Art History***
-head: Harald Klinke
-https://dahj.org/
+**International Journal for Digital Art History**  
+head: Harald Klinke  
+https://dahj.org/  
 
-***Leonardo (MIT-Press)*** 
-ceo: Diana Ayton-Shenker
+**Leonardo (MIT-Press)**  
+ceo: Diana Ayton-Shenker  
 https://leonardo.info/   
 
 ## Key Dates  
