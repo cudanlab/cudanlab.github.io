@@ -61,14 +61,14 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *session chair: Maximilian Schich*                           |
 | *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. ([#21](/conference/CUDAN2023-abstract-21.pdf)) |
 | *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. ([#15](/conference/CUDAN2023-abstract-15.pdf)) |
-| *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. ([#33](/conference/CUDAN2023-abstract-233.pdf))) |
+| *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. ([#33](/conference/CUDAN2023-abstract-233.pdf)) |
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
 | **11:30-12:30 – Long Talk Session 2** room A001              |
 | *session chair: Mikhail Tamm*                                |
 | *LONG-2-1* (11:30-11:50) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. ([#08](/conference/CUDAN2023-abstract-08.pdf)) |
-| *LONG-2-2* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. ([#10](/conference/CUDAN2023-abstract-10.pdf))) |
+| *LONG-2-2* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. ([#10](/conference/CUDAN2023-abstract-10.pdf)) |
 | *LONG-2-3* (12:10-12:30) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. ([#36](/conference/CUDAN2023-abstract-36.pdf)) |
 |                                                              |
 | **12:30-13:30 – Global Remote Session** room A001            |
@@ -90,7 +90,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *session chair: Liubov Tupikina*                             |
 | *LONG-3A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. ([#35](/conference/CUDAN2023-abstract-35.pdf)) |
 | *LONG-3A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. ([#58](/conference/CUDAN2023-abstract-58.pdf)) |
-| *LONG-3A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. ([#77](/conference/CUDAN2023-abstract-77.pdf))) |
+| *LONG-3A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. ([#77](/conference/CUDAN2023-abstract-77.pdf)) |
 |                                                              |
 | **14:30-15:30 – Long Talk Session 3B (parallel)**  room A046 |
 | *session chair: Ksenia Mukhina*                              |
@@ -161,7 +161,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | **14:30-15:30 – Long Talk Session 7B (parallel)** room A046  |
 | *session chair: Petter Holme*                                |
 | *LONG-7B-1* (14:30-14:50) **Mark Mets** – Patterns of cultural Other at scale. ([#91](/conference/CUDAN2023-abstract-91.pdf)) |
-| *LONG-7B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? ([#89](/conference/CUDAN2023-abstract-89.pdf))) |
+| *LONG-7B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? ([#89](/conference/CUDAN2023-abstract-89.pdf)) |
 | *LONG-7B-3* (15:10-15:30) **Mikhail Tamm** – Geography through the lens of Soviet propaganda: How cities are mentioned in the Daily News newsreel, 1954-1992. ([#92](/conference/CUDAN2023-abstract-92.pdf)) |
 |                                                              |
 | *15:30-16:00 – coffee break*                                 |
