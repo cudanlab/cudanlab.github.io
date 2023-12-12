@@ -255,10 +255,6 @@ Contributions ideally address at least one of the following subject domains (in 
 
 ## Featured publishers
 
-***Cambridge University Press***
-contact: Anastasija Nikiforova, Tartu University
-https://www.cambridge.org/ 
-
 ***EPJ Data Science (SpringerNature)***
 chief editors: Ingmar Weber & Yelena Mejova
 https://epjdatascience.springeropen.com/
@@ -267,13 +263,17 @@ https://epjdatascience.springeropen.com/
 chief editor: Gino D'Oca
 https://www.nature.com/palcomms/
 
+***Journal of Cultural Analytics (McGill University)***
+editor: Andrew Piper, McGill University
+https://culturalanalytics.org/
+
 ***Advances in Complex Systems (ACS)***
 chief editor: Marton Karsai, CEU
 https://www.worldscientific.com/worldscinet/acs
 
-***Journal of Cultural Analytics (McGill University)***
-editor: Andrew Piper, McGill University
-https://culturalanalytics.org/
+***Data & Policy, Cambridge University Press***
+contact: Anastasija Nikiforova, Tartu University
+https://www.cambridge.org/core/journals/data-and-policy
 
 ***Cultural Science Journal (Sciendo)*** 
 editor-in-chief: Carsten Herrmann-Pillath
