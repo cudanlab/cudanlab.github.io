@@ -35,7 +35,7 @@ Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting ta
 
 The pre-conference day (December 13, 2023) features **introductory workshops** by CUDAN senior fellows, covering aspects of cultural data analysis and visualization (see detailed schedule below). The workshops required a free separate signup: [https://forms.gle/n6ETYKHLw17KNxP46](https://forms.gle/n6ETYKHLw17KNxP46).
 
-The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel sessions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A001), while afternoon long talks are scheduled in two parallel tracks (rooms A001 and directly adjacent A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. Catering throughout the whole event is free of charge for registered participants. The main conference program will close with a best poster and best long talk award ceremony. Special events include an ***AI Art Exhibit Reception*** with food and drinks (December 15, free for all registered participants). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
+The CUDAN 2023 main conference schedule is set to run over three full days (December 14-16, 2023), including four **keynote** lectures, two **keynote panel sessions**, a set of **long talks** and a set of **lightning talk/poster combinations**. Most long talks and all lighting talks are scheduled to happen in the plenum (Tallinn University Audimax A002), while afternoon long talks are scheduled in two parallel tracks (rooms A002 and directly adjacent A046). The poster session will run throughout the whole conference in the coffee and lunch area, collocated with both lecture halls. Catering throughout the whole event is free of charge for registered participants. The main conference program will close with a best poster and best long talk award ceremony. Special events include an ***AI Art Exhibit Reception*** with food and drinks (December 15, free for all registered participants). A **meet the publishers session** and a **group photo** will precede the morning keynote on December 15 and 16. 
 
 
 Before and after the main conference (December 13 & 17), we will offer **walking tours**, including the medieval [Tallinn old town](https://www.visitestonia.com/en/where-to-go/tallinn/tallinn-old-town), the [ Christmas market](https://www.visitestonia.com/en/why-estonia/christmas-in-tallinn), and a tour along the coast into the forest (all among many reasons to [visit Estonia](https://www.visitestonia.com/en/)). Warm clothing is highly recommended. Separate registration was sent to participants via email.
@@ -53,11 +53,11 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 ### December 14
 | **CUDAN 2023 CONFERENCE DAY 1**                              |
 | ------------------------------------------------------------ |
-| **09:00-10:00 – Keynote Session 1** room A001                |
+| **09:00-10:00 – Keynote Session 1** room A002                |
 | *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
 | *KEYNOTE-1* (09:15-10:00) **Petter Holme** – Understanding the world from structures in time. |
 |                                                              |
-| **10:00-11:00 – Long Talk Session 1** room A001              |
+| **10:00-11:00 – Long Talk Session 1** room A002              |
 | *session chair: Maximilian Schich*                           |
 | *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. ([#21](/conference/CUDAN2023-abstract-21.pdf)) |
 | *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. ([#15](/conference/CUDAN2023-abstract-15.pdf)) |
@@ -65,13 +65,13 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
-| **11:30-12:30 – Long Talk Session 2** room A001              |
+| **11:30-12:30 – Long Talk Session 2** room A002              |
 | *session chair: Mikhail Tamm*                                |
 | *LONG-2-1* (11:30-11:50) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. ([#08](/conference/CUDAN2023-abstract-08.pdf)) |
 | *LONG-2-2* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. ([#10](/conference/CUDAN2023-abstract-10.pdf)) |
 | *LONG-2-3* (12:10-12:30) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. ([#36](/conference/CUDAN2023-abstract-36.pdf)) |
 |                                                              |
-| **12:30-13:30 – Global Remote Session** room A001            |
+| **12:30-13:30 – Global Remote Session** room A002            |
 | *session chair:* Mikhail Tamm                                |
 | *REMOTE-1* (12:30-12:36) **Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. ([#23](/conference/CUDAN2023-abstract-23.pdf)) |
 | *REMOTE-2* (12:36-12:42) **Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. ([#22](/conference/CUDAN2023-abstract-22.pdf)) |
@@ -86,7 +86,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
-| **14:30-15:30 – Long Talk Session 3A (parallel)** room A001  |
+| **14:30-15:30 – Long Talk Session 3A (parallel)** room A002  |
 | *session chair: Liubov Tupikina*                             |
 | *LONG-3A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. ([#35](/conference/CUDAN2023-abstract-35.pdf)) |
 | *LONG-3A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. ([#58](/conference/CUDAN2023-abstract-58.pdf)) |
@@ -100,7 +100,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
-| **16:00-17:00 – Long Talk Session 4A (parallel)** room A001  |
+| **16:00-17:00 – Long Talk Session 4A (parallel)** room A002  |
 | *session chair: Liubov Tupikina*                             |
 | *LONG-4A-1* (16:00-16:20) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. ([#75](/conference/CUDAN2023-abstract-71.pdf)) |
 | *LONG-4A-2* (16:20-16:40) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. ([#74](/conference/CUDAN2023-abstract-74.pdf)) |
@@ -112,18 +112,18 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LONG-4B-2* (16:20-16:40) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. ([#79](/conference/CUDAN2023-abstract-79.pdf)) |
 | *LONG-4B-3* (16:40-17:00) **Tillmann Ohm** – Curatorial algorithms and collection spaces. ([#94](/conference/CUDAN2023-abstract-94.pdf)) |
 |                                                              |
-| **17:00-18:00 – Keynote Session 2**  room A001               |
+| **17:00-18:00 – Keynote Session 2**  room A002               |
 | *moderator: Maximilian Schich*                               |
 | *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, Katrin Niglas** – Data analytics at Tallinn University: Past, present, and future. |
 ### December 15
 | **CUDAN 2023 CONFERENCE DAY 2**                              |
 | ------------------------------------------------------------ |
-| **09:00-10:00 – Keynote Session 3** room A001                |
+| **09:00-10:00 – Keynote Session 3** room A002                |
 | *session chair: Pille Runnel*                                |
 | *WELCOME* (09:00-09:15) **y'all** – Meet the publishers      |
 | *KEYNOTE-2* (09:15-10:00) **Anu Masso** – Towards understanding global data migration: A social transformation approach |
 |                                                              |
-| **10:00-11:00 – Long Talk Session 5** room A001              |
+| **10:00-11:00 – Long Talk Session 5** room A002              |
 | *session chair: Pille Runnel*                                |
 | *LONG-5-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. ([#2](/conference/CUDAN2023-abstract-02.pdf)) |
 | *LONG-5-2* (10:20-10:40) **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi** – Quantifying hierarchy and prestige in US ballet academies as social predictors of career success. ([#3](/conference/CUDAN2023-abstract-03.pdf)) |
@@ -131,13 +131,13 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
-| **11:30-12:30 – Long Talk Session 6** room A001              |
+| **11:30-12:30 – Long Talk Session 6** room A002              |
 | *session chair: Vejune Zemaityte*                            |
 | *LONG-6-1* (11:30-11:50) **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz** – Sampling cultural universes of notable individuals from Wikipedia. ([#49](/conference/CUDAN2023-abstract-49.pdf)) |
 | *LONG-6-2* (11:50-12:10) **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe** – Modelling and corpus analysis of the co-evolution of linguistic forms and functions. ([#51](/conference/CUDAN2023-abstract-51.pdf)) |
 | *LONG-6-3* (12:10-12:30) **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen** – Awakening the material in the network of things through data-driven semantic analysis. ([#59](/conference/CUDAN2023-abstract-59.pdf)) |
 |                                                              |
-| **12:30-13:30 – Lightning Session 1** room A001              |
+| **12:30-13:30 – Lightning Session 1** room A002              |
 | *session chair: Vejune Zemaityte*                            |
 | *LIGHTNING-1-1* (12:30-12:36) **Bruno Caldas Vianna, and Elen Nas** – Visual AI’s matter of taste. ([#47](/conference/CUDAN2023-abstract-47.pdf)) |
 | *LIGHTNING-1-2* (12:36-12:42) **Everardo Reyes** – Media visualization of SIGGRAPH art shows. ([#30](/conference/CUDAN2023-abstract-30.pdf)) |
@@ -152,7 +152,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
-| **14:30-15:30 – Long Talk Session 7A (parallel)** room A001  |
+| **14:30-15:30 – Long Talk Session 7A (parallel)** room A002  |
 | *session chair: Mar Canet Sola*                              |
 | *LONG-7A-1* (14:30-14:50) **Simon Ullrich and Johanna Einsiedler** – Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs. ([#76](/conference/CUDAN2023-abstract-76.pdf)) |
 | *LONG-7A-2* (14:50-15:10) **Martin E Berger** – Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research. ([#18](/conference/CUDAN2023-abstract-18.pdf)) |
@@ -166,7 +166,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
-| **16:00-17:00 – Long Talk Session 8A (parallel)** room A001  |
+| **16:00-17:00 – Long Talk Session 8A (parallel)** room A002  |
 | *session chair: Antonina Korepanova*                         |
 | *LONG-8A-1* (16:00-16:20) **Esther Solé Martí** – Quantifying relevance in art exhibitions. ([#60](/conference/CUDAN2023-abstract-60.pdf)) |
 | *LONG-8A-2* (16:20-16:40) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. ([#78](/conference/CUDAN2023-abstract-78.pdf)) |
@@ -178,7 +178,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LONG-8B-2* (16:20-16:40) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. ([#46](/conference/CUDAN2023-abstract-46.pdf)) |
 | *LONG-8B-3* (16:40-17:00) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. ([#13](/conference/CUDAN2023-abstract-13.pdf)) |
 |                                                              |
-| **17:00-18:00 – Keynote Session 4** room A001                |
+| **17:00-18:00 – Keynote Session 4** room A002                |
 | *KEYNOTE-PANEL-2* (17:00-18:00) **Lev Manovich & Maximilian Schich** – Genesis & future of cultural data analytics: a fireside chat. |
 |                                                              |
 | **18:00-20:00 – AI Art Exhibit Reception** room A108 & Astra gallery |
@@ -188,12 +188,12 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 ### December 16
 | **CUDAN 2023 CONFERENCE DAY 3**                              |
 | ------------------------------------------------------------ |
-| **09:00-10:00 – Keynote Session 5** room A001                |
+| **09:00-10:00 – Keynote Session 5** room A002                |
 | *session chair: Mila Oiva*                                   |
 | *GROUP PHOTO* (09:00-09:15) **all y'all** – Join us for a group photo |
 | *KEYNOTE-3* (09:15-10:00) **Béatrice Joyeux-Prunel** – Cultural data analytics and the deluge of images. |
 |                                                              |
-| **10:00-11:00 – Long Talk Session 9** room A001              |
+| **10:00-11:00 – Long Talk Session 9** room A002              |
 | *session chair: Mila Oiva*                                   |
 | *LONG-9-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. ([#53](/conference/CUDAN2023-abstract-53.pdf)) |
 | *LONG-9-2* (10:20-10:40) **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts** – Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940. ([#40](/conference/CUDAN2023-abstract-40.pdf)) |
@@ -201,13 +201,13 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
-| **11:30-12:30 – Long Talk Session 10** room A001             |
+| **11:30-12:30 – Long Talk Session 10** room A002             |
 | *session chair: Andres Karjus*                               |
 | *LONG-10-4* (11:30-11:50) **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds** – A decomposition of book structure through ousiometric fluctuations in cumulative word-time. ([#34](/conference/CUDAN2023-abstract-34.pdf)) |
 | *LONG-10-5* (11:50-12:10) **Chico Q Camargo and Isabel Sebire** – Genres, subgenres, and storytelling tropes: a data science approach. ([#55](/conference/CUDAN2023-abstract-55.pdf)) |
 | *LONG-10-6* (12:10-12:30) **Simon Dedeo** – Sense-making, story-telling, and the unspeakable in r/relationships. ([#88](/conference/CUDAN2023-abstract-88.pdf)) |
 |                                                              |
-| **12:30-13:30 – Lightning Session 2** room A001.             |
+| **12:30-13:30 – Lightning Session 2** room A002.             |
 | *session chair: Andres Karjus*                               |
 | *LIGHTNING-2-1* (12:30-12:36) **Sonja Thiel and Etienne Posthumus** – xCurator: AI-supported exploration and curation of digital collections. ([#63](/conference/CUDAN2023-abstract-63.pdf)) |
 | *LIGHTNING-2-2* (12:36-12:42) **Clément Zankoc, Marco Patriarca, and Els Heinsalu** – Language dynamics model with finite-range interactions influencing the diffusion of linguistic traits and human dispersal. ([#32](/conference/CUDAN2023-abstract-32.pdf)) |
@@ -220,7 +220,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
-| **14:30-15:30 – Long Talk Session 11A (parallel)** room A001 |
+| **14:30-15:30 – Long Talk Session 11A (parallel)** room A002 |
 | *session chair: Chico Q Camargo*                             |
 | *LONG-11A-1* (14:30-14:50) **Camilla Mazzucato and Michele Coscia** – Constructing kinship: A network study of material and biological ties at Çatalhöyük. ([#11](/conference/CUDAN2023-abstract-11.pdf)) |
 | *LONG-11A-2* (14:50-15:10) **Donghyeok Choi and Juyong Park** – Unraveling the Joseon dynasty: A quantitative approach to historical dynamics. ([#62](/conference/CUDAN2023-abstract-62.pdf)) |
@@ -233,7 +233,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
-| **16:00-17:00 – Long Talk Session 12A (parallel)** room A001 |
+| **16:00-17:00 – Long Talk Session 12A (parallel)** room A002 |
 | *session chair: Chico Q Camargo*                             |
 | *LONG-12A-1* (16:00-16:20) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. ([#72](/conference/CUDAN2023-abstract-72.pdf)) |
 | *LONG-12A-2* (16:20-16:40) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. ([#83](/conference/CUDAN2023-abstract-63.pdf)) |
@@ -244,7 +244,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LONG-12B-1* (16:00-16:20) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. ([#65](/conference/CUDAN2023-abstract-65.pdf)) |
 | *LONG-12B-2* (16:20-16:40) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. ([#56](/conference/CUDAN2023-abstract-56.pdf)) |
 |                                                              |
-| **17:00-18:00 – Keynote Session 6** room A001                |
+| **17:00-18:00 – Keynote Session 6** room A002                |
 | *KEYNOTE-4* (17:00-18:00) **Mauro Martino** – Generativism: The impact of generative models on aesthetics and the human experience. |
 | *CLOSING* (18:00-18:30) **Maximilian Schich** – Farewell (incl. best talk, best poster, and what's next?) |
 ### December 17
