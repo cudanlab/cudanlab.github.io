@@ -10,14 +10,7 @@ The **Cultural Data Analytics Conference 2023** / **CUDAN 2023** is scheduled to
 
 Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting talk and poster*** combinations are listed below. Further information includes the ***conference scope***, ***key dates***, ***registration & accommodation***, the now closed ***call for abstracts***, the team of ***organizers***, and the international ***program committee*** members (who have performed peer-review).  
 
-**[Conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests was made available free of charge, thanks to funding through the European Commission. Pre-conference workshops required free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46).  
-
 **We welcome on-site participants in Tallinn from December 13 to 16!**  
-
-**The conference will be live-streamed, with streaming links appearing here in the morning of Dec 14, 8:45 Tallinn time**
-
-![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
-*Winter morning in Tallinn. CC-BY Maximilian Schich*  
 
 ## Live streaming
 
@@ -35,6 +28,9 @@ Dec16 room A002 plenary + A (starting at 9:00):
 https://youtube.com/live/FGQfBSBgfHs?feature=share  
 Dec16 room A046 B (starting at 14:30):  
 https://youtube.com/live/RX-874FhuD0?feature=share  
+
+![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
+*Winter morning in Tallinn. CC-BY Maximilian Schich*  
 
 ## Keynote speakers  
 
@@ -94,7 +90,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *REMOTE-2* (12:36-12:42) **Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. ([#22](/conference/CUDAN2023-abstract-22.pdf)) |
 | *REMOTE-3* (12:42-12:48) **Olena Mykhailenko** – Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data. ([#71](/conference/CUDAN2023-abstract-71.pdf)) |
 | *REMOTE-4* (12:48-12:54) **Nancy Hada and Kavita Vemuri** – Deep-Learning-driven feature extraction for classification of Indian tribal paintings. ([#73](/conference/CUDAN2023-abstract-73.pdf)) |
-| *REMOTE-5* (12:54-13:00) **Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. ([#43](/conference/CUDAN2023-abstract-43.pdf)) |
+| *REMOTE-5* (12:54-13:00) **Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. ([#43](/conference/CUDAN2023-abstract-43.pdf)+[poster](/conference/CUDAN2023-poster-43.pdf)) |
 | *REMOTE-6* (13:00:13:06) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. ([#20](/conference/CUDAN2023-abstract-20.pdf)) |
 | *REMOTE-7* (13:06-13:12) **Nadia Alaily-Mattar, Vincent Baptist, Lukas Legner, Alain Thierstein and Diane Arvanitakis** – The mediated lifespan of urban architectural icons: An empirical investigation using Instagram data . ([#5](/conference/CUDAN2023-abstract-05.pdf)) |
 | *REMOTE-8* (13:12-13:18) **Irine Chachanidze and Tamar Guchua** – The Russification language policy in Georgia according to the press of the Georgian Emigrants of the first half of the 20th century. ([#31](/conference/CUDAN2023-abstract-31.pdf)) |
@@ -342,6 +338,8 @@ Walking tours: December 13 (afternoon) & 17 (morning)
 The CUDAN 2023 conference venue is located in the _Astra building_ of **Tallinn University**, **Narva mantee 29**, **10120 Tallinn**, **Estonia**.
 
 ## Registration & Accommodation
+
+**[Conference registration](https://konverentsikeskus.tlu.ee/en/cudan-2023-conference-registration-form)** for accepted authors, PC members, CUDAN affiliates, and guests was made available free of charge, thanks to funding through the European Commission. Pre-conference workshops required free separate [signup](https://forms.gle/n6ETYKHLw17KNxP46).  
 
 As we are fully funded through the European Commission, there will be **no conference fee** for accepted participants. Accepted participants are required to register and confirm their attendance. all catering throughout the conference is free of charge for registered participants. Yet, in order to stay in line with European Commission rules, we kindly ask all participants in Tallinn to sign the participation form morning when they enter the conference venue.
 
