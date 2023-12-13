@@ -19,6 +19,23 @@ Confirmed ***keynotes***, accepted ***long talks***, and accepted ***lighting ta
 ![Winter morning in Tallinn (image)](/img/Winter-morning-in-Tallinn.jpg "Winter morning in Tallinn (image)")
 *Winter morning in Tallinn. CC-BY Maximilian Schich*  
 
+## Live streaming
+
+Plenary talks and parallel session talks A happen in room A002; parallel session talks B happen in room 046 (cf. detailed schedule below).
+
+Dec14 room A002 plenary + A (starting at 9:00):  
+https://youtube.com/live/TZAKyrobWGk?feature=share   
+Dec14 room A046 B (starting at 14:30):  
+https://youtube.com/live/erkg5nB-4eE?feature=share  
+Dec15 room A002 plenary + A (starting at 9:00):  
+https://youtube.com/live/nP0dsi6wgPA?feature=share  
+Dec15 room A046 B (starting at 14:30):  
+https://youtube.com/live/C8qwKPEFMnM?feature=share  
+Dec16 room A002 plenary + A (starting at 9:00):  
+https://youtube.com/live/FGQfBSBgfHs?feature=share  
+Dec16 room A046 B (starting at 14:30):  
+https://youtube.com/live/RX-874FhuD0?feature=share  
+
 ## Keynote speakers  
 
 – **Petter Holme**, Aalto University, Helsinki, Finland (https://petterhol.me/)  
@@ -55,7 +72,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 1** room A002                |
 | *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
-| *KEYNOTE-1* (09:15-10:00) **Petter Holme** – Understanding the world from structures in time. |
+| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](/conference/CUDAN2023-Holme-keynote.pdf)** – Understanding the world from structures in time. |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 1** room A002              |
 | *session chair: Maximilian Schich*                           |
@@ -121,7 +138,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | **09:00-10:00 – Keynote Session 3** room A002                |
 | *session chair: Pille Runnel*                                |
 | *WELCOME* (09:00-09:15) **y'all** – Meet the publishers      |
-| *KEYNOTE-2* (09:15-10:00) **Anu Masso** – Towards understanding global data migration: A social transformation approach |
+| *KEYNOTE-2* (09:15-10:00) **[Anu Masso](/conference/CUDAN2023-Masso-keynote.pdf)** – Towards understanding global data migration: A social transformation approach |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 5** room A002              |
 | *session chair: Pille Runnel*                                |
@@ -182,16 +199,16 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *KEYNOTE-PANEL-2* (17:00-18:00) **Lev Manovich & Maximilian Schich** – Genesis & future of cultural data analytics: a fireside chat. |
 |                                                              |
 | **18:00-20:00 – AI Art Exhibit Reception** room A108 & Astra gallery |
-| *AI-ART-EXHIBIT-1* (Dec 14-16) **Mauro Martino** – Milano Fabbrica di Futuro
-| *AI-ART-EXHIBIT-2* (Dec 14-16) **Lev Manovich** – [AI prints]
-| *AI-ART-EXHIBIT-3* (Dec 14-16) **Varvara & Mar** – [AI sculpture & video art]
+| *AI-ART-EXHIBIT-1* (Dec 14-16) **Mauro Martino** – Milano Fabbrica di Futuro (AI animation)
+| *AI-ART-EXHIBIT-2* (Dec 14-16) **Lev Manovich** – In the Garden & Drawing rooms (AI prints & stills)
+| *AI-ART-EXHIBIT-3* (Dec 14-16) **Varvara & Mar** – Psychadelic Forms (AI sculptures & video) & Dream Painter (Robot pen drawings & book) & Abelló imaginary landscape (AI video)
 ### December 16
 | **CUDAN 2023 CONFERENCE DAY 3**                              |
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 5** room A002                |
 | *session chair: Mila Oiva*                                   |
 | *GROUP PHOTO* (09:00-09:15) **all y'all** – Join us for a group photo |
-| *KEYNOTE-3* (09:15-10:00) **Béatrice Joyeux-Prunel** – Cultural data analytics and the deluge of images. |
+| *KEYNOTE-3* (09:15-10:00) **[Béatrice Joyeux-Prunel](/conference/CUDAN2023-Joyeux-Prunel-keynote.pdf)** – Cultural data analytics and the deluge of images. |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 9** room A002              |
 | *session chair: Mila Oiva*                                   |
@@ -245,7 +262,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | *LONG-12B-2* (16:20-16:40) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. ([#56](/conference/CUDAN2023-abstract-56.pdf)) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 6** room A002                |
-| *KEYNOTE-4* (17:00-18:00) **Mauro Martino** – Generativism: The impact of generative models on aesthetics and the human experience. |
+| *KEYNOTE-4* (17:00-18:00) **[Mauro Martino](/conference/CUDAN2023-Martino-keynote.pdf)** – Generativism: The impact of generative models on aesthetics and the human experience. |
 | *CLOSING* (18:00-18:30) **Maximilian Schich** – Farewell (incl. best talk, best poster, and what's next?) |
 ### December 17
 | **CUDAN 2023 AFTERGLOW**                                     |
