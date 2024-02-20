@@ -11,8 +11,8 @@ event:
 **When:** 2024-03-25 14:00-16:00 (Tallinn time)   
 **Where:** online 
 
-The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09
-Websites: http://davidbkinney.com/
+The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
+Website: http://davidbkinney.com/
 
 
 <!--more-->
