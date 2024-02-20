@@ -19,4 +19,5 @@ Websites: https://www.uva.nl/en/profile/r/o/r.a.rogers/r.a.rogers.html
 
 **Additional information** –  Richard Rogers is Professor of New Media & Digital Culture, Media Studies, University of Amsterdam. He is Director of the Digital Methods Initiative, known for the development of software tools for the study of online data. His most recent books are Doing Digital Methods (Sage, 2024, 2nd ed.) and the edited volumes (with Sabine Niederer), The Politics of Social Media Manipulation (Amsterdam University Press, 2020) and The Propagation of Misinformation in Social Media: A Cross-platform Analysis (Amsterdam University Press, 2024). He is currently working on projects on search engine critique, a technical definition of memes, critical analytics, AI platform bias auditing and the public sentiment concerning the Russo-Ukrainian in Chinese social media.
 
-Suggested reading: Richard Rogers: "Visual media analysis for Instagram and other online platforms”), Big Data & Society, January–June: 1–23: 2021. https://journals.sagepub.com/doi/pdf/10.1177/20539517211022370
+Suggested reading:  
+Richard Rogers: "Visual media analysis for Instagram and other online platforms”), Big Data & Society, January–June: 1–23: 2021. https://journals.sagepub.com/doi/pdf/10.1177/20539517211022370
