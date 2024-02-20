@@ -11,8 +11,8 @@ event:
 **When:** 2024-04-01 16:00-18:00 (Tallinn time)   
 **Where:** online 
 
-The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09
-Websites: https://macss.uchicago.edu/directory/James-Evans
+The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
+Website: https://macss.uchicago.edu/directory/James-Evans
 
 
 <!--more-->
