@@ -11,8 +11,8 @@ event:
 **When:** 2024-03-04 14:00-16:00 (Tallinn time)   
 **Where:** online 
 
-The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09
-Websites: https://cvnet.cpd.ua.es/curriculum-breve/es/nolasco-cirugeda-almudena/36400
+The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
+Website: https://cvnet.cpd.ua.es/curriculum-breve/es/nolasco-cirugeda-almudena/36400
 
 
 <!--more-->
