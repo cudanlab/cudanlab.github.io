@@ -11,8 +11,8 @@ event:
 **When:** 2024-04-08 14:00-16:00 (Tallinn time)   
 **Where:** online 
 
-The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09
-Websites: http://www.clarissebardiot.info/  
+The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
+Website: http://www.clarissebardiot.info/  
 
 
 <!--more-->
