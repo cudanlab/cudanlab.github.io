@@ -11,8 +11,8 @@ event:
 **When:** 2024-05-20 14:00-16:00 (Tallinn time)   
 **Where:** in person and online
 
-The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09
-Websites: https://www.matthiasroder.com/
+The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
+Website: https://www.matthiasroder.com/
 
 <!--more-->
 **Abstract** – (to be announced)    
