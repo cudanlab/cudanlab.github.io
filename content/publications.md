@@ -97,7 +97,7 @@ Sato, Daisuke, Yuichi Ikeda, Shuichi Kawai, and Maximilian Schich (2020). "**The
 
 Verhoeven, Deb, Paul S. Moore, Amanda Coles, Bronwyn Coate, Vejune Zemaityte, Katarzyna Musial, Elizabeth Prommer, Michelle Mantsio, Sarah Taylor, Ben Eltham, Skadi Loist, Alwyn Davidson. "**Disciplinary itineraries and digital methods: Examining the Kinomatics collaboration networks.**" *NECSUS_European Journal of Media Studies* 9, no. 2 (2020): 273-298. https://necsus-ejms.org/disciplinary-itineraries-and-digital-methods-examining-the-kinomatics-collaboration-networks/
 
-Fridlund, Mats, Mila Oiva and Petri Paju (eds.) 2020. **Digital Histories. Emergent Approaches within the New Digital History**. *Helsinki University Press*.
+Fridlund, Mats, Mila Oiva and Petri Paju (eds.) 2020. **Digital Histories. Emergent Approaches within the New Digital History**. *Helsinki University Press*. https://hup.fi/site/books/e/10.33134/HUP-5/
 
 Oiva, Mila. 2020. “**The Chili and Honey of Digital Humanities Research. The Facilitation of Interdisciplinary Transfer of Knowledge in Digital Humanities Centers**“, *Digital Humanities Quarterly* 14:3. http://digitalhumanities.org/dhq/vol/14/3/000464/000464.html
 
