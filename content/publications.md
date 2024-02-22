@@ -99,11 +99,9 @@ Verhoeven, Deb, Paul S. Moore, Amanda Coles, Bronwyn Coate, Vejune Zemaityte, Ka
 
 Fridlund, Mats, Mila Oiva and Petri Paju (eds.) 2020. **Digital Histories. Emergent Approaches within the New Digital History**. *Helsinki University Press*.
 
-Oiva, Mila and Urszula Pawlicka-Deger. 2020. “**Lab and Slack. Situated Research Practices in Digital Humanities Introduction to the DHQ Special Issue**“, *Digital Humanities Quarterly* 14:3.
-
 Oiva, Mila. 2020. “**The Chili and Honey of Digital Humanities Research. The Facilitation of Interdisciplinary Transfer of Knowledge in Digital Humanities Centers**“, *Digital Humanities Quarterly* 14:3. http://digitalhumanities.org/dhq/vol/14/3/000464/000464.html
 
-Oiva, Mila and Urszula Pawlicka-Deger. 2020 “**Lab and Slack. Situated Research Practices in Digital Humanities**” special issue of *Digital Humanities Quarterly* 14:3.
+Oiva, Mila and Urszula Pawlicka-Deger. 2020 “**Lab and Slack. Situated Research Practices in Digital Humanities**” special issue of *Digital Humanities Quarterly* 14:3. introduction: https://www.digitalhumanities.org/dhq/vol/14/3/000485/000485.html
 
 
 
