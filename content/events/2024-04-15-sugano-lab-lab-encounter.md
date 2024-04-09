@@ -3,12 +3,12 @@ bookHidden: true
 
 title: "Lab Encounter with Yusuke Sugano and The Interactive Visual Intelligence Lab"
 event:
-  start: 2024-04-15T10:00:00-00:00
-  end: 2024-04-15T12:00:00-00:00
+  start: 2024-04-15T14:00:00-00:00
+  end: 2024-04-15T16:00:00-00:00
   
 ---
 
-**When:** 2024-04-15 10:00-12:00 (Tallinn time)   
+**When:** 2024-04-15 14:00-16:00 (Tallinn time)   
 **Where:** online 
 
 The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
