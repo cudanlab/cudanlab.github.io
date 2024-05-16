@@ -9,7 +9,7 @@ event:
 ---
 
 **When:** 2024-05-20 14:00-16:00 (Tallinn time)   
-**Where:** in person and online
+**Where:** in person and online (Tallinn University, Narva mantee, Astra building, A108)
 
 The event is public via zoom: https://zoom.us/j/94927755198?pwd=VWpWU25DY1JlVFJsbDF4aUtyL3Zvdz09  
 Website: https://www.matthiasroder.com/
