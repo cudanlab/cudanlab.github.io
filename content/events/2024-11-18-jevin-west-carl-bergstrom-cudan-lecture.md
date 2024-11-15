@@ -16,26 +16,27 @@ https://zoom.us/j/96098584075?pwd=2t0C5p9coSnMqg7VjwOZmVnshWZaZJ.1
 Meeting ID: 960 9858 4075 Passcode: 732669
 
 <!--more-->
-**Speakers**    
+***Speakers***    
 
-***Jevin D. West***  
+**Jevin D. West**  
 Assoc. Professor, Information School, University of Washington, Seattle  
 & Co-founder of Center for an Informed Public   
-Bluesky: https://bsky.app/profile/jevinwest.bsky.social  
-Website: https://jevinwest.org/  
-
-***Carl T. Bergstrom***  
-Biology professor at the University of Washington, Seattle  
-Bluesky: https://bsky.app/profile/jevinwest.bsky.social  
-Website: https://carlbergstrom.com/   
-
-**Lecture title**  
-
-Numbers, Statistics, and Algorithms: Seeing Through the BS  
 
 
-**Websites**  
+**Carl T. Bergstrom**  
+Biology professor at the University of Washington, Seattle   
+
+
+***Lecture title***  
+**Numbers, Statistics, and Algorithms: Seeing Through the BS**  
+ 
+
+***Websites***  
+https://jevinwest.org/   
+https://carlbergstrom.com/   
 https://callingbullshit.org/  
 https://www.cip.uw.edu/   
 
-
+***Bluesky***  
+https://bsky.app/profile/jevinwest.bsky.social  
+https://bsky.app/profile/carlbergstrom.com  
