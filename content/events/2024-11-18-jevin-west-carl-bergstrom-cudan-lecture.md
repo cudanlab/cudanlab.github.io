@@ -13,7 +13,8 @@ event:
 
 The event is public via zoom:  
 https://zoom.us/j/96098584075?pwd=2t0C5p9coSnMqg7VjwOZmVnshWZaZJ.1  
-Meeting ID: 960 9858 4075 Passcode: 732669
+Meeting ID: 960 9858 4075 Passcode: 732669  
+
 
 <!--more-->
 ***Speakers***    
@@ -22,14 +23,12 @@ Meeting ID: 960 9858 4075 Passcode: 732669
 Assoc. Professor, Information School, University of Washington, Seattle  
 & Co-founder of Center for an Informed Public   
 
-
 **Carl T. Bergstrom**  
 Biology professor at the University of Washington, Seattle   
 
-
 ***Lecture title***  
 **Numbers, Statistics, and Algorithms: Seeing Through the BS**  
- 
+
 
 ***Websites***  
 https://jevinwest.org/   
