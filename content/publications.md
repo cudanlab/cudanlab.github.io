@@ -4,7 +4,7 @@ title: "Publications"
 ---
 # Publications
 
-## Ongoing publications
+## 2019-2024 continuous publications
 
 Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukhina, Mila Oiva, Mikhail Tamm, Vejune Zemaityte, Tasweer Ahmad, Yan Asadchy, Mar Canet Sola, Hanna Jemmer, Mark Mets, and Tillmann Ohm. **Horizon 2020 Cultural Data Analytics: CUDAN ERA Chair Fact sheet, Reporting, Results**, *cordis.europa.eu/project/id/810961* (2019-2024, ongoing). open access: https://doi.org/10.3030/810961
 
@@ -12,90 +12,139 @@ Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukh
 
 Video recordings of our ongoing **Open Lab Seminar series** are published and available on via the CUDAN Youtube channel. open access: https://www.youtube.com/@CUDANLab/videos
 
+## 2024 publications
+
+Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich, and Indrek Ibrus. "**Quantifying the global film festival circuit: Networks, diversity, and public value creation.**" *Plos one* 19, no. 3 (2024): e0297404.
+
+Tamm, M. V., M. Oiva, K. D. Mukhina, M. Mets, and M. Schich. "**Quantifying world geography as seen through the lens of Soviet propaganda.**" arXiv preprint arXiv:2410.15938 (2024).
+
+Oiva, Mila, Ksenia Mukhina, Vejune Zemaityte, Andres Karjus, Mikhail Tamm, Tillmann Ohm, Mark Mets et al. "**A framework for the analysis of historical newsreels**." *Humanities and Social Sciences Communications* 11, no. 1 (2024): 1-15.
+
+Oiva, Mila, Tillmann Ohm, Ksenia Mukhina, Mar Canet Solà, and Maximilian Schich. "**Soviet View of the World. Exploring Long-Term Visual Patterns in “Novosti dnia” Newsreel Journal (1945-1992).**" *Journal of Cultural Analytics* 9, no. 4 (2024).
+
+Ohm, Tillmann, Andres Karjus, Mikhail Tamm, and Maximilian Schich. "**fruit-SALAD: A Style Aligned Artwork Dataset to reveal similarity perception in image embeddings.**" *arXiv preprint arXiv:2406.01278* (2024).
+
+Mets, Mark, Andres Karjus, Indrek Ibrus, and Maximilian Schich. "**Automated stance detection in complex topics and small languages: the challenging case of immigration in polarizing news media.**" *Plos one* 19, no. 4 (2024): e0302380.
+
+Korepanova, A., A. Annus, and T. Väljataga. "**Meaningful Use of Generative AI in Visual Arts Education.**" In *INTED2024 Proceedings*, pp. 4433-4441. IATED, 2024.
+
+Korepanova, A., C. Lightfoot, and Kai Pata. "**Leveraging Existing Online Platforms to Support Knowledge Exchange Between Visual Arts Educators.**" In *International Workshop on Learning Technology for Education Challenges*, pp. 155-165. Cham: Springer Nature Switzerland, 2024.
+
+Karjus, Andres, and Christine Cuskley. "**Evolving linguistic divergence on polarizing social media.**" *Humanities and Social Sciences Communications* 11, no. 1 (2024): 1-14.
+
+Karjus, Andres. "**Socioeconomic factors of national representation in the global film festival circuit: skewed toward the large and wealthy, but small countries can beat the odds.**" *arXiv preprint arXiv:2407.10755* (2024).
+
+Rohn, Ulrike, and Hanna Jemmer. "**33 User data analytics in media organizations.**" *De Gruyter handbook of media economics* (2024): 477.
+
+Canet Sola, Mar, and Varvara Guljajeva. "**Visions Of Destruction: Exploring Human Impact on Nature by Navigating the Latent Space of a Diffusion Model via Gaze.**" In Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction, pp. 1-5. 2024.
+
+Guljajeva, Varvara, and Mar Canet Sola. "**We Are The Clouds: Blending Interaction and Participation in Urban Media Art.**" *arXiv preprint arXiv:2406.13883* (2024).
+
+Guljajeva, Varvara, Mar Canet Sola, and Isaac Clarke. "**Artist-Guided Neural Networks–Automated Creativity or Tools for Extending Minds?**." *Digital Society Volume 64* (2024): 59.
+
+Jones, Lee, Greta Grip, Boris Kourtoukov, Varvara Guljajeva, Mar Canet Sola, and Sara Nabil. "**Knitting Interactive Spaces: Fabricating Data Physicalizations of Local Community Visitors with Circular Knitting Machines.**" In *Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction*, pp. 1-14. 2024.
+
+Sola, Mar Canet, and Varvara Guljajeva. "**Visions of Destruction: Exploring a Potential of Generative AI in Interactive Art.**" *arXiv preprint arXiv:2408.14644* (2024).
+
+Asadchy, Yan, Andres Karjus, Ksenia Mukhina, and Maximilian Schich. "**Perceived gendered self-representation on Tinder using machine learning.**" *Humanities and Social Sciences Communications* 11, no. 1 (2024): 1-11.
+
+Jaramillo-Dent, Daniela, Amanda Alencar, Yan Asadchy, Koen Leurs, and Sandra Ponzanesi. "**Migrant agency and platformed belongings: The case of TikTok.**" *Media, Culture and Communication in Migrant Societies* (2024): 239-258.
+
 ## 2023 publications
 
-Mar Canet Solà, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich. "**Quantifying Collection Lag in European Modern and Contemporary Art Museums.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-8]. open access: https://doi.org/10.1145/3615522.3615562 preprint: https://arxiv.org/abs/2305.14159 
+Kasyanov, I. A., Pim van der Hoorn, D. Krioukov, and M. V. Tamm. "**Nearest-neighbor directed random hyperbolic graphs.**" Physical Review E 108, no. 5 (2023): 054310.
 
-Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. "**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5].  open access: https://doi.org/10.1145/3615522.3615546  extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/  
+Zapata-Carratalã, Carlos, Maximilian Schich, Taliesin Beynon, and Xerxes D. Arsiwalla. "**Hypermatrix algebra and irreducible arity in higher-order systems: Concepts and perspectives.**" Advances in Complex Systems (ACS) 26, no. 06 (2023): 1-22.
 
-Varvara Guljajev and Mar Canet Sola. "**Interactive NeuroKnitting: Knitting with Your Brain.**" *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction*, (2023) [1-2]. URL: https://doi.org/10.1145/3615522.3615573
+Tillmann Ohm, Mar Canet Solà, Andres Karjus, and Maximilian Schich. “**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**” *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5]. open access: https://doi.org/10.1145/3615522.3615546 extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/
 
-Varvara Guljajeva, Mar Canet Sola, and Iurii Kuzmin. "**Telematic performance enforced by the pandemic: Neuroknitting Beethoven.**" *International Journal of Performance Arts and Digital Media* (October 2023). URL: https://doi.org/10.1080/14794713.2023.2270790
+Ohm, Tillmann. "**Algorithmic Exhibition-Making. Curating with Networks and Word Embeddings.**" in: Thiel, Sonja, and Johannes C. Bernhardt. *AI in Museums: Reflections, Perspectives and Applications*. transcript Verlag, 2023. pp. 209-216
 
-Mark Mets, Andres Karjus, Indrek Ibrus, and Maximilian Schich. "**Automated stance detection in complex topics and small languages:
-the challenging case of immigration in polarizing news media.**" *arXiv:2305.13047* [cs.CL] (2023) open access: https://arxiv.org/abs/2305.13047 
+Korepanova, Antonina, and Kai Pata. "**The transformation of art teaching process: A qualitative study of digitally mediated teaching.**" In *Conference on Smart Learning Ecosystems and Regional Development*, pp. 151-165. Singapore: Springer Nature Singapore, 2023.
 
-Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich, and Indrek Ibrus. 2023. “**Quantifying the Global Film Festival Circuit: Networks, Diversity, and Public Value Creation.**” *SocArXiv*. April 26. open access: https://doi.org/10.31235/osf.io/g9w4b
+Korepanova, Antonina, and Kai Pata. "**Pattern Elements in Higher Visual Art Education.**" *International Association for Development of the Information Society* (2023).
 
-Ahmad, Tasweer, and Maximilian Schich. "**Toward cross‐domain object detection in artwork images using improved YoloV5 and XGBoosting.**" *IET Image Processing* (2023). open access: https://doi.org/10.1049/ipr2.12806
+Karjus, Andres, Mar Canet Solà, Tillmann Ohm, Sebastian E. Ahnert, and Maximilian Schich. "**Compression ensembles quantify aesthetic complexity and the evolution of visual art.**" *EPJ Data Science* 12, no. 1 (2023): 21.
 
-Zapata-Carratalá, Carlos, Maximilian Schich, Taliesin Beynon, and Xerxes D. Arsiwalla. "**Beyond Binary: Hypermatrix Algebra and Irreducible Arity in Higher-Order Systems.**" *arXiv preprint arXiv:2301.07494* (2023). open access: https://arxiv.org/abs/2301.07494
+Guerrero Montero, Juan, Andres Karjus, Kenny Smith, and Richard A. Blythe. "**Reliable detection and quantification of selective forces in language change.**" *Corpus Linguistics and Linguistic Theory* 0 (2023). https://doi.org/10.1515/cllt-2023-0064
+
+Karjus, Andres. "**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence.**" *arXiv preprint arXiv:2309.14379* (2023).
+
+Yilmaz, Mehmet Burak, Elen Lotman, Andres Karjus, and Pia Tikka. "**An embodiment of the cinematographer: emotional and perceptual responses to different camera movement techniques.**" *Frontiers in Neuroscience* 17 (2023): 1160843.
+
+Jemmer, Hanna, and Indrek Ibrus. “**Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses.**” *Media, Culture & Society* (2023) open-access: https://doi.org/10.1177/01634437231155558
+
+Ibrus, Indrek, Andres Karjus, Vejune Zemaityte, Ulrike Rohn, and Maximilian Schich. "**Quantifying public value creation by public service media using big programming data.**" *International Journal of Communication* 17 (2023): 24.
+
+Guljajeva, V., & Canet Sola, M. 2023. **Psychedelic Forms-Ceramics and Physical Form in Conversation with Deep Learning**. In *Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction* (pp. 1-5). https://doi.org/10.1145/3569009.3576191
+
+Varvara Guljajeva, Mar Canet Sola, and Iurii Kuzmin. “**Telematic performance enforced by the pandemic: Neuroknitting Beethoven.**” *International Journal of Performance Arts and Digital Media* (October 2023). URL: )https://doi.org/10.1080/14794713.2023.2270790
 
 Guljajeva, V., Canet Sola, M. 2023. **AI-Aided Ceramic Sculptures: Bridging Deep Learning with Materiality**. In: Johnson, C., Rodríguez-Fernández, N., Rebelo, S.M. (eds) Artificial Intelligence in Music, Sound, Art and Design. EvoMUSART 2023. Lecture Notes in Computer Science, vol 13988. Springer, Cham. https://doi.org/10.1007/978-3-031-29956-8_23.
 
-Guljajeva, V., & Canet Sola, M. 2023. **Psychedelic Forms-Ceramics and Physical Form in Conversation with Deep Learning**. In *Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction* (pp. 1-5). https://doi.org/10.1145/3569009.3576191.
+Mar Canet Solà, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich. “**Quantifying Collection Lag in European Modern and Contemporary Art Museums.**” *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-8]. open access: https://doi.org/10.1145/3615522.3615562 preprint: https://arxiv.org/abs/2305.14159
 
-Kasyanov I.A., van der Hoorn P., Krioukov D., and Tamm M.V. "**Nearest-neighbour directed random hyperbolic graphs**", *arXiv:2303.01002* [physics.soc-ph] (2023) open-access https://arxiv.org/abs/2303.01002
+Varvara Guljajev and Mar Canet Sola. “**Interactive NeuroKnitting: Knitting with Your Brain.**” *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction*, (2023) [1-2]. URL: https://doi.org/10.1145/3615522.3615573
 
-Jemmer, Hanna, and Indrek Ibrus. "**Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses.**" *Media, Culture & Society* (2023) open-access: https://doi.org/10.1177/01634437231155558.
+Canet Sola, Mar, and Varvara Guljajeva. "**Visions of Destruction.**" In *ACM SIGGRAPH Asia 2023 Art Gallery*, pp. 1-2. 2023.
+
+Ahmad, Tasweer, and Maximilian Schich. "**Toward cross‐domain object detection in artwork images using improved YoloV5 and XGBoosting.**" *IET Image Processing* 17, no. 8 (2023): 2437-2449. open access: https://doi.org/10.1049/ipr2.12806
 
 ## 2022 publications
-Ramona Roller, Maximilian Schich, Mikhail Tamm, and Hyejin Youn, eds., "**A Topical Issue on Cultural Complexity**", *Advances in Complex Systems* (2022). https://www.worldscientific.com/toc/acs/25/05n06
 
-(editorial) Roller, Ramona, Maximilian Schich, Hyejin Youn, and Mikhail Tamm. "**Editorial for Topical Issue on Cultural Complexity**", *Advances in Complex Systems* (2022). https://doi.org/10.1142/S0219525922020027
-
-Ibrus, Indrek, Andres Karjus, Vejune Zemaityte, Ulrike Rohn, and Maximilian Schich. 2022. “**Quantifying Public Value Creation by Public Service Media Using Big Programming Data.**” *SocArXiv*. October 14. open access: https://doi.org/10.31235/osf.io/hysma
-
-Andres Karjus, Mar Canet Solà, Tillmann Ohm, Sebastian E. Ahnert, and Maximilian Schich. "**Compression ensembles quantify aesthetic complexity and the evolution of visual art.**" *arXiv:2205.10271* [cs.CV] (2022) open access: https://arxiv.org/abs/2205.10271  
-
-Karjus, Andres, and Christine Cuskley. 2022. **Evolving Linguistic Divergence in Socio-Political Polarities.** In *The Evolution of Language: Proceedings of the Joint Conference on Language Evolution (JCoLE)*, edited by A. Ravignani, R. Asano, D. Valente, F. Ferretti, S. Hartmann, M. Hayashi, et al., 390-392. ISSN 2666-917X.
-
-Guljajeva, V., & Canet Sola, M. 2022. **Dream Painter: An Interactive Art Installation Bridging Audience Interaction, Robotics, and Creative AI.** In *Proceedings of the 30th ACM International Conference on Multimedia* (pp. 7235-7236). https://doi.org/10.1145/3503161.3549976.  
-
-Canet Sola, M., & Guljajeva, V. 2022. **Dream Painter: Exploring creative possibilities of AI-aided speech-to-image synthesis in the interactive art context.** In *Proceedings of the ACM on Computer Graphics and Interactive Techniques*, *5*(4), 1-11. https://doi.org/10.1145/3533386.  
-
-Guljajeva, V., & Canet Sola, M. 2022. **POSTcard Landscapes from Lanzarote.** In *Creativity and Cognition* (pp. 634-636). https://doi.org/10.1145/3527927.3531191.
-
-Guljajeva, V., & Canet Sola, M. 2022. **Keep Smiling.** *XCOAX 2022, 10th Conference on Computation, Communication, Aesthetics & X*: 340–346. https://doi.org/10.24840/xCoAx_2022_66 
+Coles, Amanda, Justine Ferrer, Vejune Zemaityte, and Marcus Banks. 2022. “**A Wider Lens: Australian Camera Workforce Development and Diversity**”. Australian Cinematographers Association, https://cinematographer.org.au/wp-content/uploads/2022/07/A-Wider-Lens-report-final.pdf
 
 Tamm, M.V., Dudka, M., Pospelov, N., Oshanin, G., Nechaev, S. (2022) **From steady-state TASEP model with open boundaries to 1D Ising model at negative fugacity**, *J. Stat. Mech.: Theory and Experiment* 3, 033201, https://doi.org/10.1088/1742-5468/ac52a5
 
 Lobashev, A., Tamm, M.V., (2022) **Counting Phases and Faces Using Bayesian Thermodynamic Integration**, *arXiv*:2206.07494.
 
-Coles, Amanda, Justine Ferrer, Vejune Zemaityte, and Marcus Banks. 2022. "**A Wider Lens: Australian Camera Workforce Development and Diversity**”. Australian Cinematographers Association, https://cinematographer.org.au/wp-content/uploads/2022/07/A-Wider-Lens-report-final.pdf
+(editorial) Roller, Ramona, Maximilian Schich, Hyejin Youn, and Mikhail Tamm. “**Editorial for Topical Issue on Cultural Complexity**”, *Advances in Complex Systems* (2022) https://doi.org/10.1142/S0219525922020027
 
-Keck, Jana, Mila Oiva, and Paul Fyfe. 2022. “**Lajos Kossuth and the Transnational News: A Computational and Multilingual Approach to Digitized Newspaper Collections.**” *Media History* 0, no. 0 (November 16): 1–18.[ https://doi.org/10.1080/13688804.2022.2146905](https://doi.org/10.1080/13688804.2022.2146905).
+Ramona Roller, Maximilian Schich, Mikhail Tamm, and Hyejin Youn, eds., “**A Topical Issue on Cultural Complexity**”, *Advances in Complex Systems* (2022). https://www.worldscientific.com/toc/acs/25/05n06
 
-Oiva, Mila and Anna Ristilä. 2022. “**Mapping the pseudohistorical knowledge space in the Russian World Wide Web**” in[ *Medievalism in Finland and Russia: twentieth- and twenty-first-century aspects*](https://www.bloomsburycollections.com/book/medievalism-in-finland-and-russia-twentieth-and-twenty-first-century-aspects/), edited by Reima Välimäki, 57-71. England: Bloomsbury.
+Keck, Jana, Mila Oiva, and Paul Fyfe. 2022. “**Lajos Kossuth and the Transnational News: A Computational and Multilingual Approach to Digitized Newspaper Collections.**” *Media History* 0, no. 0 (November 16): 1–18. https://doi.org/10.1080/13688804.2022.2146905
 
 La Mela, Matti, and Mila Oiva. 2022. “**Digitaalinen historiantutkimus.**” In *Avaimia menneisyyteen — Opas historiantutkimuksen menetelmiin*, edited by Mirkka Danielsbacka, Matti O. Hannikainen, and Tuomas Tepora, 211–28. Helsinki: Gaudeamus. URL: https://kauppa.gaudeamus.fi/sivu/tuote/avaimia-menneisyyteen/4047622
 
+Oiva, Mila and Anna Ristilä. 2022. “**Mapping the pseudohistorical knowledge space in the Russian World Wide Web**” in *Medievalism in Finland and Russia: twentieth- and twenty-first-century aspects*, edited by Reima Välimäki, 57-71. England: Bloomsbury. https://www.bloomsburycollections.com/book/medievalism-in-finland-and-russia-twentieth-and-twenty-first-century-aspects/
+
+Karjus, Andres, and Christine Cuskley. 2022. **Evolving Linguistic Divergence in Socio-Political Polarities.** In *The Evolution of Language: Proceedings of the Joint Conference on Language Evolution (JCoLE)*, edited by A. Ravignani, R. Asano, D. Valente, F. Ferretti, S. Hartmann, M. Hayashi, et al., 390-392. ISSN 2666-917X.
+
+Guljajeva, V., & Canet Sola, M. 2022. **Keep Smiling.** *XCOAX 2022, 10th Conference on Computation, Communication, Aesthetics & X*: 340–346. https://doi.org/10.24840/xCoAx_2022_66
+
+Guljajeva, V., & Canet Sola, M. 2022. **Dream Painter: An Interactive Art Installation Bridging Audience Interaction, Robotics, and Creative AI.** In *Proceedings of the 30th ACM International Conference on Multimedia* (pp. 7235-7236). https://doi.org/10.1145/3503161.3549976
+
+Guljajeva, V., & Canet Sola, M. 2022. **POSTcard Landscapes from Lanzarote.** In *Creativity and Cognition* (pp. 634-636). https://doi.org/10.1145/3527927.3531191
+
+Canet Sola, M., & Guljajeva, V. 2022. **Dream Painter: Exploring creative possibilities of AI-aided speech-to-image synthesis in the interactive art context.** In *Proceedings of the ACM on Computer Graphics and Interactive Techniques*, *5*(4), 1-11. https://doi.org/10.1145/3533386
+
+Jaramillo-Dent, Daniela, Amanda Alencar, and Yan Asadchy. "**# Migrantes on TikTok: Exploring Platformed Belongings.**" *International Journal of Communication* 16 (2022): 25.
+
 ## 2021 publications
-Ibrus, Indrek, Maximilian Schich, and Marek Tamm. "**Digihumanitaariast kultuuriandmete analüüsini.**" *Keel ja Kirjandus*, 64,8-9 (2021), 671−688. DOI <https://doi.org/10.54013/kk764a2>
 
-Ibrus, Indrek, Maximilian Schich, and Marek Tamm. "**Cultural Science Meets Cultural Data Analytics**." *Cultural Science Journal*, 13,1 (2021) 1−15. open access: <http://doi.org/10.2478/csj-2021-0001>
+Tamm, M.V., Koval, D.G., Stadnichuk V.I. (2021) **Polygon-based hierarchical planar networks based on generalized Apollonian construction**, Physics 3 (4), 998-1014, https://doi.org/10.3390/physics3040063
 
-Unai Alvarez-Rodriguez, Ginestra Bianconi, Natasa Przulj, Maximilian Schich, Alice Schwarze, Leo Torres, and Anatol Wegner "**Unification of Higher-Order Models**". in: Higher-Order Graph Models: From Theoretical Foundations to Machine Learning" (Dagstuhl Seminar 21352, Schloss Dagstuhl/Leibniz-Zentrum für Informatik, Germany, 2021), edited by Tina Eliassi-Rad, Vito Latora, Martin Rosvall, and Ingo Scholtes. _Dagstuhl Reports_ 11,7 (2021) 139-178 [159-160]. open access: https://doi.org/10.4230/DagRep.11.7.139
+Ibrus, Indrek, Maximilian Schich, and Marek Tamm. “**Digihumanitaariast kultuuriandmete analüüsini.**” *Keel ja Kirjandus*, 64,8-9 (2021), 671−688. https://doi.org/10.54013/kk764a2
 
-Karjus, Andres, Richard A. Blythe, Simon Kirby, Tianyu Wang, and Kenny Smith. 2021. **Conceptual Similarity and Communicative Need Shape Colexification: An Experimental Study.** *Cognitive Science* 45 (9): e13035. https://doi.org/10.1111/cogs.13035.  
+Unai Alvarez-Rodriguez, Ginestra Bianconi, Natasa Przulj, Maximilian Schich, Alice Schwarze, Leo Torres, and Anatol Wegner “**Unification of Higher-Order Models**”. in: Higher-Order Graph Models: From Theoretical Foundations to Machine Learning” (Dagstuhl Seminar 21352, Schloss Dagstuhl/Leibniz-Zentrum für Informatik, Germany, 2021), edited by Tina Eliassi-Rad, Vito Latora, Martin Rosvall, and Ingo Scholtes. *Dagstuhl Reports* 11,7 (2021) 139-178 [159-160]. open access: https://doi.org/10.4230/DagRep.11.7.139
 
-Canet Sola, M., Guljajeva, V., Cassinelli, A., & Sandor, C. 2021. The Beautiful Encounters. In *10th International Conference on Digital and Interactive Arts* (pp. 1-3). https://doi.org/10.1145/3483529.3483744
+Ibrus, Indrek, Maximilian Schich, and Marek Tamm. “**Cultural Science Meets Cultural Data Analytics**.” *Cultural Science Journal*, 13,1 (2021) 1−15. open access: http://doi.org/10.2478/csj-2021-0001
 
-Tamm, M.V., Koval, D.G., Stadnichuk V.I. (2021) Polygon-based hierarchical planar networks based on generalized Apollonian construction, Physics 3 (4), 998-1014, https://doi.org/10.3390/physics3040063
+Canet Sola, M., Guljajeva, V., Cassinelli, A., & Sandor, C. 2021. **The Beautiful Encounters**. In *10th International Conference on Digital and Interactive Arts* (pp. 1-3). https://doi.org/10.1145/3483529.3483744
 
-Oiva, Mila. 2021. ”Topic Modeling Russian History” in *Handbook of Digital Russia Studies* ed. by Daria Gritsenko, Marielle Wijermars and Mikhail Kopotev, London: Palgrave Macmillan.
+Oiva, Mila, Hannu Salmi, and Bruce Johnson. 2021 **Yves Montand in the USSR: Cultural Diplomacy and Mixed Messages**. Palgrave Macmillan. https://doi.org/10.1007/978-3-030-69048-9
 
-Oiva, Mila, Hannu Salmi, and Bruce Johnson. 2021 *Yves Montand in the USSR: Cultural Diplomacy and Mixed Messages*. Palgrave Macmillan.[ https://doi.org/10.1007/978-3-030-69048-9](https://doi.org/10.1007/978-3-030-69048-9).
+Aali, Heta, Mila Oiva, and Anna Ristiä. 2021. “**Suomalainen, ruotsalainen, normanni vai slaavi? Venäjän perustaja Rurikin alkuperä suomalaisissa ja venäläisissä 2000-luvun verkkokeskusteluissa.**” *Historiallinen Aikakauskirja* 4: 414–26.
 
-Aali, Heta, Mila Oiva, and Anna Ristiä. 2021. “Suomalainen, ruotsalainen, normanni vai slaavi? Venäjän perustaja Rurikin alkuperä suomalaisissa ja venäläisissä 2000-luvun verkkokeskusteluissa.” *Historiallinen Aikakauskirja* 4: 414–26.
+Karjus, Andres, Richard A. Blythe, Simon Kirby, Tianyu Wang, and Kenny Smith. 2021. **Conceptual Similarity and Communicative Need Shape Colexification: An Experimental Study.** *Cognitive Science* 45 (9): e13035. https://doi.org/10.1111/cogs.13035
 
 ## 2020 publications
 
-Lee, Byunghwee, Min Kyung Seo, Daniel Kim, In-seob Shin, Maximilian Schich, Hawoong Jeong, and Seung Kee Han. "**Dissecting landscape art history with information theory.**" *Proceedings of the National Academy of Sciences* 117, no. 43 (2020): 26580-26590. open access: https://doi.org/10.1073/pnas.2011927117 
+Verhoeven, Deb, Paul S. Moore, Amanda Coles, Bronwyn Coate, Vejune Zemaityte, Katarzyna Musial, Elizabeth Prommer, Michelle Mantsio, Sarah Taylor, Ben Eltham, Skadi Loist, Alwyn Davidson. “**Disciplinary itineraries and digital methods: Examining the Kinomatics collaboration networks.**” *NECSUS_European Journal of Media Studies* 9, no. 2 (2020): 273-298. https://necsus-ejms.org/disciplinary-itineraries-and-digital-methods-examining-the-kinomatics-collaboration-networks/
 
-Sato, Daisuke, Yuichi Ikeda, Shuichi Kawai, and Maximilian Schich (2020). "**The sustainability and the survivability of Kyoto's traditional craft industry revealed from supplier-customer network.**" *PLoS ONE*, 15,11 ARTN e0240618. open access: <http://dx.doi.org/10.1371/journal.pone.0240618>.
+Lee, Byunghwee, Min Kyung Seo, Daniel Kim, In-seob Shin, Maximilian Schich, Hawoong Jeong, and Seung Kee Han. “**Dissecting landscape art history with information theory.**” *Proceedings of the National Academy of Sciences* 117, no. 43 (2020): 26580-26590. open access: https://doi.org/10.1073/pnas.2011927117
 
-Verhoeven, Deb, Paul S. Moore, Amanda Coles, Bronwyn Coate, Vejune Zemaityte, Katarzyna Musial, Elizabeth Prommer, Michelle Mantsio, Sarah Taylor, Ben Eltham, Skadi Loist, Alwyn Davidson. "**Disciplinary itineraries and digital methods: Examining the Kinomatics collaboration networks.**" *NECSUS_European Journal of Media Studies* 9, no. 2 (2020): 273-298. https://necsus-ejms.org/disciplinary-itineraries-and-digital-methods-examining-the-kinomatics-collaboration-networks/
+Sato, Daisuke, Yuichi Ikeda, Shuichi Kawai, and Maximilian Schich (2020). “**The sustainability and the survivability of Kyoto’s traditional craft industry revealed from supplier-customer network.**” *PLoS ONE*, 15,11 ARTN e0240618. open access: http://dx.doi.org/10.1371/journal.pone.0240618.
 
 Fridlund, Mats, Mila Oiva and Petri Paju (eds.) 2020. **Digital Histories. Emergent Approaches within the New Digital History**. *Helsinki University Press*. https://hup.fi/site/books/e/10.33134/HUP-5/
 
@@ -103,7 +152,19 @@ Oiva, Mila. 2020. “**The Chili and Honey of Digital Humanities Research. The F
 
 Oiva, Mila and Urszula Pawlicka-Deger. 2020 “**Lab and Slack. Situated Research Practices in Digital Humanities**” special issue of *Digital Humanities Quarterly* 14:3. introduction: https://www.digitalhumanities.org/dhq/vol/14/3/000485/000485.html
 
+## 2024 presentations (selected)
 
+Schich, Maximilian. **Towards a Collaborative Cultural Analysis of the City of Rome 2** (Organizing chair), Bibliotheca Hertziana (Max-Planck-Institute for Art History), Rome, Italy (June 11-13, 2024), including an invited presentation by CUDAN Senior fellow Ksenia Mukhina.
+
+ Schich, Maximilian. **Aesthetic Analysis and Synthesis** & **Spectral Chromatophores** (invited lecture & analog electronic performance) *ZiF Workshop: Complexity, Aesthetics, and Data Sonification*, Center for Interdisciplinary Research (ZIF), Universität Bielefeld, Germany (March 18-22, 2024). 
+
+Schich, Maximilian. **Results and Potential of Cultural Data Analytics** (invited talk) *Venice Long Data, the Future of the Past. PNRR CHANGES Spoke 8* at Fondazione Giorgio Cini, Isola di San Giorgio Maggiore, Venice, Italy (January 26, 2024). 
+
+Ksenia Mukhina and Maximilian Schich. **Learning geo-socio-visual attention patterns regarding the city of Rome** (poster) *International Conference on Computational Social Science (IC2S2), University of Pennsylvania, Philadelphia, PA* (July 18-20, 2024).
+
+Mark Mets, Peter Dodds, and Maximilian Schich. **Twitter attention towards Ukraine differs and changes fundamentally across 28 languages from 2008 to 2023** (poster) *International Conference on Computational Social Science (IC2S2), University of Pennsylvania, Philadelphia, PA* (July 18-20, 2024). 
+
+Mikhail Tamm, Mila Oiva, Ksenia Mukhina, Mark Mets, and Maximilian Schich. **Quantifying world geography through the lens of Soviet propaganda** (poster) *International Conference on Computational Social Science (IC2S2), University of Pennsylvania, Philadelphia, PA* (July 18-20, 2024).
 
 ## 2023 presentations
 
@@ -122,6 +183,8 @@ Tamm, Mikhail. **Discrete model emulating properties of hyperbolic random graphs
 Tamm, Mikhail, I. Kasyanov, P. van der Hoorn, D. Krioukov (2023), **Nearest-neighbour directed random hyperbolic graphs**, *NetSci2023*, Vienna, Austria (July 10-14, 2023).
 
 Zapata Carratala, Carlos, Maximilian Schich, Xerxes Arsiwalla, and Taliesin Beynon. **Higher-Arity Algebra for Higher-Order Networks** (poster) *NetSci 2023, Vienna, Austria* (July 12-14, 2023).
+
+Schich, Maximilian. Towards a Collaborative Cultural Analysis of the City of Rome 1 (Organizing chair), Bibliotheca Hertziana (Max-Planck-Institute for Art History), Rome, Italy (June 26-28, 2023), including presentations by several CUDAN team members.
 
 Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich and Indrek Ibrus. “**Quantifying the global film festival circuit: Networks, diversity & value creation. A study using the Cinando, powered by Marché Du Film / Cannes Festival**.” At *ScreenMe and MEDIT open seminar*, Tallinn University, Estonia (March 28, 2023).
 
