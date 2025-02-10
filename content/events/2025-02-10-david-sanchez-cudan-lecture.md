@@ -26,6 +26,9 @@ IFISC, Palma de Mallorca
 ***Lecture title***  
 **Sociolinguistics and cultural analytics with Twitter**   
 
+***Abstract***
+Datasets built with Twitter posts have proven to be an extraordinarily useful tool for studying language variation and change. In this talk, I will discuss regional variation in the orthographical, lexical and syntactic domains from an automated analysis of millions of geotagged tweets. Interestingly, the examination of lexical variation sheds light not only on salient linguistic features but also on spatially homogeneous clusters of cultural significance.  
+
 ***Website***  
 https://ifisc.uib-csic.es/users/dsanchez/  
 
