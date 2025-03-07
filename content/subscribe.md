@@ -5,7 +5,7 @@ title: "Subscribe"
 ---
 SUBSCRIBE
 ==  
-> Sign up to receive a biannual Cultural Data Analytics Newsletter.
+> Sign up to receive the low-frequency Cultural Data Analytics Newsletter.
 
 
 {{< mailchimp >}} 
