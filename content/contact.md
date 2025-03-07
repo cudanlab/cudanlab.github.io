@@ -7,12 +7,12 @@ CONTACT
 
 > For more information please contact us through email.
 
-**Maximilian Schich** (ERA Chair holder): [mxs@tlu.ee](mailto:mxs@tlu.ee "mxs@tlu.ee")  
+**Prof. Dr. Maximilian Schich**: [mxs@tlu.ee](mailto:mxs@tlu.ee "mxs@tlu.ee")   
 
-**Sandra Kaljumäe** (Project Coordinator): [sandra.kaljumae@tlu.ee](sandra.kaljumae@tlu.ee "sandra.kaljumae@tlu.ee")  
+**General email contact**: [cudan@tlu.ee](mailto:cudan@tlu.ee "cudan@tlu.ee")  
 
-**General contact**: [cudan@tlu.ee](mailto:cudan@tlu.ee "cudan@tlu.ee")  
+CUDAN Open Lab on Youtube: [@CUDANLab](https://www.youtube.com/@CUDANLab/videos "@CUDANLab")  
 
-CUDAN on Twitter: [@CUDANLab](https://twitter.com/CUDANLab "@CUDANLab")
+CUDAN Open Lab on Bluesky: [cudanlab.bsky.social](https://bsky.app/profile/cudanlab.bsky.social)  
 
-CUDAN on Youtube: [@CUDANLab](https://www.youtube.com/@CUDANLab/videos "@CUDANLab")
+CUDAN Open Lab on Twitter (deprecated): [@CUDANLab](https://twitter.com/CUDANLab "@CUDANLab")  
