@@ -17,7 +17,7 @@ Video recordings of the **Cultural Data Analytics conference** (2023) are availa
 
 ## 2024 research publications
 
-Asadchy, Yan, Andres Karjus, Ksenia Mukhina, and Maximilian Schich. "**Perceived gendered self-representation on Tinder using machine learning.**" *Humanities and Social Sciences Communications* 11,1 (2024) 1-11. [https://doi.org/10.1057/s41599-024-03801-z](https://doi.org/10.1057/s41599-024-03801-z)  [PDF](pub/2024_HSSComms_Asadchy-et-al_Gendered-Self-Representation-on-Tinder.pdf)  
+Asadchy, Yan, Andres Karjus, Ksenia Mukhina, and Maximilian Schich. "**Perceived gendered self-representation on Tinder using machine learning.**" *Humanities and Social Sciences Communications* 11,1 (2024) 1-11. [https://doi.org/10.1057/s41599-024-03801-z](https://doi.org/10.1057/s41599-024-03801-z)  [PDF](../pub/2024_HSSComms_Asadchy-et-al_Gendered-Self-Representation-on-Tinder.pdf)  
 
 Canet Solà, Mar, and Varvara Guljajeva. "**Visions Of Destruction: Exploring Human Impact on Nature by Navigating the Latent Space of a Diffusion Model via Gaze.**" In Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction (2024) [1-5]. [https://doi.org/10.1145/3623509.3635319](https://doi.org/10.1145/3623509.3635319)  [PDF](pub/2024_TEI_Canet-Sola-Guljajeva_Visions-of-Destruction.pdf)  
 
