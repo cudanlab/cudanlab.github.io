@@ -4,16 +4,16 @@ title: "Publications"
 ---
 # Publications
 
-## 2020-Ongoing video publications
-Video recordings of our **Open Lab Seminar series** (2020-2027) are available to watch in the CUDAN Youtube channel. [https://www.youtube.com/@CUDANLab/videos](https://www.youtube.com/@CUDANLab/videos)  
-
-Video recordings of our Cultural Data Analytics conference (2023) are available to watch via Youtube, with pointers to specific talks available in the program schedule on the conference website [https://cudan.tlu.ee/conference/](https://cudan.tlu.ee/conference/).
-
 ## 2019-2024 ERA Chair continuous reporting
 
 Maximilian Schich, Mariliis Niinemägi, Indrek Ibrus, Andres Karjus, Ksenia Mukhina, Mila Oiva, Mikhail Tamm, Vejune Zemaityte, Tasweer Ahmad, Yan Asadchy, Mar Canet Sola, Hanna Jemmer, Mark Mets, and Tillmann Ohm. **Horizon 2020 Cultural Data Analytics: CUDAN ERA Chair Fact sheet, Reporting, Results**, *cordis.europa.eu/project/id/810961* (2019-2024). open access: https://doi.org/10.3030/810961
 
 > Extensive reporting to the European Commission on objectives, tasks, and deliverables related to the CUDAN ERA Chair project. Highlights include include the **CUDAN Research Cooperation Strategy**, which functions as a manifesto of multidisciplinary academic mixing for Cultural Data Analytics, and the **Final Report**, which characterises the project achievements in a comprehensive manner.
+
+## 2020-2027 video publications
+Video recordings of the **CUDAN Open Lab Seminar series** (2020-2027) are available to watch in the CUDAN Youtube channel. [https://www.youtube.com/@CUDANLab/videos](https://www.youtube.com/@CUDANLab/videos)  
+
+Video recordings of the **Cultural Data Analytics conference** (2023) are available to watch via Youtube, with pointers to specific talks available in the program schedule on the conference website [https://cudan.tlu.ee/conference/](https://cudan.tlu.ee/conference/).
 
 ## 2024 research publications
 
