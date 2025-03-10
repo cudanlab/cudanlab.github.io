@@ -3,14 +3,14 @@ bookHidden: true
 
 title: "Andrew Iliadis – Surveillance as a Service: The Rise of Private Data Platforms in Governance"
 event:
-  start: 2025-04-28T16:00:00-00:00
-  end: 2025-04-28T18:00:00-00:00
+  start: 2025-03-10T16:00:00-00:00
+  end: 2025-03-10T18:00:00-00:00
   
 
 
 ---
 
-**When:** 2025-04-28 16:00-18:00 (Tallinn time)   
+**When:** 2025-03-10 16:00-18:00 (Tallinn time)   
 **Where:** A108 & online  
 
 The event is public via zoom:   
