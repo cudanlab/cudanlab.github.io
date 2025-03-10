@@ -19,7 +19,7 @@ CONTACT & NEWS
 
 CUDAN Open Lab on Youtube: [@CUDANLab](https://www.youtube.com/@CUDANLab/videos "@CUDANLab")  
 
-CUDAN Open Lab on Bluesky: [cudanlab.bsky.social](https://bsky.app/profile/cudanlab.bsky.social)  
+CUDAN Open Lab on Bluesky: [@cudanlab.bsky.social](https://bsky.app/profile/cudanlab.bsky.social)  
 
 CUDAN Open Lab on Twitter (deprecated): [@CUDANLab](https://twitter.com/CUDANLab "@CUDANLab")  
 
