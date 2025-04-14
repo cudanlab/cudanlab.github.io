@@ -24,7 +24,10 @@ Meeting ID: 946 2995 9885 Passcode: 007238
 Goldsmiths, University of London, UK    
 
 ***Lecture title***  
-[tbd]
+Human Learning X Machine Learning
+
+***Abstract***  
+This talk describes embodied musical performance in interaction with personal machine learning technologies. We use a neural network architecture built on the multi-layer perceptron. I begin by introducing Pasquinelli’s historical materialist history of the technology and the behaviourist post-war context in which these algorithms emerged. I then describe a contemporary, creative coding implementation in real-time music software. Performer gesture measured through muscle sensing is mapped to sonic granular synthesis through the mediation of a small neural network. Music performance is presented as a compelling use case as it represents a task with shifting goals, depends on small data sets, requires real-time performance, and needs to track expressive variation. The work implicitly broaches the ethics and politics of datasets (“who’s data?”) and corpora (“what do they represent?”). All the data comprising the eventual training set is generated from the physiology of the performer only. The sounds performed use a corpus of the composers’ own and collaborators’ music. We offer an account of creative practice deploying machine learning in the composition of a work, its performance dramaturgy and the training of datasets live and in situ in front of a concert audience.  
 
 ***Website***  
 http://www.ataut.net/  
