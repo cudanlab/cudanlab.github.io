@@ -24,8 +24,11 @@ Meeting ID: 946 2995 9885 Passcode: 007238
 Universitat Pompeu Fabra, Barcelona & BAU, College of Arts & Design Barcelona    
 
 ***Lecture title***  
-[to be announced]  
-
+AI in Documentary Cinema: A Practical Approach Based on Artefacto Films Projects   
+  
+***Abstract***  
+This presentation explores the practical integration of AI technologies in documentary filmmaking through Artefacto Films' recent projects. The talk will showcase real-world applications across production stages—from research and scriptwriting to post-production—highlighting both creative and technical implementations. Through concrete examples, we'll examine how AI tools have enhanced documentary workflows while discussing the balance between technological assistance and artistic vision.  
+  
 ***Websites***  
 https://www.baued.es/en/teachers/jorge-caballero-1
 https://www.upf.edu/en/web/area-tallers/mentories/-/asset_publisher/Ml6uGViNVa9C/content/jorge.caballero/maximized   
