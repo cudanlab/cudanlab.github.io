@@ -24,7 +24,7 @@ Meeting ID: 946 2995 9885 Passcode: 007238
 Trinity College & Technical University Dublin    
 
 ***Lecture title***  
-[to be announced]   
+Do We Discriminate Against AI Agents Based in Their 'Gender'?   
 
 ***Website***  
 https://tahayasseri.com/
