@@ -3,14 +3,14 @@ bookHidden: true
 
 title: "Jorge Caballero - CUDAN Lecture"
 event:
-  start: 2025-04-21T16:00:00-00:00
-  end: 2025-04-21T18:00:00-00:00
+  start: 2025-04-21T18:30:00-00:00
+  end: 2025-04-21T19:30:00-00:00
   
 
 
 ---
 
-**When:** 2025-04-21 16:00-18:00 (Tallinn time)   
+**When:** 2025-04-21 18:30-19:30 (Tallinn time)   
 **Where:** A108 & online  
 
 The event is public via zoom:   
