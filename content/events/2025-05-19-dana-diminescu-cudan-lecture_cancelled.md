@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Dana Diminescu – CUDAN Lecture"
+title: "Dana Diminescu – CUDAN Lecture (cancelled/postponed)"
 event:
   start: 2025-05-19T16:00:00-00:00
   end: 2025-05-19T18:00:00-00:00
