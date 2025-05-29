@@ -17,7 +17,7 @@ Video recordings of the **Cultural Data Analytics conference** (2023) are availa
 
 ## 2025 research publications
 
-Ohm, Tillmann, Andres Karjus, Mikhail V. Tamm, and Maximilian Schich. "**fruit-SALAD: A Style Aligned Artwork Dataset to reveal similarity perception in image embeddings.**" *Scientific Data* 12, no. 1 (2025): 254 [https://doi.org/10.1038/s41597-025-04529-4](https://doi.org/10.1038/s41597-025-04529-4)  [PDF](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD.pdf)  [SUPP](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD_Supp.pdf)  [CODE](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD_Code.zip)  [ZENODO-DATA](https://zenodo.org/records/11158522)  [ARXIV](https://doi.org/10.48550/arXiv.2406.01278)  
+Ohm, Tillmann, Andres Karjus, Mikhail V. Tamm, and Maximilian Schich. "**fruit-SALAD: A Style Aligned Artwork Dataset to reveal similarity perception in image embeddings.**" *Scientific Data* 12, no. 1 (2025): 254 [https://doi.org/10.1038/s41597-025-04529-4](https://doi.org/10.1038/s41597-025-04529-4)  [PDF](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD.pdf)  [SUPP](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD_Supp.pdf)  [GITHUB-CODE](https://github.com/Style-Aligned-Artwork-Datasets/fruit-SALAD)  [ZENODO-DATA](https://zenodo.org/records/11158522)  [ARXIV](https://doi.org/10.48550/arXiv.2406.01278)  
 
 Tamm, Mikhail V., Els Heinsalu, Stefano Scialla, and Marco Patriarca. "**Learning thresholds lead to stable language coexistence.**" *Physical Review E* 111, no. 2 (2025): 024304. [https://doi.org/10.1103/PhysRevE.111.024304](https://doi.org/10.1103/PhysRevE.111.024304)  [ARXIV](https://doi.org/10.48550/arXiv.2406.14522)  [PDF](../pub/2025_PRE_Tamm-et-al_Learning-thresholds.pdf)  
 
