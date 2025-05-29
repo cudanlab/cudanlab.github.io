@@ -83,7 +83,7 @@ Ibrus, Indrek, Andres Karjus, Vejune Zemaityte, Ulrike Rohn, and Maximilian Schi
 
 Jemmer, Hanna, and Indrek Ibrus. “**Heterodox approaches to save the day: a framework for analysing data-related innovation in legacy media businesses.**” *Media, Culture & Society* (2023). [https://doi.org/10.1177/01634437231155558](https://doi.org/10.1177/01634437231155558)  [PDF](../pub/2023_MCS_Jemmer-Ibrus_Heterodox-Approaches.pdf)  
 
-Karjus, Andres, Mar Canet Solà, Tillmann Ohm, Sebastian E. Ahnert, and Maximilian Schich. "**Compression ensembles quantify aesthetic complexity and the evolution of visual art.**" *EPJ Data Science* 12,1 (2023) 21. [https://doi.org/10.1140/epjds/s13688-023-00397-3](https://doi.org/10.1140/epjds/s13688-023-00397-3)  [PDF](../pub/2023_EPJ-Data-Science_Karjus-et-al_Compression-Ensembles.pdf)   [SUPP](../pub/2023_EPJ-Data-Science_Karjus-et-al_Compression-Ensembles_Supp.pdf)   [CODE](../pub/2023_EPJ-Data-Science_Karjus-et-al_Compression-Ensembles_Code.zip)  
+Karjus, Andres, Mar Canet Solà, Tillmann Ohm, Sebastian E. Ahnert, and Maximilian Schich. "**Compression ensembles quantify aesthetic complexity and the evolution of visual art.**" *EPJ Data Science* 12,1 (2023) 21. [https://doi.org/10.1140/epjds/s13688-023-00397-3](https://doi.org/10.1140/epjds/s13688-023-00397-3)  [PDF](../pub/2023_EPJ-Data-Science_Karjus-et-al_Compression-Ensembles.pdf)   [SUPP](../pub/2023_EPJ-Data-Science_Karjus-et-al_Compression-Ensembles_Supp.pdf)  
 
 Karjus, Andres. "**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence.**" *arXiv preprint arXiv:2309.14379* (2023). [https://doi.org/10.48550/arXiv.2309.14379](https://doi.org/10.48550/arXiv.2309.14379)  [PDF](../pub/2023_arXiv_Karjus_Machine-Assisted-Mixed-Methods.pdf)  
 
@@ -93,13 +93,13 @@ Korepanova, Antonina, and Kai Pata. "**Pattern Elements in Higher Visual Art Edu
 
 Korepanova, Antonina, and Kai Pata. "**The transformation of art teaching process: A qualitative study of digitally mediated teaching.**" In *Conference on Smart Learning Ecosystems and Regional Development.* Singapore: Springer Nature Singapore, 2023. pp. 151-165. [https://doi.org/10.1007/978-981-99-5540-4_9](https://doi.org/10.1007/978-981-99-5540-4_9)  
 
-Ohm, Tillmann, Mar Canet Solà, Andres Karjus, and Maximilian Schich. “**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**” *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5]. open access: https://doi.org/10.1145/3615522.3615546 extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials: https://collection-space-navigator.github.io/ [https://doi.org/10.1145/3615522.3615546](https://doi.org/10.1145/3615522.3615546)  [PDF](../pub/2023_ACM-VINCI_Ohm-et-al_Collection-Space-Navigator.pdf)   [SUPP](../pub/2023_ACM-VINCI_Ohm-et-al_Collection-Space-Navigator_extended-arXiv-preprint_2305.06809v1.pdf)   [CODE](../pub/2023_ACM-VINCI_Ohm-et-al_Collection-Space-Navigator_Code.zip)  
+Ohm, Tillmann, Mar Canet Solà, Andres Karjus, and Maximilian Schich. “**Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets.**” *ACM Vinci'23: Proceedings of the 16th International Symposium on Visual Information Communication and Interaction* (2023) [1-5]. open access: https://doi.org/10.1145/3615522.3615546 + extended preprint with case studies: https://arxiv.org/abs/2305.06809 & open source code, demos, tutorials website: https://collection-space-navigator.github.io/ [https://doi.org/10.1145/3615522.3615546](https://doi.org/10.1145/3615522.3615546)  [PDF](../pub/2023_ACM-VINCI_Ohm-et-al_Collection-Space-Navigator.pdf)   [SUPP](../pub/2023_ACM-VINCI_Ohm-et-al_Collection-Space-Navigator_extended-arXiv-preprint_2305.06809v1.pdf)   [CODE](https://github.com/Collection-Space-Navigator/CSN)  
 
 Ohm, Tillmann. "**Algorithmic Exhibition-Making. Curating with Networks and Word Embeddings.**" in: Thiel, Sonja, and Johannes C. Bernhardt. *AI in Museums: Reflections, Perspectives and Applications*. transcript Verlag, 2023. pp. 209-216. [https://www.transcript-open.de/doi/10.14361/9783839467107-019](https://www.transcript-open.de/doi/10.14361/9783839467107-019)  [PDF](../pub/2023_Transcript_Ohm_Algorithmic-Exhibition-Making.pdf)  
 
 Yilmaz, Mehmet Burak, Elen Lotman, Andres Karjus, and Pia Tikka. "**An embodiment of the cinematographer: emotional and perceptual responses to different camera movement techniques.**" *Frontiers in Neuroscience* 17 (2023) 1160843. [https://doi.org/10.3389/fnins.2023.1160843](https://doi.org/10.3389/fnins.2023.1160843)  [PDF](../pub/2023_FNINS_Yilmaz-et-al_Embodiment-of-the-Cinematographer.pdf)  
 
-Zapata-Carratalã, Carlos, Maximilian Schich, Taliesin Beynon, and Xerxes D. Arsiwalla. "**Hypermatrix algebra and irreducible arity in higher-order systems: Concepts and perspectives.**" *Advances in Complex Systems (ACS)* 26,06 (2023) 1-22. [https://doi.org/10.1142/S0219525923500078](https://doi.org/10.1142/S0219525923500078)  [PDF](../pub/2023_ACS_Zapata-et-al_Hypermatrix-Algebra.pdf)  
+Zapata-Carratalã, Carlos, Maximilian Schich, Taliesin Beynon, and Xerxes D. Arsiwalla. "**Hypermatrix algebra and irreducible arity in higher-order systems: Concepts and perspectives.**" *Advances in Complex Systems (ACS)* 26,06 (2023) 1-22. [https://doi.org/10.1142/S0219525923500078](https://doi.org/10.1142/S0219525923500078)  [PDF](../pub/2023_ACS_Zapata-et-al_Hypermatrix-Algebra.pdf)  [ARXIV](https://doi.org/10.48550/arXiv.2301.07494)  
 
 ## 2022 research publications
 
@@ -151,7 +151,7 @@ Tamm, M.V., Koval, D.G., Stadnichuk V.I. "**Polygon-based hierarchical planar ne
 
 ## 2020 research publications
 
-Fridlund, Mats, Mila Oiva and Petri Paju (eds.). **Digital Histories. Emergent Approaches within the New Digital History.** *Helsinki University Press* 2020. [https://doi.org/10.33134/HUP-5](https://doi.org/10.33134/HUP-5)  [PDF](../pub/2020_Friedlund-Oiva-Paju_Digital-Histories.pdf)  
+Fridlund, Mats, Mila Oiva and Petri Paju (eds.). **Digital Histories. Emergent Approaches within the New Digital History.** *Helsinki University Press* 2020. [https://doi.org/10.33134/HUP-5](https://doi.org/10.33134/HUP-5)   
 
 Oiva, Mila and Urszula Pawlicka-Deger. “**Lab and Slack. Situated Research Practices in Digital Humanities.**” Special Issue of *Digital Humanities Quarterly* (2020) 14:3. [https://www.digitalhumanities.org/dhq/vol/14/3/000485/000485.html](https://www.digitalhumanities.org/dhq/vol/14/3/000485/000485.html)  [PDF](../pub/2020_DHQ_Oiva-et-al_Lab-&-Slack.pdf)  
 
