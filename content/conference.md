@@ -67,8 +67,8 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | **CUDAN 2023 CONFERENCE DAY 1**                              |
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 1** room A002                |
-| *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction ([video](/conference/CUDAN2023-abstract-21.pdf))|
-| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](/conference/CUDAN2023-Holme-keynote.pdf)** – Understanding the world from structures in time. ([video](/conference/CUDAN2023-abstract-21.pdf))|
+| *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction ([video](https://youtu.be/TZAKyrobWGk?t=413))|
+| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](/conference/CUDAN2023-Holme-keynote.pdf)** – Understanding the world from structures in time. ([video](/conference/CUDAN2023-abstract-21.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=950)|
 |                                                              |
 | **10:00-11:00 – Long Talk Session 1** room A002              |
 | *session chair: Maximilian Schich*                           |
@@ -219,7 +219,7 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | **12:30-13:30 – Lightning Session 2** room A002.             |
 | *session chair: Andres Karjus*                               |
-| *LIGHTNING-2-1* (12:30-12:36) **Sonja Thiel and Etienne Posthumus** – xCurator: AI-supported exploration and curation of digital collections. ([#63](/conference/CUDAN2023-abstract-63.pdf)) ([video](link)) |
+| *LIGHTNING-2-1* (12:30-12:36) **Sonja Thiel and Etienne Posthumus** – xCurator: AI-supported exploration and curation of digital collections. ([#63](/conference/CUDAN2023-abstract-63.pdf)) ([video](https://www.youtube.com/live/FGQfBSBgfHs?si=r5qo-k7YBuIf4BVn&t=12608)|
 | *LIGHTNING-2-2* (12:36-12:42) **Clément Zankoc, Marco Patriarca, and Els Heinsalu** – Language dynamics model with finite-range interactions influencing the diffusion of linguistic traits and human dispersal. ([#32](/conference/CUDAN2023-abstract-32.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=12953)) |
 | *LIGHTNING-2-3* (12:42-12:48) **Paschalis Agapitos, Luis Alejandro Miccio, Gustavo A. Schwartz, and Juan-Luis Suárez** – SynPedia classifier: Using syntactic structures and named entity recognition for effective Wikipedia page classification. ([#50](/conference/CUDAN2023-abstract-50.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=13350)) |
 | *LIGHTNING-2-4* (12:48-12:54) **Els Heinsalu, Marco Patriarca, Andrzej Pȩkalski, and Janusz Szwabiński** – Networks of traditional cuisines as cultural benchmarks. ([#41](/conference/CUDAN2023-abstract-41.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=13658)) |
