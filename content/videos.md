@@ -4,8 +4,14 @@ title: "Videos"
 ---
 # Videos
 
-Since June 2020, we had the great pleasure to host a substantial catalog of exemplary voices in Open Lab Seminar lectures & discussions and n:n lab encounters, accumulating a broad spectrum of perspectives and ideas, which no indiviudal or small group of humans could  The list below summarizes the all seminar sessions , 
-conf videos (link to conf program), ols videos
+Since June 2020, we had the great pleasure to host a substantial catalog of exemplary voices in Open Lab Seminar lectures and lab encounters, with a strong focus on ad-hoc discussion. The broad spectrum of perspectives and ideas presented and elaborated in this process feeds into an emerging constellation of relevant approaches in Cultural Data Analytics, which no single individual or small group of researchers could prescribe or define. The ***Open Lab Seminar voices***, as listed below, were selected by the CUDAN community, and are complemented by the ***CUDAN team publications***, as elaborated since 2020, and the ***2023 CUDAN conference keynotes and peer-reviewed contributions***.
+
+So far 94 Open Lab Seminar sessions, typically of 2 hour length, are available on our Youtube channel:  
+[https://www.youtube.com/@CUDANLab/videos](https://www.youtube.com/@CUDANLab/videos)
+
+Less than a handful of Open Lab Seminar sessions have not been recorded, upon request by the speaker; these sessions are listed below for reference.
+
+Video recordings of the 2023 CUDAN conference contributions are directly available via the conference page, now including direct links from individual contributions in the updated conference schedule.
 
 ## 2025 Spring Seminars
 
