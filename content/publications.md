@@ -15,7 +15,15 @@ Video recordings of the **CUDAN Open Lab Seminar series** (2020-2027) are availa
 
 Video recordings of the **Cultural Data Analytics conference** (2023) are available to watch via Youtube, with pointers to specific talks available in the program schedule on the conference website [https://cudan.tlu.ee/conference/](https://cudan.tlu.ee/conference/).
 
+## 2025 research publications
+
+Ohm, Tillmann, Andres Karjus, Mikhail V. Tamm, and Maximilian Schich. "**fruit-SALAD: A Style Aligned Artwork Dataset to reveal similarity perception in image embeddings.**" *Scientific Data* 12, no. 1 (2025): 254 [https://doi.org/10.1038/s41597-025-04529-4](https://doi.org/10.1038/s41597-025-04529-4)  [PDF](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD.pdf)  [SUPP](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD_Supp.pdf)  [CODE](../pub/2025_ScientificData_Ohm-et-al_Fruit-SALAD_Code.zip)  [ZENODO-DATA](https://zenodo.org/records/11158522)  [ARXIV](https://doi.org/10.48550/arXiv.2406.01278)  
+
+Tamm, Mikhail V., Els Heinsalu, Stefano Scialla, and Marco Patriarca. "**Learning thresholds lead to stable language coexistence.**" *Physical Review E* 111, no. 2 (2025): 024304. [https://doi.org/10.1103/PhysRevE.111.024304](https://doi.org/10.1103/PhysRevE.111.024304)  [ARXIV](https://doi.org/10.48550/arXiv.2406.14522)  [PDF](../pub/2025_PRE_Tamm-et-al_Learning-thresholds.pdf)  
+
 ## 2024 research publications
+
+Asadchy, Yan, and Maximilian Schich. "**Descriptions of women are longer than that of men: An analysis of gender portrayal prompts in Stable Diffusion.**" *arXiv preprint* arXiv:2411.18994 (2024). [https://doi.org/10.48550/arXiv.2411.18994](https://doi.org/10.48550/arXiv.2411.18994)  [PDF](../pub/2024_arXiv_Asadchy-Schich_Descriptions-of-women-are-longer-than-of-men.pdf)  
 
 Asadchy, Yan, Andres Karjus, Ksenia Mukhina, and Maximilian Schich. "**Perceived gendered self-representation on Tinder using machine learning.**" *Humanities and Social Sciences Communications* 11,1 (2024) 1-11. [https://doi.org/10.1057/s41599-024-03801-z](https://doi.org/10.1057/s41599-024-03801-z)  [PDF](../pub/2024_HSSComms_Asadchy-et-al_Gendered-Self-Representation-on-Tinder.pdf)  
 
@@ -41,8 +49,6 @@ Korepanova, A., C. Lightfoot, and Kai Pata. "**Leveraging Existing Online Platfo
 
 Mets, Mark, Andres Karjus, Indrek Ibrus, and Maximilian Schich. "**Automated stance detection in complex topics and small languages: the challenging case of immigration in polarizing news media.**" *Plos one* 19,4 (2024) e0302380. [https://doi.org/10.1371/journal.pone.0302380](https://doi.org/10.1371/journal.pone.0302380)  [PDF](../pub/2024_PLOS-ONE_Mets-et-al_Automated-Stance-Detection.pdf)   [DATA & CODE](../pub/2024_PLOS-ONE_Mets-et-al_Automated-Stance-Detection_DataCode.zip)  
 
-Ohm, Tillmann, Andres Karjus, Mikhail Tamm, and Maximilian Schich. "**fruit-SALAD: A Style Aligned Artwork Dataset to reveal similarity perception in image embeddings.**" *arXiv preprint arXiv:2406.01278* (2024). [https://doi.org/10.48550/arXiv.2406.01278](https://doi.org/10.48550/arXiv.2406.01278)  [PDF](../pub/2024_arXiv_Ohm-et-al_Fruit-SALAD.pdf)  
-
 Oiva, Mila, Ksenia Mukhina, Vejune Zemaityte, Andres Karjus, Mikhail Tamm, Tillmann Ohm, Mark Mets, Daniel Chávez Heras, Mar Canet Sola, Helena Hanna Juht & Maximilian Schich. "**A framework for the analysis of historical newsreels**." *Humanities and Social Sciences Communications* 11,1 (2024) 1-15. [https://doi.org/10.1057/s41599-024-02886-w](https://doi.org/10.1057/s41599-024-02886-w)  [PDF](../pub/2024_HSSComms_Oiva-et-al_Newsreel-analysis-framework.pdf)  
 
 Oiva, Mila, Tillmann Ohm, Ksenia Mukhina, Mar Canet Solà, and Maximilian Schich. "**Soviet View of the World. Exploring Long-Term Visual Patterns in “Novosti dnia” Newsreel Journal (1945-1992).**" *Journal of Cultural Analytics* 9,4 (2024). [https://doi.org/10.22148/001c.118495](https://doi.org/10.22148/001c.118495)  [PDF](../pub/2024_CA_Oiva-et-al_Soviet-view.pdf)  
@@ -54,6 +60,8 @@ Tamm, M. V., M. Oiva, K. D. Mukhina, M. Mets, and M. Schich. "**Quantifying worl
 Zemaityte, Vejune, Andres Karjus, Ulrike Rohn, Maximilian Schich, and Indrek Ibrus. "**Quantifying the global film festival circuit: Networks, diversity, and public value creation.**" *Plos one* 19,3 (2024) e0297404. [https://doi.org/10.1371/journal.pone.0297404](https://doi.org/10.1371/journal.pone.0297404)  [PDF](../pub/2024_PLOS-ONE_Zemaityte-et-al_Film-Festival-Circuit.pdf)   [SUPP](../pub/2024_PLOS-ONE_Zemaityte-et-al_Film-Festival-Circuit_Supp.zip)   [DATA](../pub/2024_PLOS-ONE_Zemaityte-et-al_Film-Festival-Circuit_Data.zip)   [CODE](../pub/2024_PLOS-ONE_Zemaityte-et-al_Film-Festival-Circuit_Code.zip)  
 
 ## 2023 research publications
+
+Gulyaev, Alexey V., and Mikhail V. Tamm. "**Path counting on tree-like graphs with a single entropic trap: Critical behavior and finite size effects.**" *Entropy* 25, no. 9 (2023): 1318. [https://doi.org/10.3390/e25091318](https://doi.org/10.3390/e25091318)  [PDF](../pub/2023_Entropy_Gulyaev-Tamm_Path-counting.pdf)  
 
 Ahmad, Tasweer, and Maximilian Schich. "**Toward cross‐domain object detection in artwork images using improved YoloV5 and XGBoosting.**" *IET Image Processing* 17,8 (2023) 2437-2449. [https://doi.org/10.1049/ipr2.12806](https://doi.org/10.1049/ipr2.12806)  [PDF](../pub/2023_IET-Image-Processing_Ahmad-Schich_CrossDomain-Object-Detection.pdf)  
 
