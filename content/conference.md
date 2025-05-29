@@ -67,44 +67,44 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | **CUDAN 2023 CONFERENCE DAY 1**                              |
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 1** room A002                |
-| *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction |
-| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](/conference/CUDAN2023-Holme-keynote.pdf)** – Understanding the world from structures in time. |
+| *WELCOME* (09:00-09:15) **Maximilian Schich** – Introduction ([video](/conference/CUDAN2023-abstract-21.pdf))|
+| *KEYNOTE-1* (09:15-10:00) **[Petter Holme](/conference/CUDAN2023-Holme-keynote.pdf)** – Understanding the world from structures in time. ([video](/conference/CUDAN2023-abstract-21.pdf))|
 |                                                              |
 | **10:00-11:00 – Long Talk Session 1** room A002              |
 | *session chair: Maximilian Schich*                           |
-| *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. ([#21](/conference/CUDAN2023-abstract-21.pdf)) |
-| *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. ([#15](/conference/CUDAN2023-abstract-15.pdf)) |
-| *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. ([#33](/conference/CUDAN2023-abstract-233.pdf)) |
+| *LONG-1-1* (10:00-10:20) **Melvin Wevers and Kristoffer Nielbo** – Embed, detect and describe: A framework for examining events in complex sociocultural and historical data. ([#21](/conference/CUDAN2023-abstract-21.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=3878))|
+| *LONG-1-2* (10:20-10:40) **Alberto Acerbi and Joe Stubbersfield** – Large language models show human-like content biases in transmission chain experiments. ([#15](/conference/CUDAN2023-abstract-15.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=5113))|
+| *LONG-1-3* (10:40-11:00) **Andres Karjus** – Large language models to supercharge humanities and cultural analytics research. ([#33](/conference/CUDAN2023-abstract-233.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=6442))|
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
 | **11:30-12:30 – Long Talk Session 2** room A002              |
 | *session chair: Mikhail Tamm*                                |
-| *LONG-2-1* (11:30-11:50) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. ([#08](/conference/CUDAN2023-abstract-08.pdf)) |
-| *LONG-2-2* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. ([#10](/conference/CUDAN2023-abstract-10.pdf)) |
-| *LONG-2-3* (12:10-12:30) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. ([#36](/conference/CUDAN2023-abstract-36.pdf)) |
+| *LONG-2-1* (11:30-11:50) **Mila Oiva** – Explaining longitudinal audiovisual news contents: A framework for the analysis of historical newsreels. ([#08](/conference/CUDAN2023-abstract-08.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=9297))|
+| *LONG-2-2* (11:50-12:10) **Richard A Blythe and William Croft** – How individuals change culture. ([#10](/conference/CUDAN2023-abstract-10.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=10623))|
+| *LONG-2-3* (12:10-12:30) **Vivian Dornelas, Els Heinsalu, and Marco Patriarca** – Spreading of cultural traits in spatially embedded networks. ([#36](/conference/CUDAN2023-abstract-36.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=11880))|
 |                                                              |
 | **12:30-13:30 – Global Remote Session** room A002            |
 | *session chair:* Mikhail Tamm                                |
-| *REMOTE-1* (12:30-12:36) **Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. ([#23](/conference/CUDAN2023-abstract-23.pdf)) |
-| *REMOTE-2* (12:36-12:42) **Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. ([#22](/conference/CUDAN2023-abstract-22.pdf)) |
-| *REMOTE-3* (12:42-12:48) **Olena Mykhailenko** – Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data. ([#71](/conference/CUDAN2023-abstract-71.pdf)) |
-| *REMOTE-4* (12:48-12:54) **Nancy Hada and Kavita Vemuri** – Deep-Learning-driven feature extraction for classification of Indian tribal paintings. ([#73](/conference/CUDAN2023-abstract-73.pdf)) |
-| *REMOTE-5* (12:54-13:00) **Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. ([#43](/conference/CUDAN2023-abstract-43.pdf)+[poster](/conference/CUDAN2023-poster-43.pdf)) |
-| *REMOTE-6* (13:00:13:06) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. ([#20](/conference/CUDAN2023-abstract-20.pdf)) |
-| *REMOTE-7* (13:06-13:12) **Nadia Alaily-Mattar, Vincent Baptist, Lukas Legner, Alain Thierstein and Diane Arvanitakis** – The mediated lifespan of urban architectural icons: An empirical investigation using Instagram data . ([#5](/conference/CUDAN2023-abstract-05.pdf)) |
+| *REMOTE-1* (12:30-12:36) **Jianbo Gao, and Zhaoyang He** – Media big-data-based continuous monitoring of global risks. ([#23](/conference/CUDAN2023-abstract-23.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=13484))|
+| *REMOTE-2* (12:36-12:42) **Fanglei Wang and Jianbo Gao** – Differential impact of the Covid-19 pandemic on African countries. ([#22](/conference/CUDAN2023-abstract-22.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=13781))|
+| *REMOTE-3* (12:42-12:48) **Olena Mykhailenko** – Evolving values and political orientations of rural Canadians: Insights from longitudinal WVS Data. ([#71](/conference/CUDAN2023-abstract-71.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=14189))|
+| *REMOTE-4* (12:48-12:54) **Nancy Hada and Kavita Vemuri** – Deep-Learning-driven feature extraction for classification of Indian tribal paintings. ([#73](/conference/CUDAN2023-abstract-73.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=14579))|
+| *REMOTE-5* (12:54-13:00) **Sarala Shakya and Rajani Chulyadyo** – Emotion-aware Nepali music recommender system. ([#43](/conference/CUDAN2023-abstract-43.pdf)+[poster](/conference/CUDAN2023-poster-43.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=14954))|
+| *REMOTE-6* (13:00:13:06) **Kristoffer Nielbo, Yuri Bizzoni, Ida Marie S. Lassen, Pascale Feldkamp Moreira, Mads Rosendahl Thomsen, and Jianbo Gao** – Global coherence, local uncertainty: A recipe for literary success. ([#20](/conference/CUDAN2023-abstract-20.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=15257))|
+| *REMOTE-7* (13:06-13:12) **Nadia Alaily-Mattar, Vincent Baptist, Lukas Legner, Alain Thierstein and Diane Arvanitakis** – The mediated lifespan of urban architectural icons: An empirical investigation using Instagram data . ([#5](/conference/CUDAN2023-abstract-05.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=15578))|
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
 | **14:30-15:30 – Long Talk Session 3A (parallel)** room A002  |
 | *session chair: Liubov Tupikina*                             |
-| *LONG-3A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. ([#35](/conference/CUDAN2023-abstract-35.pdf)) |
-| *LONG-3A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. ([#58](/conference/CUDAN2023-abstract-58.pdf)) |
-| *LONG-3A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. ([#77](/conference/CUDAN2023-abstract-77.pdf)) |
+| *LONG-3A-1* (14:30-14:50) **Daniel Chavez Heras, Nanne Van Noord, Mila Oiva, Carlo Bretti, Isadora Campregher Paiva, Ksenia Mukhina, and Tillmann Ohm** – Between history and poetics: Identifying temporal dynamics in large audiovisual collections. ([#35](/conference/CUDAN2023-abstract-35.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=19948))|
+| *LONG-3A-2* (14:50-15:10) **Francesca Odella** – Collaborative networks in the TV fiction industry: Italian serials and sitcoms before the digital switch-off 1996-2009. ([#58](/conference/CUDAN2023-abstract-58.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=21169))|
+| *LONG-3A-3* (15:10-15:30) **Bartosz Jusypenko** – What is personalization worth for Netflix users? Evidence from a text-only and a mock VOD service choice experiment. ([#77](/conference/CUDAN2023-abstract-77.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=22455))|
 |                                                              |
 | **14:30-15:30 – Long Talk Session 3B (parallel)**  room A046 |
 | *session chair: Ksenia Mukhina*                              |
-| *LONG-3B-1* (14:30-14:50) **Selenia Anastasi, Florian Schneider, Tim Fischer, and Chris Biemann** – Unraveling the incelosphere aesthetics: Memes and visual culture across the Italian and the English-speaking incel communities. ([#27](/conference/CUDAN2023-abstract-27.pdf)) |
+| *LONG-3B-1* (14:30-14:50) **Selenia Anastasi, Florian Schneider, Tim Fischer, and Chris Biemann** – Unraveling the incelosphere aesthetics: Memes and visual culture across the Italian and the English-speaking incel communities. ([#27](/conference/CUDAN2023-abstract-27.pdf)) ([video](https://youtu.be/erkg5nB-4eE?t=192))|
 | *LONG-3B-2* (14:50-15:10) **Wojciech Hardy, Michał Paliński, Satia Rożynek, and Sophia Gaenssle** – Promoting music through user-generated content: The TikTok effect on music streaming. ([#44](/conference/CUDAN2023-abstract-44.pdf)) |
 | *LONG-3B-3* (15:10-15:30) **Wojciech Hardy and Paul Crosby** – Fewer streams but longer songs? Attention economics and the pandemic effects on music listening. ([#17](/conference/CUDAN2023-abstract-17.pdf)) |
 |                                                              |
@@ -112,84 +112,84 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | **16:00-17:00 – Long Talk Session 4A (parallel)** room A002  |
 | *session chair: Liubov Tupikina*                             |
-| *LONG-4A-1* (16:00-16:20) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. ([#75](/conference/CUDAN2023-abstract-71.pdf)) |
-| *LONG-4A-2* (16:20-16:40) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. ([#74](/conference/CUDAN2023-abstract-74.pdf)) |
-| *LONG-4A-3* (16:40-17:00) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. ([#52](/conference/CUDAN2023-abstract-52.pdf)) |
+| *LONG-4A-1* (16:00-16:20) **Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir Contractor, and Maximilian Schich** – Gendered aspects of team formation in the Soviet newsreel production industry. ([#75](/conference/CUDAN2023-abstract-71.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=25383))|
+| *LONG-4A-2* (16:20-16:40) **Mark J. Hill and Paul Nulty** – Conceptual shift or continental drift? A computational and cultural investigation into the changing concept of Europe. ([#74](/conference/CUDAN2023-abstract-74.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=26586))|
+| *LONG-4A-3* (16:40-17:00) **Luca Giovannini and Miriam Schirmer** – The courtroom as stage: Exploring the performative dimension of genocide trials. ([#52](/conference/CUDAN2023-abstract-52.pdf)) ([video](https://youtu.be/TZAKyrobWGk?t=27954))|
 |                                                              |
 | **16:00-17:00 – Long Talk Session 4B (parallel)** room A046  |
 | *session chair: Ksenia Mukhina*                              |
-| *LONG-4B-1* (16:00-16:20) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. ([#90](/conference/CUDAN2023-abstract-90.pdf)) |
-| *LONG-4B-2* (16:20-16:40) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. ([#79](/conference/CUDAN2023-abstract-79.pdf)) |
-| *LONG-4B-3* (16:40-17:00) **Tillmann Ohm** – Curatorial algorithms and collection spaces. ([#94](/conference/CUDAN2023-abstract-94.pdf)) |
+| *LONG-4B-1* (16:00-16:20) **Yan Asadchy** – Self-representation on social media: Individual, interpersonal, and collective. ([#90](/conference/CUDAN2023-abstract-90.pdf)) ([video](https://youtu.be/erkg5nB-4eE?t=2626))|
+| *LONG-4B-2* (16:20-16:40) **Ludovica Schaerf** – Do computer vision models internally differentiate visual and conceptual aspects of art without explicit supervision?. ([#79](/conference/CUDAN2023-abstract-79.pdf)) ([video](https://youtu.be/erkg5nB-4eE?t=2850))|
+| *LONG-4B-3* (16:40-17:00) **Tillmann Ohm** – Curatorial algorithms and collection spaces. ([#94](/conference/CUDAN2023-abstract-94.pdf)) ([video](https://youtu.be/erkg5nB-4eE?t=4165))|
 |                                                              |
 | **17:00-18:00 – Keynote Session 2**  room A002               |
 | *moderator: Maximilian Schich*                               |
-| *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, Katrin Niglas** – Data analytics at Tallinn University: Past, present, and future. |
+| *KEYNOTE-PANEL-1* (17:00-18:00) **Indrek Ibrus, Ulrike Rohn, Marek Tamm, Daniele Monticelli, Katrin Niglas** – Data analytics at Tallinn University: Past, present, and future. ([video](https://youtu.be/TZAKyrobWGk?t=29271))|
 ### December 15
 | **CUDAN 2023 CONFERENCE DAY 2**                              |
 | ------------------------------------------------------------ |
 | **09:00-10:00 – Keynote Session 3** room A002                |
 | *session chair: Pille Runnel*                                |
 | *WELCOME* (09:00-09:15) **y'all** – Meet the publishers      |
-| *KEYNOTE-2* (09:15-10:00) **[Anu Masso](/conference/CUDAN2023-Masso-keynote.pdf)** – Towards understanding global data migration: A social transformation approach |
+| *KEYNOTE-2* (09:15-10:00) **[Anu Masso](/conference/CUDAN2023-Masso-keynote.pdf)** – Towards understanding global data migration: A social transformation approach ([video](https://youtu.be/nP0dsi6wgPA?t=1658))|
 |                                                              |
 | **10:00-11:00 – Long Talk Session 5** room A002              |
 | *session chair: Pille Runnel*                                |
-| *LONG-5-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. ([#2](/conference/CUDAN2023-abstract-02.pdf)) |
-| *LONG-5-2* (10:20-10:40) **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi** – Quantifying hierarchy and prestige in US ballet academies as social predictors of career success. ([#3](/conference/CUDAN2023-abstract-03.pdf)) |
-| *LONG-5-3* (10:40-11:00) **Mar Canet Sola, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich** – Quantifying collection lag in world modern and contemporary art museums. ([#84](/conference/CUDAN2023-abstract-84.pdf)) |
+| *LONG-5-1* (10:00-10:20) **Louis Michael Shekhtman and Albert-Laszlo Barabasi** – Philanthropy in art: locality, donor retention, and prestige. ([#2](/conference/CUDAN2023-abstract-02.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=4113)) |
+| *LONG-5-2* (10:20-10:40) **Yessica Herrera-Guzman, Alexander J Gates, Cristian E Candia, and Albert-Laszlo Barabasi** – Quantifying hierarchy and prestige in US ballet academies as social predictors of career success. ([#3](/conference/CUDAN2023-abstract-03.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=5390)) |
+| *LONG-5-3* (10:40-11:00) **Mar Canet Sola, Antonina Korepanova, Ksenia Mukhina, and Maximilian Schich** – Quantifying collection lag in world modern and contemporary art museums. ([#84](/conference/CUDAN2023-abstract-84.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=6754)) |
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
 | **11:30-12:30 – Long Talk Session 6** room A002              |
 | *session chair: Vejune Zemaityte*                            |
-| *LONG-6-1* (11:30-11:50) **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz** – Sampling cultural universes of notable individuals from Wikipedia. ([#49](/conference/CUDAN2023-abstract-49.pdf)) |
-| *LONG-6-2* (11:50-12:10) **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe** – Modelling and corpus analysis of the co-evolution of linguistic forms and functions. ([#51](/conference/CUDAN2023-abstract-51.pdf)) |
-| *LONG-6-3* (12:10-12:30) **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen** – Awakening the material in the network of things through data-driven semantic analysis. ([#59](/conference/CUDAN2023-abstract-59.pdf)) |
+| *LONG-6-1* (11:30-11:50) **Luis Alejandro Miccio, Paschalis Agapitos, Juan-Luis Suárez, and Gustavo A. Schwartz** – Sampling cultural universes of notable individuals from Wikipedia. ([#49](/conference/CUDAN2023-abstract-49.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=9472)) |
+| *LONG-6-2* (11:50-12:10) **Juan Antonio Guerrero Montero, Dan Lassiter, Robert Truswell, and Richard A Blythe** – Modelling and corpus analysis of the co-evolution of linguistic forms and functions. ([#51](/conference/CUDAN2023-abstract-51.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=10633)) |
+| *LONG-6-3* (12:10-12:30) **Mengqi Li, Jiajie Wang, Zihong Chen, Hanyue Du, and Jing Chen** – Awakening the material in the network of things through data-driven semantic analysis. ([#59](/conference/CUDAN2023-abstract-59.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=11925)) |
 |                                                              |
 | **12:30-13:30 – Lightning Session 1** room A002              |
 | *session chair: Vejune Zemaityte*                            |
-| *LIGHTNING-1-1* (12:30-12:36) **Bruno Caldas Vianna, and Elen Nas** – Visual AI’s matter of taste. ([#47](/conference/CUDAN2023-abstract-47.pdf)) |
-| *LIGHTNING-1-2* (12:36-12:42) **Everardo Reyes** – Media visualization of SIGGRAPH art shows. ([#30](/conference/CUDAN2023-abstract-30.pdf)) |
-| *LIGHTNING-1-3* (12:42-12:48) **Youcef Benkhedda, Viktor Schlegel, Goran Nenadic, and Riza Batista-Navarro** – Integrating community-generated digital content into the UK National Collection. ([#69](/conference/CUDAN2023-abstract-69.pdf)) |
-| *LIGHTNING-1-4* (12:48-12:54) **Rebecca Giblin and Paul Crosby** – Untapped potential: Economic analyses emerging from the Australian Literary Heritage project. ([#87](/conference/CUDAN2023-abstract-87.pdf)) |
-| *LIGHTNING-1-5* (12:54-13:00) **Jon Durand and Cloe Chapotot Abreu** – When culture is the user: Learning from cultural data and UX research to engage European youth in politics. ([#80](/conference/CUDAN2023-abstract-80.pdf)) |
-| *LIGHTNING-1-6* (13:00-13:06) **Pilar Rodriguez Mata** – Trending together: Mapping transnational hashtags in the Hispanosphere’s feminist discourse. ([#82](/conference/CUDAN2023-abstract-82.pdf)) |
-| *LIGHTNING-1-7* (13:06:13:12) **Tomasz Żuradzki** – Half a century of bioethics and philosophy of medicine. A computational approach. ([#57](/conference/CUDAN2023-abstract-57.pdf)) |
-| *LIGHTNING-1-8* (13:12-13:18) **Luis Alejandro Miccio, Carlos Gámez, Juan-Luis Suárez, and Gustavo A. Schwartz** – Complex networks reveal emergent interdisciplinary knowledge in Wikipedia. ([#48](/conference/CUDAN2023-abstract-48.pdf)) |
-| *LIGHTNING-1-9* (13:18-13:24) **Justin Munoz and Rachel Fensham** – Protean figures for protean careers in cultural data. ([#19](/conference/CUDAN2023-abstract-19.pdf)) |
-| *LIGHTNING-1-10* (13:24-13:30) **Jacek Bąkowski** – Comparative study of Sanskrit and Perso-Arabic loanwords in modern Hindi with word embeddings. ([#85](/conference/CUDAN2023-abstract-85.pdf)) |
+| *LIGHTNING-1-1* (12:30-12:36) **Bruno Caldas Vianna, and Elen Nas** – Visual AI’s matter of taste. ([#47](/conference/CUDAN2023-abstract-47.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=13229))|
+| *LIGHTNING-1-2* (12:36-12:42) **Everardo Reyes** – Media visualization of SIGGRAPH art shows. ([#30](/conference/CUDAN2023-abstract-30.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=13581))|
+| *LIGHTNING-1-3* (12:42-12:48) **Youcef Benkhedda, Viktor Schlegel, Goran Nenadic, and Riza Batista-Navarro** – Integrating community-generated digital content into the UK National Collection. ([#69](/conference/CUDAN2023-abstract-69.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=13827))|
+| *LIGHTNING-1-4* (12:48-12:54) **Rebecca Giblin and Paul Crosby** – Untapped potential: Economic analyses emerging from the Australian Literary Heritage project. ([#87](/conference/CUDAN2023-abstract-87.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=14214))|
+| *LIGHTNING-1-5* (12:54-13:00) **Jon Durand and Cloe Chapotot Abreu** – When culture is the user: Learning from cultural data and UX research to engage European youth in politics. ([#80](/conference/CUDAN2023-abstract-80.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=14545))|
+| *LIGHTNING-1-6* (13:00-13:06) **Pilar Rodriguez Mata** – Trending together: Mapping transnational hashtags in the Hispanosphere’s feminist discourse. ([#82](/conference/CUDAN2023-abstract-82.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=14832)) |
+| *LIGHTNING-1-7* (13:06:13:12) **Tomasz Żuradzki** – Half a century of bioethics and philosophy of medicine. A computational approach. ([#57](/conference/CUDAN2023-abstract-57.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=15112)) |
+| *LIGHTNING-1-8* (13:12-13:18) **Luis Alejandro Miccio, Carlos Gámez, Juan-Luis Suárez, and Gustavo A. Schwartz** – Complex networks reveal emergent interdisciplinary knowledge in Wikipedia. ([#48](/conference/CUDAN2023-abstract-48.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=15425)) |
+| *LIGHTNING-1-9* (13:18-13:24) **Justin Munoz and Rachel Fensham** – Protean figures for protean careers in cultural data. ([#19](/conference/CUDAN2023-abstract-19.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=15729)) |
+| *LIGHTNING-1-10* (13:24-13:30) **Jacek Bąkowski** – Comparative study of Sanskrit and Perso-Arabic loanwords in modern Hindi with word embeddings. ([#85](/conference/CUDAN2023-abstract-85.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=16049)) |
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
 | **14:30-15:30 – Long Talk Session 7A (parallel)** room A002  |
 | *session chair: Mar Canet Sola*                              |
-| *LONG-7A-1* (14:30-14:50) **Simon Ullrich and Johanna Einsiedler** – Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs. ([#76](/conference/CUDAN2023-abstract-76.pdf)) |
-| *LONG-7A-2* (14:50-15:10) **Martin E Berger** – Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research. ([#18](/conference/CUDAN2023-abstract-18.pdf)) |
-| *LONG-7A-3* (15:10-15:30) **Bárbara Romero Ferron** – The concept of Spanish art in nineteenth-century exhibitions: A data-driven analysis. ([#37](/conference/CUDAN2023-abstract-37.pdf)) |
+| *LONG-7A-1* (14:30-14:50) **Simon Ullrich and Johanna Einsiedler** – Can ready-made language models be used for context-specific coding? Categorizing Twitter actors using large language models and APIs. ([#76](/conference/CUDAN2023-abstract-76.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=20205)) |
+| *LONG-7A-2* (14:50-15:10) **Martin E Berger** – Provenance, art worlds, and knowledge graphs: Doing data-driven large-scale object biography research. ([#18](/conference/CUDAN2023-abstract-18.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=21432)) |
+| *LONG-7A-3* (15:10-15:30) **Bárbara Romero Ferron** – The concept of Spanish art in nineteenth-century exhibitions: A data-driven analysis. ([#37](/conference/CUDAN2023-abstract-37.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=22669)) |
 |                                                              |
 | **14:30-15:30 – Long Talk Session 7B (parallel)** room A046  |
 | *session chair: Petter Holme*                                |
-| *LONG-7B-1* (14:30-14:50) **Mark Mets** – Patterns of cultural Other at scale. ([#91](/conference/CUDAN2023-abstract-91.pdf)) |
-| *LONG-7B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? ([#89](/conference/CUDAN2023-abstract-89.pdf)) |
-| *LONG-7B-3* (15:10-15:30) **Mikhail Tamm** – Geography through the lens of Soviet propaganda: How cities are mentioned in the Daily News newsreel, 1954-1992. ([#92](/conference/CUDAN2023-abstract-92.pdf)) |
+| *LONG-7B-1* (14:30-14:50) **Mark Mets** – Patterns of cultural Other at scale. ([#91](/conference/CUDAN2023-abstract-91.pdf)) ([video](https://youtu.be/C8qwKPEFMnM?t=792)) |
+| *LONG-7B-2* (14:50-15:10) **Olga Mukhortova and Dmitry Zinoviev** – What is star discourse in post-Soviet film journals? ([#89](/conference/CUDAN2023-abstract-89.pdf)) ([video](https://youtu.be/C8qwKPEFMnM?t=2047)) |
+| *LONG-7B-3* (15:10-15:30) **Mikhail Tamm** – Geography through the lens of Soviet propaganda: How cities are mentioned in the Daily News newsreel, 1954-1992. ([#92](/conference/CUDAN2023-abstract-92.pdf)) ([video](https://youtu.be/C8qwKPEFMnM?t=3327)) |
 |                                                              |
 | *15:30-16:00 – coffee break*                                 |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 8A (parallel)** room A002  |
 | *session chair: Antonina Korepanova*                         |
-| *LONG-8A-1* (16:00-16:20) **Esther Solé Martí** – Quantifying relevance in art exhibitions. ([#60](/conference/CUDAN2023-abstract-60.pdf)) |
-| *LONG-8A-2* (16:20-16:40) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. ([#78](/conference/CUDAN2023-abstract-78.pdf)) |
-| *LONG-8A-3* (16:40-17:00) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. ([#4](/conference/CUDAN2023-abstract-04.pdf)) |
+| *LONG-8A-1* (16:00-16:20) **Esther Solé Martí** – Quantifying relevance in art exhibitions. ([#60](/conference/CUDAN2023-abstract-60.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=25659)) |
+| *LONG-8A-2* (16:20-16:40) **Ksenia Mukhina and Maximilian Schich** – Learning geo-socio-visual attention patterns regarding the city of Rome. ([#78](/conference/CUDAN2023-abstract-78.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=26957)) |
+| *LONG-8A-3* (16:40-17:00) **Tod Stewart Van Gunten and Aybuke Atalay** – Modeling cultural globalization on music streaming platforms. ([#4](/conference/CUDAN2023-abstract-04.pdf)) ([video](https://youtu.be/nP0dsi6wgPA?t=28296)) |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 8B (parallel)** room A046  |
 | *session chair: Petter Holme*                                |
-| *LONG-8B-1* (16:00-16:20) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. ([#16](/conference/CUDAN2023-abstract-16.pdf)) |
-| *LONG-8B-2* (16:20-16:40) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. ([#46](/conference/CUDAN2023-abstract-46.pdf)) |
-| *LONG-8B-3* (16:40-17:00) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. ([#13](/conference/CUDAN2023-abstract-13.pdf)) |
+| *LONG-8B-1* (16:00-16:20) **Stefano Scialla, Jens-Kristjan Liivand, Marco Patriarca, and Els Heinsalu** – A three-state language competition model including language learning and attrition. ([#16](/conference/CUDAN2023-abstract-16.pdf)) ([video](https://youtu.be/C8qwKPEFMnM?t=6104)) |
+| *LONG-8B-2* (16:20-16:40) **Marc Santolini and Liubov Tupikina** – Tracing the trajectories of knowledge: A systematic analysis of knowledge mobility patterns in scientific and cultural texts. ([#46](/conference/CUDAN2023-abstract-46.pdf)) ([video](https://youtu.be/C8qwKPEFMnM?t=7383)) |
+| *LONG-8B-3* (16:40-17:00) **Shiming Shen** – Crossing Borders Archives (CROBORA): Interactive data visualization of broadcast archives in the age of digitization. ([#13](/conference/CUDAN2023-abstract-13.pdf)) ([video](https://youtu.be/C8qwKPEFMnM?t=8738)) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 4** room A002                |
-| *KEYNOTE-PANEL-2* (17:00-18:00) **Lev Manovich & Maximilian Schich** – Genesis & future of cultural data analytics: a fireside chat. |
+| *KEYNOTE-PANEL-2* (17:00-18:00) **Lev Manovich & Maximilian Schich** – Genesis & future of cultural data analytics: a fireside chat. ([video](https://youtu.be/nP0dsi6wgPA?t=29963)) |
 |                                                              |
 | **18:00-20:00 – AI Art Exhibit Reception** room A108 & Astra gallery |
 | *AI-ART-EXHIBIT-1* (Dec 14-16) **Mauro Martino** – Milano Fabbrica di Futuro (AI animation)
@@ -201,40 +201,40 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 | **09:00-10:00 – Keynote Session 5** room A002                |
 | *session chair: Mila Oiva*                                   |
 | *GROUP PHOTO* (09:00-09:15) **all y'all** – Join us for a group photo |
-| *KEYNOTE-3* (09:15-10:00) **[Béatrice Joyeux-Prunel](/conference/CUDAN2023-Joyeux-Prunel-keynote.pdf)** – Cultural data analytics and the deluge of images. |
+| *KEYNOTE-3* (09:15-10:00) **[Béatrice Joyeux-Prunel](/conference/CUDAN2023-Joyeux-Prunel-keynote.pdf)** – Cultural data analytics and the deluge of images. ([video](https://youtu.be/FGQfBSBgfHs?t=635)) |
 |                                                              |
 | **10:00-11:00 – Long Talk Session 9** room A002              |
 | *session chair: Mila Oiva*                                   |
-| *LONG-9-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. ([#53](/conference/CUDAN2023-abstract-53.pdf)) |
-| *LONG-9-2* (10:20-10:40) **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts** – Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940. ([#40](/conference/CUDAN2023-abstract-40.pdf)) |
-| *LONG-9-3* (10:40-11:00) **Yadira Lizama Mué and Juan-Luis Suárez** – Unraveling the emerging frontiers of interdisciplinary research in cultural analytics. ([#70](/conference/CUDAN2023-abstract-70.pdf)) |
+| *LONG-9-1* (10:00-10:20) **Axel Bohmann** – The grammar of gender: Verb phrases with gendered subjects across 200 years of American English. ([#53](/conference/CUDAN2023-abstract-53.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=3535)) |
+| *LONG-9-2* (10:20-10:40) **Peeter Tinits, Krister Kruusmaa, and Laura Nemvalts** – Studying major transitions in literary communities through the Estonian National Bibliography 1800-1940. ([#40](/conference/CUDAN2023-abstract-40.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=4686)) |
+| *LONG-9-3* (10:40-11:00) **Yadira Lizama Mué and Juan-Luis Suárez** – Unraveling the emerging frontiers of interdisciplinary research in cultural analytics. ([#70](/conference/CUDAN2023-abstract-70.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=6037)) |
 |                                                              |
 | *11:00-11:30 – coffee break*                                 |
 |                                                              |
 | **11:30-12:30 – Long Talk Session 10** room A002             |
 | *session chair: Andres Karjus*                               |
-| *LONG-10-4* (11:30-11:50) **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds** – A decomposition of book structure through ousiometric fluctuations in cumulative word-time. ([#34](/conference/CUDAN2023-abstract-34.pdf)) |
-| *LONG-10-5* (11:50-12:10) **Chico Q Camargo and Isabel Sebire** – Genres, subgenres, and storytelling tropes: a data science approach. ([#55](/conference/CUDAN2023-abstract-55.pdf)) |
+| *LONG-10-4* (11:30-11:50) **Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher Danforth, and Peter Dodds** – A decomposition of book structure through ousiometric fluctuations in cumulative word-time. ([#34](/conference/CUDAN2023-abstract-34.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=11388)) |
+| *LONG-10-5* (11:50-12:10) **Chico Q Camargo and Isabel Sebire** – Genres, subgenres, and storytelling tropes: a data science approach. ([#55](/conference/CUDAN2023-abstract-55.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=10157)) |
 | *LONG-10-6* (12:10-12:30) **Simon Dedeo** – Sense-making, story-telling, and the unspeakable in r/relationships. ([#88](/conference/CUDAN2023-abstract-88.pdf)) |
 |                                                              |
 | **12:30-13:30 – Lightning Session 2** room A002.             |
 | *session chair: Andres Karjus*                               |
-| *LIGHTNING-2-1* (12:30-12:36) **Sonja Thiel and Etienne Posthumus** – xCurator: AI-supported exploration and curation of digital collections. ([#63](/conference/CUDAN2023-abstract-63.pdf)) |
-| *LIGHTNING-2-2* (12:36-12:42) **Clément Zankoc, Marco Patriarca, and Els Heinsalu** – Language dynamics model with finite-range interactions influencing the diffusion of linguistic traits and human dispersal. ([#32](/conference/CUDAN2023-abstract-32.pdf)) |
-| *LIGHTNING-2-3* (12:42-12:48) **Paschalis Agapitos, Luis Alejandro Miccio, Gustavo A. Schwartz, and Juan-Luis Suárez** – SynPedia classifier: Using syntactic structures and named entity recognition for effective Wikipedia page classification. ([#50](/conference/CUDAN2023-abstract-50.pdf)) |
-| *LIGHTNING-2-4* (12:48-12:54) **Els Heinsalu, Marco Patriarca, Andrzej Pȩkalski, and Janusz Szwabiński** – Networks of traditional cuisines as cultural benchmarks. ([#41](/conference/CUDAN2023-abstract-41.pdf)) |
-| *LIGHTNING-2-5* (12:54-13:00) **Anda Iulia Solea** – Mainstreaming The Blackpill: An exploration of the incel community on TikTok and YouTube shorts. ([#42](/conference/CUDAN2023-abstract-42.pdf)) |
-| *LIGHTNING-2-6* (13:00-13:06) **Teresa Kamencek, Velitchko Filipov, Victor Schetinger, Silvia Miksch, and Raphael Rosenberg** – TimeScapes: Towards a visual characterization of modern artists’ exhibition activity. ([#54](/conference/CUDAN2023-abstract-54.pdf)) |
-| *LIGHTNING-2-7* (13:06:13:12) **Mar Canet Sola and Varvara Guljajeva** – Visions of destruction: Experiencing the climate crisis through an interactive AI-aided artwork. ([#86](/conference/CUDAN2023-abstract-86.pdf)) |
-| *LIGHTNING-2-8* (13:12-13:18) **Phillip Stenmann Baun** – Beyond keywords: An NLP method for identifying corpus-specific historical terms in cultural datasets. ([#81](/conference/CUDAN2023-abstract-81.pdf)) |
+| *LIGHTNING-2-1* (12:30-12:36) **Sonja Thiel and Etienne Posthumus** – xCurator: AI-supported exploration and curation of digital collections. ([#63](/conference/CUDAN2023-abstract-63.pdf)) ([video](link)) |
+| *LIGHTNING-2-2* (12:36-12:42) **Clément Zankoc, Marco Patriarca, and Els Heinsalu** – Language dynamics model with finite-range interactions influencing the diffusion of linguistic traits and human dispersal. ([#32](/conference/CUDAN2023-abstract-32.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=12953)) |
+| *LIGHTNING-2-3* (12:42-12:48) **Paschalis Agapitos, Luis Alejandro Miccio, Gustavo A. Schwartz, and Juan-Luis Suárez** – SynPedia classifier: Using syntactic structures and named entity recognition for effective Wikipedia page classification. ([#50](/conference/CUDAN2023-abstract-50.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=13350)) |
+| *LIGHTNING-2-4* (12:48-12:54) **Els Heinsalu, Marco Patriarca, Andrzej Pȩkalski, and Janusz Szwabiński** – Networks of traditional cuisines as cultural benchmarks. ([#41](/conference/CUDAN2023-abstract-41.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=13658)) |
+| *LIGHTNING-2-5* (12:54-13:00) **Anda Iulia Solea** – Mainstreaming The Blackpill: An exploration of the incel community on TikTok and YouTube shorts. ([#42](/conference/CUDAN2023-abstract-42.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=14001)) |
+| *LIGHTNING-2-6* (13:00-13:06) **Teresa Kamencek, Velitchko Filipov, Victor Schetinger, Silvia Miksch, and Raphael Rosenberg** – TimeScapes: Towards a visual characterization of modern artists’ exhibition activity. ([#54](/conference/CUDAN2023-abstract-54.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=14355)) |
+| *LIGHTNING-2-7* (13:06:13:12) **Mar Canet Sola and Varvara Guljajeva** – Visions of destruction: Experiencing the climate crisis through an interactive AI-aided artwork. ([#86](/conference/CUDAN2023-abstract-86.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=14652)) |
+| *LIGHTNING-2-8* (13:12-13:18) **Phillip Stenmann Baun** – Beyond keywords: An NLP method for identifying corpus-specific historical terms in cultural datasets. ([#81](/conference/CUDAN2023-abstract-81.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=15001)) |
 |                                                              |
 | *13:30-14:30 – lunch*                                        |
 |                                                              |
 | **14:30-15:30 – Long Talk Session 11A (parallel)** room A002 |
 | *session chair: Chico Q Camargo*                             |
-| *LONG-11A-1* (14:30-14:50) **Camilla Mazzucato and Michele Coscia** – Constructing kinship: A network study of material and biological ties at Çatalhöyük. ([#11](/conference/CUDAN2023-abstract-11.pdf)) |
-| *LONG-11A-2* (14:50-15:10) **Donghyeok Choi and Juyong Park** – Unraveling the Joseon dynasty: A quantitative approach to historical dynamics. ([#62](/conference/CUDAN2023-abstract-62.pdf)) |
-| *LONG-11A-3* (15:10-15:30) **Alexandra Barancova, Melvin Wevers, and Nanne Van Noord** – The expression of temporality in historical photographs. ([#14](/conference/CUDAN2023-abstract-14.pdf)) |
+| *LONG-11A-1* (14:30-14:50) **Camilla Mazzucato and Michele Coscia** – Constructing kinship: A network study of material and biological ties at Çatalhöyük. ([#11](/conference/CUDAN2023-abstract-11.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=19665)) |
+| *LONG-11A-2* (14:50-15:10) **Donghyeok Choi and Juyong Park** – Unraveling the Joseon dynasty: A quantitative approach to historical dynamics. ([#62](/conference/CUDAN2023-abstract-62.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=20995)) |
+| *LONG-11A-3* (15:10-15:30) **Alexandra Barancova, Melvin Wevers, and Nanne Van Noord** – The expression of temporality in historical photographs. ([#14](/conference/CUDAN2023-abstract-14.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=22188)) |
 |                                                              |
 | **14:30-15:30 – Long Talk Session 11B (parallel)** room A046 |
 | *session chair: Yan Asadchy*                                 |
@@ -245,18 +245,18 @@ Before and after the main conference (December 13 & 17), we will offer **walking
 |                                                              |
 | **16:00-17:00 – Long Talk Session 12A (parallel)** room A002 |
 | *session chair: Chico Q Camargo*                             |
-| *LONG-12A-1* (16:00-16:20) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. ([#72](/conference/CUDAN2023-abstract-72.pdf)) |
-| *LONG-12A-2* (16:20-16:40) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. ([#83](/conference/CUDAN2023-abstract-63.pdf)) |
-| *LONG-12A-3* (16:40-17:00) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. ([#9](/conference/CUDAN2023-abstract-09.pdf)) |
+| *LONG-12A-1* (16:00-16:20) **Levin Brinkmann, Bramantyo Ibrahim Supriyatno, Thomas Franz Müller, and Iyad Rahwan** – Exploring the evolution of artistic styles with generative AI. ([#72](/conference/CUDAN2023-abstract-72.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=25227)) |
+| *LONG-12A-2* (16:20-16:40) **Antonina Korepanova, Davide Pafumi, and Bowei Wang** – Unveiling the subtle art of blame deflection using computational methods: r/AITA through the lens of word embeddings and topic modeling. ([#83](/conference/CUDAN2023-abstract-63.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=26445)) |
+| *LONG-12A-3* (16:40-17:00) **Corinna Coupette, Jilles Vreeken, and Bastian Rieck** – All the world's a (hyper)graph: A data drama. ([#9](/conference/CUDAN2023-abstract-09.pdf)) ([video](https://youtu.be/FGQfBSBgfHs?t=27603)) |
 |                                                              |
 | **16:00-17:00 – Long Talk Session 12B (parallel)** room A046 |
 | *session chair: Mark Mets*                                   |
-| *LONG-12B-1* (16:00-16:20) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. ([#65](/conference/CUDAN2023-abstract-65.pdf)) |
-| *LONG-12B-2* (16:20-16:40) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. ([#56](/conference/CUDAN2023-abstract-56.pdf)) |
+| *LONG-12B-1* (16:00-16:20) **Andres Kõnno and Kais Allkivi-Metsoja** – The role of metadata in interpreting media data as cultural data: The ERR case. ([#65](/conference/CUDAN2023-abstract-65.pdf)) ([video](https://youtu.be/RX-874FhuD0?t=5831)) |
+| *LONG-12B-2* (16:20-16:40) **Folgert Karsdorp, Mike Kestemont, and Melvin Wevers** – Steady formulas, shifting spells: Estimating unseen folktale diversity. ([#56](/conference/CUDAN2023-abstract-56.pdf)) ([video](https://youtu.be/RX-874FhuD0?t=7189)) |
 |                                                              |
 | **17:00-18:00 – Keynote Session 6** room A002                |
-| *KEYNOTE-4* (17:00-18:00) **[Mauro Martino](/conference/CUDAN2023-Martino-keynote.pdf)** – Generativism: The impact of generative models on aesthetics and the human experience. |
-| *CLOSING* (18:00-18:30) **Maximilian Schich** – Farewell (incl. best talk, best poster, and what's next?) |
+| *KEYNOTE-4* (17:00-18:00) **[Mauro Martino](/conference/CUDAN2023-Martino-keynote.pdf)** – Generativism: The impact of generative models on aesthetics and the human experience. ([video](https://youtu.be/FGQfBSBgfHs?t=28971)) |
+| *CLOSING* (18:00-18:30) **Maximilian Schich** – Farewell (incl. best talk, best poster, and what's next?) ([video](https://youtu.be/FGQfBSBgfHs?t=33447)) |
 ### December 17
 | **CUDAN 2023 AFTERGLOW**                                     |
 | ------------------------------------------------------------ |
