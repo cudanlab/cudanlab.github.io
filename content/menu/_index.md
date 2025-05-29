@@ -8,7 +8,8 @@ bookMenuLevels: 1
 <!-- - [Approach]({{< relref "approach" >}}) -->
 <!-- - [ERA Chair]({{< relref "era-chair" >}}) -->
 <!-- - [Positions]({{< relref "positions" >}}) -->
-- [Publications 20-24]({{< relref "publications" >}})
+- [Publications 20-25]({{< relref "publications" >}})
+- [Videos 20-27]({{< relref "videos" >}})
 - [Events 20-27]({{< relref "/events" >}})
 - [Conference 2023]({{< relref "conference" >}})
 <!-- - [News]({{< relref "news" >}}) -->
