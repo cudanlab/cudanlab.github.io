@@ -3,14 +3,14 @@ bookHidden: true
 
 title: "Laura Nelson – CUDAN Lecture"
 event:
-  start: 2025-11-24T16:00:00-00:00
-  end: 2025-11-24T18:00:00-00:00
+  start: 2025-11-17T16:00:00-00:00
+  end: 2025-11-17T18:00:00-00:00
   
 
 
 ---
 
-**When:** 2025-11-24 16:00-18:00 (Tallinn time)   
+**When:** 2025-11-17 16:00-18:00 (Tallinn time)   
 **Where:** A108 & online  
 
 The event is public via zoom:   
