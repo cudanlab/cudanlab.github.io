@@ -4,7 +4,7 @@ bookHidden: true
 title: "Christian Bentz – CUDAN Lecture"
 event:
   start: 2025-11-12T16:00:00-00:00
-  end: 2025-10-13T18:00:00-00:00
+  end: 2025-11-12T18:00:00-00:00
   
 
 
