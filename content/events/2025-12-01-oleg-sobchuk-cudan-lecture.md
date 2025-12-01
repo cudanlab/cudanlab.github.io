@@ -27,7 +27,6 @@ Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany
 Evolution of Literature and the Arts    
 
 ***Links***  
-
 https://www.eva.mpg.de/ecology/staff/oleg-sobchuk/  
 https://www.sobch.uk/  
 ERC MELT: https://ukrainet.eu/2025/09/10/oleg-sobchuk-erc-stg/  
