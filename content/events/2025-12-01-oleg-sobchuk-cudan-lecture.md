@@ -24,8 +24,7 @@ Meeting ID: 946 2995 9885 Passcode: 007238
 Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany    
 
 ***Lecture title***   
-
-*[to be announced]*    
+Evolution of Literature and the Arts    
 
 ***Links***  
 
