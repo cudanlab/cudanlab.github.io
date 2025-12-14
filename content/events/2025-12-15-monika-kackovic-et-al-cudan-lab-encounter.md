@@ -23,8 +23,13 @@ Meeting ID: 946 2995 9885 Passcode: 007238
 **Monika Kackovic et al.**  
 CI/X Business Research Lab, University of Amsterdam    
 
-***Lecture titles***   
-*[to be announced]*
+***Lecture line-up***  
+
+1. Monika Kackovic – "Introduction."
+2. Shuai Want – "ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding."
+3. Teresa Liberatore – "Creative endurance in the fashion industry: Do styles go a long way? A computational approach to organizational and individual style recognizability."
+4. Sumeet Malik will present "The Inheritors’ Dilemma: Descendants Navigating Innovation and Tradition in Bollywood."
+5. Thanos Efthymiou – "Being Ranked in a Material World. The Visual Originality of an Artwork and Its Effects on the Artist’s Canonization."
 
 ***Links***  
 https://www.cix-lab.org/  
