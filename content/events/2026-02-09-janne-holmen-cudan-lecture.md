@@ -25,7 +25,7 @@ Associate Professor in the History of Education, Department of Education, Uppsal
 
 ***Lecture title***   
 
-**A History of Diagrams: Turning Points in the Illustrative Representation of Ideas **  
+**A History of Diagrams: Turning Points in the Illustrative Representation of Ideas**  
 
 ***Abstract***  
 Janne Holmén presents the main results of his recent book that examines the use of diagrams throughout history, from their Paleolithic antecedents to the present day. Drawing on theories and concepts from the cognitive sciences, he explores the evolution of diagrammatic forms and their impact on the accumulation and dissemination of knowledge. This exploration reveals how paradigm shifts in worldviews and advances in image production technologies have shaped the way humans have given spatial form to abstract ideas. Highlighting global trends and regional variations, Holmén offers insights into how different societies have visualised complex ideas over time. Holmén will also present his mental map visulisations of surveys with, among others, Estonian secondary school students, a research project that kindled his interest in diagrams and spatial cognition.  
