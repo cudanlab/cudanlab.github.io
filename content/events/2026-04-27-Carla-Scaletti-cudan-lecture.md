@@ -25,7 +25,7 @@ President, Symbolic Sound Corporation
 
 ***Lecture title***   
 
-**Auditory analytics**   
+**Auditory Analytics**   
 
 ***Links***  
 https://carlascaletti.com/  
