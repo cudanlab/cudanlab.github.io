@@ -25,7 +25,7 @@ Associate Professor in the History of Education, Department of Education, Uppsal
 
 ***Lecture title***   
 
-**A History of Diagrams: Turning Points in the Illustrative Representation of Ideas**  
+**A History of Diagrams: Turning Points in the Illustrative Representation of Ideas.**  
 
 ***Abstract***  
 
