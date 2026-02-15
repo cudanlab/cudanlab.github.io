@@ -25,7 +25,7 @@ Leeward Co.
 
 ***Lecture title***   
 
-**[Optimal Illusions] **  
+**[Optimal Illusions]**  
 
 ***Links***  
 https://cocofolio.com/  
