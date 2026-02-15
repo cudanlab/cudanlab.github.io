@@ -25,7 +25,7 @@ Multimodality Research Group, University of Helsinki, Finland
 
 ***Lecture title***   
 
-**[A Foundation for Empirical Multimodality Research] **  
+**[A Foundation for Empirical Multimodality Research]**  
 
 ***Links***  
 https://www.mv.helsinki.fi/home/thiippal/  
