@@ -25,7 +25,7 @@ Dept. of Information Science, Cornell University, Ithaca/NY
 
 ***Lecture title***   
 
-**Extracting Character Movements**   
+**Extracting Character Movements.**   
 
 ***Links***  
 https://infosci.cornell.edu/people/axel-bax  
