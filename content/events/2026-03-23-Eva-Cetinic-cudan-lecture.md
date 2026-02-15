@@ -25,7 +25,7 @@ Digital Societies Initiative, University of Zurich, Switzerland
 
 ***Lecture title***   
 
-**A Decade of AI in the Interpretation and Creation of Art**   
+**A Decade of AI in the Interpretation and Creation of Art.**   
 
 ***Links***  
 https://www.dsi.uzh.ch/en/people/researchers/dsi-postdocs/ecetinic.html  
