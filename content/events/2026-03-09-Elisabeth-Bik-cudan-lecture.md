@@ -25,7 +25,7 @@ Harbers Bik LLC
 
 ***Lecture title***   
 
-**Errors and Misconduct in Biomedical Research Images **  
+**Errors and Misconduct in Biomedical Research Images.**  
 
 ***Abstract***  
 Science builds upon science. Even after peer review and publication, science papers could still contain images or other data of concern. If not addressed, papers containing incorrect or even falsified data could lead to wasted time and money spent by other researchers trying to reproduce those results. Several high-profile cases of science misconduct have been reported, but many more remain undetected. Elisabeth Bik is an image forensics detective who left her paid job in industry to search for and report biomedical articles that contain errors or data of concern. She has conducted a systematic review of 20,000 papers across 40 journals and found that approximately 4% of these contained inappropriately duplicated images. In her talk, she will present her work and show several types of inappropriately duplicated images and other examples of research misconduct. In addition, she will discuss how Artificial Intelligence can both help identify cases of misconduct and also create them, as well as the growing threat of scientific paper mills.    
