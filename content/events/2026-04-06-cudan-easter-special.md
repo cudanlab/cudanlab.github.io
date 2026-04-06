@@ -25,8 +25,9 @@ QUICK LINKS:
 [https://youtu.be/_MDwv1NPT4o](https://youtu.be/_MDwv1NPT4o)  
   
 2. Ohm (2025): Designing Processes and Tools to Research Similarity Spaces of Visual Collections.
-[https://youtu.be/eZay1OccxxI](https://youtu.be/eZay1OccxxI) 
-  
+[https://youtu.be/eZay1OccxxI](https://youtu.be/eZay1OccxxI)  
+<!--more-->
+
   
 EASTER SPECIAL DETAILS 1/2:  
   
@@ -80,5 +81,3 @@ Soviet View: https://doi.org/10.22148/001c.118495
 https://cudan.tlu.ee/videos/  
 https://www.youtube.com/@CUDANLab  
 
-
-<!--more-->
