@@ -13,9 +13,7 @@ event:
 **When:** 2026-04-13 19:00-20:00 (Tallinn time)   
 **Where:** A108 & online  
 
-The event is public via zoom:   
-https://zoom.us/j/94629959885?pwd=2NktNsXm0SzbzwwmfGbqlk5UZQoARw.1  
-Meeting ID: 946 2995 9885 Passcode: 007238  
+[postponed]
 
 <!--more-->
 ***Speaker***  
