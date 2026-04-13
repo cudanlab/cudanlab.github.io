@@ -29,7 +29,7 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 **[Tillmann Ohm](https://tillmannohm.com/)**: **Designing Processes and Tools to Research Similarity Spaces of Visual Collections.** *CUDAN Open Lab 2026 Easter Special 2/2* (recorded live 2025-06-11, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
 
-**[Maximilian Schich](https://www.schich.info), [Juyong Park](https://pure.kaist.ac.kr/en/persons/juyong-park/), and [Yong-Yeol Ahn](https://yyahn.com/)**: **Cultural Network Science or How it Started (2013)** *CUDAN Open Lab 2026 Easter Special 1/2* (recorded live 2013-11-25, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
+**[Maximilian Schich](https://www.schich.info), [Juyong Park](https://pure.kaist.ac.kr/en/persons/juyong-park/), & [Yong-Yeol Ahn](https://yyahn.com/)**: **Cultural Network Science or How it Started (2013)** *CUDAN Open Lab 2026 Easter Special 1/2* (recorded live 2013-11-25, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
 
 **[Axel Bax](https://infosci.cornell.edu/people/axel-bax) & [David Mimno](https://mimno.infosci.cornell.edu/)**: **Extracting Character Movements** *CUDAN Open Lab Seminar* (2026-03-30)  [DETAILS](https://cudan.tlu.ee/events/2026-03-30-axel-bax-david-mimno-cudan-lecture/)  
 
