@@ -25,7 +25,10 @@ President, Symbolic Sound Corporation
 
 ***Lecture title***   
 
-**Auditory Analytics**   
+**Auditory Analytics: Data Sonification and Analytical Listening for Exploration and Discovery**   
 
+***Abstract***  
+In Auditory Analytics, Data Sonification and Analytical Listening are an integral part of a larger research cycle that includes: collecting raw data, computing derivative datasets, designing multiple mappings of data to sound and visual representations, analytical listening, forming hypotheses, and building tools. From its 19th Century origins as ‘audile technique’ to a case study in molecular dynamics, we’ll explore how the ear can contribute to the discovery of previously undetected patterns in complex, high-dimensional, time-series data.  
+  
 ***Links***  
 https://carlascaletti.com/  
