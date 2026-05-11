@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "CUDAN Lecture"
+title: "Claudia Núñez-Pacheco – CUDAN Lecture"
 event:
   start: 2026-05-18T16:00:00-00:00
   end: 2026-05-18T18:00:00-00:00
