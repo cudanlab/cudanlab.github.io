@@ -15,17 +15,13 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 ## 2026 Spring Seminars (scheduled) 
 
-**to be announced**  *CUDAN Open Lab Seminar* (2026-05-18)  [DETAILS](https://cudan.tlu.ee/events/2026-05-18-cudan-lecture/)  
+**[Claudia Núñez Pacheco](https://claudianunezpacheco.com/)** *CUDAN Open Lab Seminar* (2026-05-18)  [DETAILS](https://cudan.tlu.ee/events/2026-05-18-claudia-n%C3%BA%C3%B1ez-pacheco-cudan-lecture/)  
 
-**to be announced**  *CUDAN Open Lab Seminar* (2026-05-11)  [DETAILS](https://cudan.tlu.ee/events/2026-05-11-cudan-lecture/)  
-
-**to be announced**  *CUDAN Open Lab Seminar* (2026-05-04)  [DETAILS](https://cudan.tlu.ee/events/2026-05-04-cudan-lecture/)  
+**[Frederic Fol Leymarie](https://www.doc.gold.ac.uk/autograff/)**: **Art.Intelligence.Machine. (AIM)**  *CUDAN Open Lab Seminar* (2026-05-11)  [DETAILS](https://cudan.tlu.ee/events/2026-05-11-frederic-fol-leymarie-cudan-lecture/)  
 
 **[Carla Scaletti](https://carlascaletti.com/)**: **Auditory Analytics** *CUDAN Open Lab Seminar* (2026-04-27)  [DETAILS](https://cudan.tlu.ee/events/2026-04-27-carla-scaletti-cudan-lecture/)  
 
 **[Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/)**: **[A Foundation for Empirical Multimodality Research]** *CUDAN Open Lab Seminar* (2026-04-20)  [DETAILS](https://cudan.tlu.ee/events/2026-04-20-tuomo-hiippala-cudan-lecture/)  
-
-**[Coco Krumme](https://cocofolio.com/)**: **[Optimal Illusions]** *CUDAN Open Lab Seminar* [postponed]  [DETAILS](https://cudan.tlu.ee/events/2026-04-13-coco-krumme-cudan-lecture/)  
 
 **[Tillmann Ohm](https://tillmannohm.com/)**: **Designing Processes and Tools to Research Similarity Spaces of Visual Collections.** *CUDAN Open Lab 2026 Easter Special 2/2* (recorded live 2025-06-11, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
 
