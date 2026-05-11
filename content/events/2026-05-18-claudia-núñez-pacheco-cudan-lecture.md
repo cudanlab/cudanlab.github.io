@@ -19,5 +19,10 @@ Meeting ID: 946 2995 9885 Passcode: 007238
 
 <!--more-->
 ***Speaker***  
+Claudia Núñez-Pacheco
 
+***Lecture title & abstract***
 to be announced
+
+***Website***
+https://claudianunezpacheco.com/
