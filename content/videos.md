@@ -21,7 +21,7 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 **[Carla Scaletti](https://carlascaletti.com/)**: **Auditory Analytics** *CUDAN Open Lab Seminar* (2026-04-27)  [DETAILS](https://cudan.tlu.ee/events/2026-04-27-carla-scaletti-cudan-lecture/)  
 
-**[Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/)**: **[A Foundation for Empirical Multimodality Research]** *CUDAN Open Lab Seminar* (2026-04-20)  [DETAILS](https://cudan.tlu.ee/events/2026-04-20-tuomo-hiippala-cudan-lecture/)  
+**[Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/)**: **A Multimodal Perspective to Cultural Data Analytics.** *CUDAN Open Lab Seminar* (2026-04-20)  [DETAILS](https://cudan.tlu.ee/events/2026-04-20-tuomo-hiippala-cudan-lecture/)  
 
 **[Tillmann Ohm](https://tillmannohm.com/)**: **Designing Processes and Tools to Research Similarity Spaces of Visual Collections.** *CUDAN Open Lab 2026 Easter Special 2/2* (recorded live 2025-06-11, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
 
