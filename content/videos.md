@@ -17,28 +17,28 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 **[Claudia Núñez Pacheco](https://claudianunezpacheco.com/)** *CUDAN Open Lab Seminar* (2026-05-18)  [DETAILS](https://cudan.tlu.ee/events/2026-05-18-claudia-n%C3%BA%C3%B1ez-pacheco-cudan-lecture/)  
 
-**[Frederic Fol Leymarie](https://www.doc.gold.ac.uk/autograff/)**: **Art.Intelligence.Machine. (AIM)**  *CUDAN Open Lab Seminar* (2026-05-11)  [DETAILS](https://cudan.tlu.ee/events/2026-05-11-frederic-fol-leymarie-cudan-lecture/)  
+**[Frederic Fol Leymarie](https://www.doc.gold.ac.uk/autograff/)**: **Art.Intelligence.Machine. (AIM)**  *CUDAN Open Lab Seminar* (2026-05-11) [VIDEO](https://youtu.be/ye-_jt9W_Lc) [DETAILS](https://cudan.tlu.ee/events/2026-05-11-frederic-fol-leymarie-cudan-lecture/)  
 
-**[Carla Scaletti](https://carlascaletti.com/)**: **Auditory Analytics** *CUDAN Open Lab Seminar* (2026-04-27)  [DETAILS](https://cudan.tlu.ee/events/2026-04-27-carla-scaletti-cudan-lecture/)  
+**[Carla Scaletti](https://carlascaletti.com/)**: **Auditory Analytics** *CUDAN Open Lab Seminar* (2026-04-27) [VIDEO](https://youtu.be/hQXgs2os4vc) [DETAILS](https://cudan.tlu.ee/events/2026-04-27-carla-scaletti-cudan-lecture/)  
 
 **[Tuomo Hiippala](https://www.mv.helsinki.fi/home/thiippal/)**: **A Multimodal Perspective to Cultural Data Analytics.** *CUDAN Open Lab Seminar* (2026-04-20)  [DETAILS](https://cudan.tlu.ee/events/2026-04-20-tuomo-hiippala-cudan-lecture/)  
 
-**[Tillmann Ohm](https://tillmannohm.com/)**: **Designing Processes and Tools to Research Similarity Spaces of Visual Collections.** *CUDAN Open Lab 2026 Easter Special 2/2* (recorded live 2025-06-11, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
+**[Tillmann Ohm](https://tillmannohm.com/)**: **Designing Processes and Tools to Research Similarity Spaces of Visual Collections.** *CUDAN Open Lab 2026 Easter Special 2/2* (recorded live 2025-06-11, published 2026-04-06) [VIDEO](https://youtu.be/eZay1OccxxI) [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
 
-**[Maximilian Schich](https://www.schich.info), [Juyong Park](https://pure.kaist.ac.kr/en/persons/juyong-park/), & [Yong-Yeol Ahn](https://yyahn.com/)**: **Cultural Network Science or How it Started (2013)** *CUDAN Open Lab 2026 Easter Special 1/2* (recorded live 2013-11-25, published 2026-04-06)  [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
+**[Maximilian Schich](https://www.schich.info), [Juyong Park](https://pure.kaist.ac.kr/en/persons/juyong-park/), & [Yong-Yeol Ahn](https://yyahn.com/)**: **Cultural Network Science or How it Started (2013)** *CUDAN Open Lab 2026 Easter Special 1/2* (recorded live 2013-11-25, published 2026-04-06) [VIDEO](https://youtu.be/_MDwv1NPT4o) [DETAILS](https://cudan.tlu.ee/events/2026-04-06-cudan-open-lab-easter-special/)  
 
-**[Axel Bax](https://infosci.cornell.edu/people/axel-bax) & [David Mimno](https://mimno.infosci.cornell.edu/)**: **Extracting Character Movements** *CUDAN Open Lab Seminar* (2026-03-30)  [DETAILS](https://cudan.tlu.ee/events/2026-03-30-axel-bax-david-mimno-cudan-lecture/)  
+**[Axel Bax](https://infosci.cornell.edu/people/axel-bax) & [David Mimno](https://mimno.infosci.cornell.edu/)**: **Extracting Character Movements** *CUDAN Open Lab Seminar* (2026-03-30) [VIDEO](https://youtu.be/c6Cvs9ia2PI) [DETAILS](https://cudan.tlu.ee/events/2026-03-30-axel-bax-david-mimno-cudan-lecture/)  
 
-**[Eva Cetinic](https://www.dsi.uzh.ch/en/people/researchers/dsi-postdocs/ecetinic.html)**: **A Decade of AI in the Interpretation and Creation of Art** *CUDAN Open Lab Seminar* (2026-03-23)  [DETAILS](https://cudan.tlu.ee/events/2026-03-23-eva-cetinic-cudan-lecture/)   
+**[Eva Cetinic](https://www.dsi.uzh.ch/en/people/researchers/dsi-postdocs/ecetinic.html)**: **A Decade of AI in the Interpretation and Creation of Art** *CUDAN Open Lab Seminar* (2026-03-23) [VIDEO](https://youtu.be/u9rpdxyeps4) [DETAILS](https://cudan.tlu.ee/events/2026-03-23-eva-cetinic-cudan-lecture/)   
 
-**[Elisabeth Bik](https://www.linkedin.com/in/elisabeth-bik-4376782/)**: **Errors and Misconduct in Biomedical Research Images.** *CUDAN Open Lab Seminar* (2026-03-09)  [DETAILS](https://cudan.tlu.ee/events/2026-03-09-elisabeth-bik-cudan-lecture/)  
+**[Elisabeth Bik](https://www.linkedin.com/in/elisabeth-bik-4376782/)**: **Errors and Misconduct in Biomedical Research Images.** *CUDAN Open Lab Seminar* (2026-03-09) [VIDEO](https://youtu.be/BW1b2Wvq8VU) [DETAILS](https://cudan.tlu.ee/events/2026-03-09-elisabeth-bik-cudan-lecture/)  
 
 **[Olivier Morin](http://linktr.ee/oliviermorin)**: **Two questions about the evolution of writing &
-How well-designed are languages and other tools for communication?** *CUDAN Open Lab Seminar* (2026-03-02)  [DETAILS](https://cudan.tlu.ee/events/2026-03-02-olivier-morin-cudan-lecture/)  
+How well-designed are languages and other tools for communication?** *CUDAN Open Lab Seminar* (2026-03-02) [VIDEO](https://youtu.be/ZW28PrMMeRo) [DETAILS](https://cudan.tlu.ee/events/2026-03-02-olivier-morin-cudan-lecture/)  
 
-**[David G. Stork](https://mse.stanford.edu/people/david-stork)**: **When Computers look at art: Recent triumphs and future opportunities for computer-assisted connoisseurship of fine art paintings and drawings.** *CUDAN Open Lab Seminar* (2026-02-16)  [DETAILS](https://cudan.tlu.ee/events/2026-02-16-david-stork-cudan-lecture/)  
+**[David G. Stork](https://mse.stanford.edu/people/david-stork)**: **When Computers look at art: Recent triumphs and future opportunities for computer-assisted connoisseurship of fine art paintings and drawings.** *CUDAN Open Lab Seminar* (2026-02-16) [VIDEO](https://youtu.be/e99ukggh0aY) [DETAILS](https://cudan.tlu.ee/events/2026-02-16-david-stork-cudan-lecture/)  
 
-**[Janne Holmén](https://www.uu.se/en/contact-and-organisation/staff?query=N0-764)**: **A History of Diagrams: Turning Points in the Illustrative Representation of Ideas.** *CUDAN Open Lab Seminar* (2026-02-09)  [DETAILS](https://cudan.tlu.ee/events/2026-02-09-janne-holmen-cudan-lecture/)  
+**[Janne Holmén](https://www.uu.se/en/contact-and-organisation/staff?query=N0-764)**: **A History of Diagrams: Turning Points in the Illustrative Representation of Ideas.** *CUDAN Open Lab Seminar* (2026-02-09) [VIDEO](https://youtu.be/Fjl_gjH_uQs) [DETAILS](https://cudan.tlu.ee/events/2026-02-09-janne-holmen-cudan-lecture/)  
 
 ## 2025 Fall Seminars  
 
