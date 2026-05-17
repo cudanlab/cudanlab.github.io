@@ -15,7 +15,7 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 ## 2026 Spring Seminars (scheduled) 
 
-**[Claudia Núñez Pacheco](https://claudianunezpacheco.com/)** *CUDAN Open Lab Seminar* (2026-05-18)  [DETAILS](https://cudan.tlu.ee/events/2026-05-18-claudia-n%C3%BA%C3%B1ez-pacheco-cudan-lecture/)  
+**[Claudia Núñez Pacheco](https://claudianunezpacheco.com/)**: **The Felt Sense as a Design Material: The Body as a Source of Tacit Knowledge in Human-Computer Interaction (HCI).** *CUDAN Open Lab Seminar* (2026-05-18)  [DETAILS](https://cudan.tlu.ee/events/2026-05-18-claudia-n%C3%BA%C3%B1ez-pacheco-cudan-lecture/)  
 
 **[Frederic Fol Leymarie](https://www.doc.gold.ac.uk/autograff/)**: **Art.Intelligence.Machine. (AIM)**  *CUDAN Open Lab Seminar* (2026-05-11) [VIDEO](https://youtu.be/ye-_jt9W_Lc) [DETAILS](https://cudan.tlu.ee/events/2026-05-11-frederic-fol-leymarie-cudan-lecture/)  
 
