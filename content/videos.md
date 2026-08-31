@@ -13,7 +13,7 @@ Less than a handful of Open Lab Seminar sessions have not been recorded, upon re
 
 Video recordings of the 2023 CUDAN conference contributions are directly available via the conference page, now including direct links from individual contributions in the updated [conference schedule](https://cudan.tlu.ee/conference/).
 
-## 2026 Spring Seminars (scheduled) 
+## 2026 Spring Seminars 
 
 **[Claudia Núñez Pacheco](https://claudianunezpacheco.com/)**: **The Felt Sense as a Design Material: The Body as a Source of Tacit Knowledge in Human-Computer Interaction (HCI).** *CUDAN Open Lab Seminar* (2026-05-18)  [DETAILS](https://cudan.tlu.ee/events/2026-05-18-claudia-n%C3%BA%C3%B1ez-pacheco-cudan-lecture/)  
 
