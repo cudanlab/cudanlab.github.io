@@ -1,7 +1,7 @@
 ---
 bookHidden: true
 
-title: "Francis Heylighen – CUDAN Lab Encounter"
+title: "Francis Heylighen – CUDAN Lecture"
 event:
   start: 2026-10-12T16:00:00-00:00
   end: 2026-10-12T18:00:00-00:00
