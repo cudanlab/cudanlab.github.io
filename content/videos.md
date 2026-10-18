@@ -17,17 +17,17 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 > The 2026 Fall Seminars, running from September to December will be announced in the [event section](https://cudan.tlu.ee/events/) of this website. Session recordings will be published in the [@CUDANLab youtube channel](https://www.youtube.com/@CUDANLab/videos) and listed here for the record.
 
-**[Matteo Romanello](https://mromanello.github.io/)**: **[to be announced]** *CUDAN Open Lab Seminar* (2026-12-14)  [DETAILS](https://cudan.tlu.ee/events/2026-12-14-Matteo-Romanello-cudan-lecture/) 
+**[Matteo Romanello](https://mromanello.github.io/)**: **Agentic Question-Answering over Knowledge Graphs.** *CUDAN Open Lab Seminar* (2026-12-14)  [DETAILS](https://cudan.tlu.ee/events/2026-12-14-Matteo-Romanello-cudan-lecture/) 
 
 **[Ludovica Schaerf](https://ludovicaschaerf.github.io/portfolio/)**: **Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations.** *CUDAN Open Lab Seminar* (2026-12-07)  [DETAILS](https://cudan.tlu.ee/events/2026-12-07-Ludovica-Schaerf-cudan-lecture/) 
 
-**[Jin Kim, Byunghwee Lee, Taekho You, Jinhyuk Yun](https://www.pnas.org/doi/10.1073/pnas.2517969123)**: **Context-aware multimodal AI navigates hidden pathways in five centuries of art evolution.** *CUDAN Open Lab Seminar* (2026-11-30)  [DETAILS](https://cudan.tlu.ee/events/2026-11-30-Jin-Kim-et-al-cudan-lecture/) 
+**[Jin Kim, Byunghwee Lee, Taekho You, Jinhyuk Yun](https://www.pnas.org/doi/10.1073/pnas.2517969123)**: **Context-aware multimodal AI navigates hidden pathways in five centuries of art evolution.** *CUDAN Open Lab Seminar* (2026-11-30)  [DETAILS](https://cudan.tlu.ee/events/2026-11-30-Kim-Lee-You-Yun-cudan-lecture/) 
 
-**[Ian Johnson](https://enjalot.substack.com/)**: **[Latent Interfaces].** *CUDAN Open Lab Seminar* (2026-11-23)  [DETAILS](https://cudan.tlu.ee/events/2026-11-23-Ian-Johnson-cudan-lecture/) 
+**[Ian Johnson](https://enjalot.substack.com/)**: **Latent Interfaces.** *CUDAN Open Lab Seminar* (2026-11-23)  [DETAILS](https://cudan.tlu.ee/events/2026-11-23-Ian-Johnson-cudan-lecture/) 
 
-**[Ross Purves](https://user.geo.uzh.ch/rpurve/)**: **[to be announced]** *CUDAN Open Lab Seminar* (2026-11-16)  [DETAILS](https://cudan.tlu.ee/events/2026-11-16-Ross-Purves-cudan-lecture/) 
+**[Ross Purves](https://user.geo.uzh.ch/rpurve/)**: **Place, Landscape and Language.** *CUDAN Open Lab Seminar* (2026-11-16)  [DETAILS](https://cudan.tlu.ee/events/2026-11-16-Ross-Purves-cudan-lecture/) 
 
-**[Max Falkenberg](https://www.maxfalkenberg.com/)**: **[to be announced]** *CUDAN Open Lab Seminar* (2026-11-09)  [DETAILS](https://cudan.tlu.ee/events/2026-11-09-Max-Falkenberg-cudan-lecture/) 
+**[Max Falkenberg](https://www.maxfalkenberg.com/)**: **Mapping Country-Level Issue Alignment Across Contested and Consensus Topics.** *CUDAN Open Lab Seminar* (2026-11-09)  [DETAILS](https://cudan.tlu.ee/events/2026-11-09-Max-Falkenberg-cudan-lecture/) 
 
 **[Maria Antoniak](https://maria-antoniak.github.io/)**: **In the Garden of Forking Paths: Mapping and Making Sense of Storytelling at Scale.** *CUDAN Open Lab Seminar* (2026-10-19)  [DETAILS](https://cudan.tlu.ee/events/2026-10-19-Maria-Antoniak-cudan-lecture/) 
 
