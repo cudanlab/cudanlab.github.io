@@ -17,7 +17,7 @@ Video recordings of the 2023 CUDAN conference contributions are directly availab
 
 > The 2026 Fall Seminars, running from September to December will be announced in the [event section](https://cudan.tlu.ee/events/) of this website. Session recordings will be published in the [@CUDANLab youtube channel](https://www.youtube.com/@CUDANLab/videos) and listed here for the record.
 
-**[Francis Heylighen](https://pespmc1.vub.ac.be/HEYL.html)**: **Stigmergy and collective intelligence: coordination without control** *CUDAN Open Lab Seminar* (2026-10-12)  [DETAILS](https://cudan.tlu.ee/events/2026-10-12-Francis-Heylighen-cudan-lecture/)  
+**[Francis Heylighen](https://pespmc1.vub.ac.be/HEYL.html)**: **Stigmergy and collective intelligence: coordination without control** *CUDAN Open Lab Seminar* (2026-10-12) [VIDEO](https://youtu.be/91Ph63q3nPw) [DETAILS](https://cudan.tlu.ee/events/2026-10-12-Francis-Heylighen-cudan-lecture/)  
 
 **[Kaisa Langer et al.](https://www.etkad.ee/en/humal/)**: **Lab Encounter with the Humanities Data Lab (HUMAL).** *CUDAN Open Lab Seminar* (2026-09-28) [VIDEO](https://youtu.be/umEhIA2fcMI) [DETAILS](https://cudan.tlu.ee/events/2026-09-28-kaisa-et-al-cudan-lab-encounter/)  
 
