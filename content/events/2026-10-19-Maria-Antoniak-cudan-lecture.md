@@ -19,7 +19,7 @@ Meeting ID: 688 3016 0239 Passcode: 230036
 
 <!--more-->
 ***Speakers***  
-**Maria Antoniak**
+**Maria Antoniak**  
 Assistant Professor of Computer Science, University of Colorado Boulder
 
 ***Lecture title***  
