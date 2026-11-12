@@ -25,5 +25,8 @@ Department of Geography, University of Zurich, Switzerland
 ***Lecture title***  
 **Place, Landscape and Language.**    
 
+***Abstract***  
+In my talk I will discuss efforts in our group to conceptualise and operationalise the concept of place, in the context of landscape research, through the analysis of language. I will link our work to theory in different fields and show examples of our ongoing research using a range of methods including empirical research and text analysis. I'll emphasise some challenges in operationalisation, and try to give an overview of ways in which I think this research can contribute to ongoing challenges in particular with respect to capturing the diversity of ways in which landscape can be understood.  
+
 ***Website***  
 https://user.geo.uzh.ch/rpurve/   
