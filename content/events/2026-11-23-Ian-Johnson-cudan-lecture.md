@@ -23,7 +23,10 @@ Meeting ID: 688 3016 0239 Passcode: 230036
 Orbital & Latent Interfaces LLC   
 
 ***Lecture title***  
-**[Latent Interfaces].**    
+**Latent Interfaces: Building Data Instruments**  
+
+***Abstract***  
+The inner-workings of Machine Learning and AI models can be fashioned into a lens through which to gain a new perspective on large amounts of unstructured data. This talk catalogues my explorations in fashioning instruments for visualizing data through these lenses. I will take us on a tour of thousands of dad jokes, hundreds of thousands of molecules, millions of illustrations and a hundred million scientific images. We will discuss how we can use and improve on these instruments with agents, and the potential for finding wonder in overwhelming tidal wave of data.  
 
 ***Website***  
 https://enjalot.substack.com/   
